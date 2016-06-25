@@ -24,11 +24,6 @@ void readCSV(istream &input, CSVDatabase &database, int _idColumn, int _indexCol
 
 
 //--------------------------Functions-----------------------------
-void removeCharsFromString( string &str, char* charsToRemove ) {
-   for ( unsigned int i = 0; i < strlen(charsToRemove); ++i ) {
-      str.erase( remove(str.begin(), str.end(), charsToRemove[i]), str.end() );
-   }
-}
 
 bool readCSV(const char* FilePath, CSVDatabase &database, int _idColumn, int _indexColumn, int n_CHAR){
 
@@ -43,39 +38,45 @@ bool readCSV(const char* FilePath, CSVDatabase &database, int _idColumn, int _in
 	// Read file data
 	readCSV(file, database, _idColumn, _indexColumn, n_CHAR);
 
-	return true;
+	if(database.size() > 0)
+		return true;
+
+	cout << "No attributes.\n";
+		return false;
 }
 
 void readCSV(istream &input, CSVDatabase &database, int _idColumn, int _indexColumn, int n_CHAR){
 		
 	string csvLine;
+	database.clear();
+	int counter = 0;
 	// Read every line from file
-	getline(input, csvLine);// remove first line;
-
+	//getline(input, csvLine);// remove first line;
 
 	while(getline(input, csvLine)){
+
 		//Read current line from file
 		stringstream csvStream(csvLine);// Convert string to stringstream, cause is required to 'getLine'
 		CSVRow csvRow;
 		string csvCol;
 		
-		int counter = 0;
 		//Read each column of current line in file
 		while(getline(csvStream, csvCol, ',')){
+
+			csvCol = csvCol.substr(0,n_CHAR);
 			//Insert current column in CSVROW line
-			if(counter == _idColumn || counter == _indexColumn){
-				csvCol.erase(remove(csvCol.begin(), csvCol.end(), '\"'), csvCol.end());
-				csvCol = csvCol.substr(0,n_CHAR);
+			//if(counter == _idColumn || counter == _indexColumn){
+				//csvCol.erase(remove(csvCol.begin(), csvCol.end(), '\"'), csvCol.end());
 				csvRow.push_back(csvCol);
-				if(_indexColumn == _idColumn)
-					csvRow.push_back(csvCol);
-			}
+			//}
 	  		counter++;
 		}
+		counter = 0;
 		//Insert curren CSRow in database
+		//if(csvRow.size() > 0)
 		database.push_back(csvRow);
-		
 	}
+
 }
 
 void display(const CSVDatabase &database){
@@ -86,6 +87,7 @@ void display(const CSVDatabase &database){
 	// Get the first row
 	CSVDatabaseIterator row = database.begin();
 	// Foreach row
+	int i = 0 ;
 	for(; row != database.end(); ++row){
 		//Verify if row contains data
 		if(!row->size())
@@ -93,7 +95,8 @@ void display(const CSVDatabase &database){
   		// Get the first column
   		CSVRowIterator column = row->begin();
   		// Print first column, to no show ','
-  		cout<<*(column++);
+
+  		cout<< i++ << "->" <<*(column++);
   		//Print others columns
   		for(;column != row->end();++column)
     		cout<<','<<*column;
@@ -106,8 +109,10 @@ void groupBy(CSVDatabase &database, int _indexId, int _indexColumn){
 
 	CSVDatabase _Temp;
 
-	if(!database.size())
+	if(!database.size()){
+		cout << "";
 		return;
+	}
 
 	int count = 1;
 
@@ -120,7 +125,7 @@ void groupBy(CSVDatabase &database, int _indexId, int _indexColumn){
 		offset += database[count-1][_indexId];
 		
 		while(count < database.size() && !database[count][_indexColumn].compare(database[count-1][_indexColumn])){
-			offset += "," + database[count][_indexId];
+			offset += "-" + database[count][_indexId];
 			count++;
 		}
 
@@ -132,6 +137,5 @@ void groupBy(CSVDatabase &database, int _indexId, int _indexColumn){
 	}
 	database = _Temp;
 }
-
 
 

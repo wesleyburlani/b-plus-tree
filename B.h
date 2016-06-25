@@ -32,10 +32,16 @@ class Node{
 			_nextList = NULL;
 			_lastList = NULL;
 			_isLeaf = leaf ? true : false;
-			if(_isLeaf)
+			_keys.clear();
+			_numberKeys = 0;
+			if(_isLeaf){
 				_paths.resize(order-1);
-			else
+				_paths.clear();
+			}
+			else{
 				_pointers.resize(order);
+				_pointers.clear();
+			}
 		}
 
 		Node(int order){
@@ -46,6 +52,8 @@ class Node{
 			_lastList = NULL;
 			_numberKeys = 0;
 			_isLeaf = false;
+			_keys.clear();
+			_pointers.clear();
 		}
 
 		void _sortKeys(){
@@ -57,9 +65,9 @@ class Node{
 void BppInsert(Node* &tree, KeyType value, int n_Order);
 Node* getNodeToAdd(Node* node, KeyType value);
 bool SplitVector(Node* &base, KeyType &upper, Node* &left, Node* &right);
-void BppInsert(Node* &tree, KeyType value, int n_Order);
 void printTree(Node* &tree, int tabs);
-void UpFirsts(vector<Node*> &_nodes, int n_Order,Node* &tree);
+void UpFirsts(vector<string> &_Keys, vector<Node*> &_Pointers, int n_Order, Node* &tree);
 void BulkLoadingInsert(Node* &tree, CSVDatabase &_Table, int n_Order, int _Column);
+bool searchPathByKey(Node* &tree, KeyType key, KeyType &path);
 void RemoveNode(KeyType id, Node* &tree, CSVDatabase &_Table, CSVDatabase &_NoGroup, int n_Order, int _Column);
 void RemoveNodeOfVector(Node* &_node, KeyType _searchKey, int _index, int n_Order);

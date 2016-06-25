@@ -48,7 +48,6 @@ void showVector(vector<KeyType> _vector, int size){
     cout << '\n';
 }
 
-
 void ShowListOfVectors(vector<Node*> _nodes){
 
 	for(int i = 0; i < _nodes.size(); i++){
@@ -62,6 +61,8 @@ void _sort(vector<KeyType> &_vector, int size){
 	 sort (_vector.begin(), _vector.begin() + size);
 }
 
+// --------------------------Binary Searches-----------------------------
+
 int BinarySearch(KeyType value, CSVDatabase _vector, int _left, int _right){
    	
     int _index = (_left + _right)/2;
@@ -70,7 +71,7 @@ int BinarySearch(KeyType value, CSVDatabase _vector, int _left, int _right){
  	if (!position.compare(value))
  		return _index;
  	
- 	if (_left == _right)
+ 	if (_left == _right || _left > _right)
  		return -1; 
  	
  	if (position.compare(value)<0)
@@ -96,5 +97,24 @@ int BinarySearch(KeyType value, vector<KeyType> _vector, int _left, int _right){
  	return BinarySearch(value, _vector, _left, _index-1);
 }
 
+bool DataCollect(int &n_ATTR, int &n_CHAR, int &n_ORDER){
+
+	cout<< "Enter with number of attribute : ";
+	
+	scanf("%d",&n_ATTR);
+
+    cout<< "Alright!\nEnter with number of characters that you want ot index: ";
+    scanf("%d",&n_CHAR);
+
+    cout<< "Ok.. Enter with order of tree: ";
+	while(scanf("%d",&n_ORDER) && n_ORDER < 3){
+
+	  cout << "Oops.. The order of tree must be a integer greater than 2..\n"; 
+	  cout << "please, re-enter: "; 
+	}
+
+	return true;
+}
+// -------------------------------------------------------------------------
 
 
