@@ -1,0 +1,1286 @@
+1,journals/tosem/DillonKMMR94,A Graphical Interval Logic for Specifying Concurrent Systems.,Laura K. Dillon   G. Kutty   Louise E. Moser   P. M. Melliar-Smith   Y. S. Ramakrishna   ,1994
+2,journals/cacm/FurnasLGD87,The Vocabulary Problem in Human-System Communication.,George W. Furnas   Thomas K. Landauer   Louis M. Gomez   Susan T. Dumais   ,1987
+3,journals/coling/HirschbergL94,Empirical Studies on the Disambiguation of Cue Phrases.,Julia Hirschberg   Diane J. Litman   ,1993
+4,journals/eswa/ChenWL11,A general knowledge mediation infrastructure for multi-agent systems.,Kun Chen   Huaiqing Wang   Hokyin Lai   ,2011
+5,conf/dlog/KaminskiS09,Terminating Tableaux for SOQ with Number Restrictions on Transitive Roles.,Mark Kaminski   Gert Smolka   ,2009
+6,conf/cg/Cazenave00,Abstract Proof Search.,Tristan Cazenave   ,2000
+7,conf/ilp/DomingosKLPRS08,Markov Logic.,Pedro Domingos   Stanley Kok   Daniel Lowd   Hoifung Poon   Matthew Richardson   Parag Singla   ,2008
+8,conf/ijcai/DaiMW09,Domain-Independent Automatic Partitioning for Probabilistic Planning.,Peng Dai   Mausam   Daniel S. Weld   ,2009
+9,conf/aaai/DaiMW10,Decision-Theoretic Control of Crowd-Sourced Workflows.,Peng Dai   Mausam   Daniel S. Weld   ,2010
+10,journals/tsp/SherlockM98,On the space of orthonormal wavelets.,Barry G. Sherlock   Donald M. Monro   ,1998
+11,conf/pg/BajajIP99,Making 3D Textures Practical.,Chandrajit L. Bajaj   Insung Ihm   Sanghun Park   ,1999
+12,conf/wise/TorloneA01,A Unified Framework for Data Translation over the Web.,Riccardo Torlone   Paolo Atzeni   ,2001
+13,conf/sc/CrawfisMBC93,Volume rendering of 3D scalar and vector fields at LLNL.,Roger Crawfis   Nelson L. Max   Barry G. Becker   Brian Cabral   ,1993
+14,conf/uai/WellmanL94,State-Space Abstraction for Anytime Evaluation of Probabilistic Networks.,Michael P. Wellman   Chao-Lin Liu   ,1994
+15,journals/bc/FahleP91,Perceptual rivalry between illusory and real contours.,Manfred Fahle   G uuml,
+16,conf/dagm/DenglerS90,The Pseudo-Logarithmic Transformation for Robust Displacement Estimation.,Joachim Dengler   Markus Schmidt   ,1990
+17,conf/dagm/UlgesB08,A Local Discriminative Model for Background Subtraction.,Adrian Ulges   Thomas M. Breuel   ,2008
+18,journals/pami/KulisJG09,Fast Similarity Search for Learned Metrics.,Brian Kulis   Prateek Jain   Kristen Grauman   ,2009
+19,journals/heuristics/MitoF04,On Heuristics for Solving Winner Determination Problem in Combinatorial Auctions.,Masaya Mito   Satoshi Fujita   ,2004
+20,conf/ausai/LimT05,A Lagrangian Heuristic for Winner Determination Problem in Combinatorial Auctions.,Andrew Lim   Jiqing Tang   ,2005
+21,conf/iat/MitoF03,On Heuristics for Solving Winner Determination Problem in Combinatorial Auctions.,Masaya Mito   Satoshi Fujita   ,2003
+22,conf/isaac/BachooreB07,Weighted Treewidth Algorithmic Techniques and Results.,Emgad H. Bachoore   Hans L. Bodlaender   ,2007
+23,conf/amfg/TianBCPHSB03,Absolute Head Pose Estimation From Overhead Wide-Angle Cameras.,Ying-li Tian   Lisa M. G. Brown   Jonathan H. Connell   Sharath Pankanti   Arun Hampapur   Andrew W. Senior   Ruud M. Bolle   ,2003
+24,conf/iscas/MaharatnaTKGJ04,A CORDIC like processor for computation of arctangent and absolute magnitude of a vector.,Koushik Maharatna   Alfonso Troya   Milos Krstic   Eckhard Grass   Ulrich Jagdhold   ,2004
+25,journals/vc/ThalmannRMR85,A model for the three-dimensional reconstruction and animation of the human heart.,Daniel Thalmann   O. Ratib   Nadia Magnenat-Thalmann   A. Righetti   ,1985
+26,conf/hpcn/ChiccoliPSZ01,Monte Carlo Simulations of a Biaxial Liquid Crystal Model Using the Condor Processing System.,C. Chiccoli   P. Pasini   F. Semeria   C. Zannoni   ,2001
+27,journals/tcad/SalehN89,The exploitation of latency and multirate behavior using nonlinear relaxation for circuit simulation.,Resve A. Saleh   A. Richard Newton   ,1989
+28,journals/computer/NarasimhanMM99,Using Interceptors to Enhance CORBA.,Priya Narasimhan   Louise E. Moser   P. M. Melliar-Smith   ,1999
+29,conf/compsac/MoserMT02,Online Upgrades Become Standard.,Louise E. Moser   P. M. Melliar-Smith   L. A. Tewksbury   ,2002
+30,conf/compsac/ZhaoMM02,On Bootstrapping Replicated CORBA Applications.,Wenbing Zhao   Louise E. Moser   P. M. Melliar-Smith   ,2002
+31,conf/csfw/Melliar-SmithM91,Protection against Covert Storage and Timing Channels.,P. M. Melliar-Smith   Louise E. Moser   ,1991
+32,conf/icdcs/ChenMM96,Reservation-Based Totally Ordered Multicasting.,Xiaomin Chen   Louise E. Moser   P. M. Melliar-Smith   ,1996
+33,conf/acm/ValerioMMS94,The QuickRing Network.,Marcos Valerio   Louise E. Moser   P. M. Melliar-Smith   Paul Sweazey   ,1994
+34,conf/acm/MoserM93,Analysis of Timing Hazards in Ada Programs.,Louise E. Moser   P. M. Melliar-Smith   ,1993
+35,conf/oodbs/MossS88,Managing Persistent Data with Mneme Designing a Reliable Shared Object Interface.,J. Eliot B. Moss   Steven Sinofsky   ,1988
+36,journals/scp/ChungS07,Bridging the gap between enterprise architectures and software architectures.,Lawrence Chung   Nary Subramanian   ,2007
+37,journals/eccc/ECCC-TR94-012,Bounds for the Computational Power and Learning Complexity of Analog Neural Nets,Wolfgang Maass   ,1994
+38,journals/siamcomp/Maass97,Bounds for the Computational Power and Learning Complexity of Analog Neural Nets.,Wolfgang Maass   ,1997
+39,conf/colt/Maass91,On-Line Learning with an Oblivious Environment and the Power of Randomization.,Wolfgang Maass   ,1991
+40,conf/stoc/Maass93,Bounds for the computational power and learning complexity of analog neural nets.,Wolfgang Maass   ,1993
+41,conf/aaai/LevesqueCN90,On Acting Together.,Hector J. Levesque   Philip R. Cohen   Jos eacute,
+42,conf/icip/BylundAK05,Interactive 3D filter design for ultrasound artifact reduction.,Nina Eriksson Bylund   Mats T. Andersson   Hans Knutsson   ,2005
+43,journals/tods/AgrawalCL87,Concurrency Control Performance Modeling Alternatives and Implications.,Rakesh Agrawal   Michael J. Carey   Miron Livny   ,1987
+44,journals/software/ShrivastavaDP91,An Overview of the Arjuna Distributed Programming System.,Santosh K. Shrivastava   Graeme N. Dixon   Graham D. Parrington   ,1991
+45,conf/agents/PappachanD01,A satisficing multiagent plan coordinating algorithm for dynamic domains.,Pradeep M. Pappachan   Edmund H. Durfee   ,2001
+46,conf/c++/VlissidesL88,Applying Object-Oriented Design to Structured Graphics.,John M. Vlissides   Mark A. Linton   ,1988
+47,journals/sigplan/Skarra89,Concurrency control for cooperating transactions in an object-oriented database.,Andrea H. Skarra   ,1989
+48,journals/corr/cs-CY-0304032,Growth in the New Economy U.S. Bandwidth Use and Pricing Across the 1990s,Douglas A. Galbi   ,2003
+49,journals/ton/GibbensKT93,Dynamic routing in multiparented networks.,Richard J. Gibbens   Frank P. Kelly   Stephen R. E. Turner   ,1993
+50,conf/oopsla/BalK93,Object Distribution in Orca using Compile-Time and Run-Time Techniques.,Henri E. Bal   M. Frans Kaashoek   ,1993
+51,journals/tkde/DasguptaNMM99,MAgNET Mobile Agents for Networked Electronic Trading.,Prithviraj Dasgupta   Nitya Narasimhan   Louise E. Moser   P. M. Melliar-Smith   ,1999
+52,conf/rtss/MoserM94,Probabilistic Bounds on Message Delivery for the Totem Single-Ring Protocol.,Louise E. Moser   P. M. Melliar-Smith   ,1994
+53,conf/icppw/MoserMKB99,A Group Communication Protocol for CORBA.,Louise E. Moser   P. M. Melliar-Smith   Ruppert R. Koch   K. Berket   ,1999
+54,conf/sc/WattsSG92,Techniques for Integrating Parallelizing Transformations and Compiler-Based Scheduling Methods.,Tia M. Watts   Mary Lou Soffa   Rajiv Gupta   ,1992
+55,conf/focs/ChaudhuriR92,The Complexity of Parallel Prefix Problems on Small Domains,Carsten Lund   Lance Fortnow   Howard J. Karloff   Noam Nisan   ,1992
+56,conf/slp/RamakrishnanRSS94,Efficient Incremental Evaluation of Queries with Aggregation.,Raghu Ramakrishnan   Kenneth A. Ross   Divesh Srivastava   S. Sudarshan   ,1994
+57,conf/stacs/Bar-YehudaKWZ87,Making Distributed Spanning Tree Algorithms Fault-Resilient.,Reuven Bar-Yehuda   Shay Kutten   Yaron Wolfstahl   Shmuel Zaks   ,1987
+58,conf/ecai/Sabah90,CARAMEL A Computational Model of Natural Language Understanding Using a Parallel Implementation.,G eacute,
+59,journals/ieicet/TroncosoK06,Trigger-Based Language Model Adaptation for Automatic Transcription of Panel Discussions.,Carlos Troncoso   Tatsuya Kawahara   ,2006
+60,conf/awic/Herrera-ViedmaPOHM03,Evaluating the Informative Quality of Web Sites by Fuzzy Computing with Words.,Enrique Herrera-Viedma   Eduardo Peis   Mar iacute,
+61,conf/iccv/Grimson88,The Combinatorics Of Object Recognition In Cluttered Environments Using Constrained Search.,W. Eric L. Grimson   ,1988
+62,conf/iccv/Grimson88,The Combinatorics Of Object Recognition In Cluttered Environments Using Constrained Search.,W. Eric L. Grimson   ,1988
+63,conf/ACMse/FuquayW90,Genetic algorithm solutions for the traveling salesman problem.,D'Ann Fuquay   L. Darrell Whitley   ,1990
+64,journals/iee/ShrivastavaW98,Architectural support for dynamic reconfiguration of distributed workflow applications.,Santosh K. Shrivastava   Stuart M. Wheater   ,1998
+65,conf/edcc/SinghMM05,Integrating Fault Tolerance and Load Balancing in Distributed Systems Based on CORBA.,A. V. Singh   Louise E. Moser   P. M. Melliar-Smith   ,2005
+66,conf/chi/ChalfonteFK91,Expressive richness a comparison of speech and text as media for revision.,Barbara L. Chalfonte   Robert S. Fish   Robert E. Kraut   ,1991
+67,journals/aim/HenrionBH91,Decision Analysis and Expert Systems.,Max Henrion   John S. Breese   Eric Horvitz   ,1991
+68,conf/rta/Elliott89,Higher-order Unification with Dependent Function Types.,Conal Elliott   ,1989
+69,conf/icci/Chen90,Efficient Deterministic Parallel Algorithms for Integer Sorting.,Lin Chen   ,1990
+70,conf/ecai/Guez90,A Model for the Automatic Processing of Argumentative Dialogues.,S. Guez   ,1990
+71,journals/comcom/TanenbaumKRB91,The Amoeba distributed operating system - A status report.,Andrew S. Tanenbaum   M. Frans Kaashoek   Robbert van Renesse   Henri E. Bal   ,1991
+72,conf/interspeech/Carson-BerndsenW01,Defining constraints for multilinear speech processing.,Julie Carson-Berndsen   Michael Walsh   ,2001
+73,journals/corr/abs-cs-0612083,A Byzantine Fault Tolerant Distributed Commit Protocol,Wenbing Zhao   ,2006
+74,conf/aied/WalkerRK11,Using Automated Dialog Analysis to Assess Peer Tutoring and Trigger Effective Support.,Erin Walker   Nikol Rummel   Kenneth R. Koedinger   ,2011
+75,conf/naacl/HaghighiK10,Coreference Resolution in a Modular Entity-Centered Model.,Aria Haghighi   Dan Klein   ,2010
+76,conf/acl/PoonD10,Unsupervised Ontology Induction from Text.,Hoifung Poon   Pedro Domingos   ,2010
+77,conf/aaai/PoonD07,Joint Inference in Information Extraction.,Hoifung Poon   Pedro Domingos   ,2007
+78,journals/is/Eugenio87,Cooperative behaviour in the FIDO system.,Barbara Di Eugenio   ,1987
+79,journals/dm/Zeilberger84b,A combinatorial proof of Newton's identities.,Doron Zeilberger   ,1984
+80,journals/cn/Ackerley90,The Future for Quality of Service Modelling.,Roger G. Ackerley   ,1990
+81,journals/sigpro/Hahn03,On the uniqueness of the definition of the amplitude and phase of the analytic signal.,Stefan L. Hahn   ,2003
+82,journals/pami/Lindeberg93,Effective Scale A Natural Unit for Measuring Scale-Space Lifetime.,Tony Lindeberg   ,1993
+83,conf/hopl/GriswoldG93,History of the Icon Programming Language.,Ralph E. Griswold   Madge T. Griswold   ,1993
+84,journals/pami/KodratoffT88,Learning Based on Conceptual Distance.,Yves Kodratoff   Gheorghe Tecuci   ,1988
+85,conf/seke/LiangT95,Apprenticeship Learning of Domain Models.,Yinqing Liang   Gheorghe Tecuci   ,1995
+86,journals/stp/Spinellis93,Implementing Haskell Language Implementation as a Tool Building Exercise.,Diomidis Spinellis   ,1993
+87,conf/dexa/Spinellis94,The Design and Implementation of a Legal Text Database.,Diomidis Spinellis   ,1994
+88,journals/mlq/Kikuchi94,A Note on Boolos' Proof of the Incompleteness Theorem.,Makoto Kikuchi   ,1994
+89,conf/uai/Wellman86,Qualitativce probabilistic networks for planning under uncertainty.,Michael P. Wellman   ,1986
+90,conf/caap/Schwartzbach90,Infinite Values in Hierarchical Imperative Types.,Michael I. Schwartzbach   ,1990
+91,journals/jiis/GainesS92,Integrated Knowledge Acquisition Architectures.,Brian R. Gaines   Mildred L. G. Shaw   ,1992
+92,journals/jiis/Gaines97,Knowledge Management in Societies of Intelligent Adaptive Agents.,Brian R. Gaines   ,1997
+93,conf/ogai/ThrunML90,Adaptive Look-Ahead Planning.,Sebastian Thrun   Knut M ouml,
+94,conf/pldi/ReppyR96,Simple Objects for Standard ML.,John H. Reppy   Jon G. Riecke   ,1996
+95,conf/zum/WinterS03,Compositional Verification for Object-Z.,Kirsten Winter   Graeme Smith   ,2003
+96,journals/mst/Gallier80,On The Existence of Optimal Fixpoints.,Jean H. Gallier   ,1980
+97,journals/mss/AnderliniS01,Cooperation and computability in n-player games.,Luca Anderlini   Hamid Sabourian   ,2001
+98,conf/nips/LeungGPZ90,Phonetic Classification and Recognition Using the Multi-Layer Perceptron.,Hong C. Leung   James R. Glass   Michael S. Phillips   Victor Zue   ,1990
+99,conf/se/BucklEMS10,Teaching Enterprise Architecture Management with Student Mini-Projects.,Sabine Buckl   Alexander M. Ernst   Florian Matthes   Christian M. Schweda   ,2010
+100,conf/si3d/HsiungTW90,T-buffer fast visualization of relativistic effects in space-time.,Ping-Kang Hsiung   Robert H. Thibadeau   Michael Wu   ,1990
+101,journals/sigops/KasshoekRST92,FLIP an Internetwork Protocol for Supporting Distributed Systems (Abstract).,M. Frans Kaashoek   Robbert van Renesse   Hans van Staveren   Andrew S. Tanenbaum   ,1992
+102,conf/iv/LanzenbergerMP03,The Stardinates - Visualizing Highly Structured Data.,Monika Lanzenberger   Silvia Miksch   Margit Pohl   ,2003
+103,journals/debu/Moss86,Getting the Operating System Out of the Way.,J. Eliot B. Moss   ,1986
+104,conf/concur/GuptaJS96,Models for Concurrent Constraint Programming.,Vineet Gupta   Radha Jagadeesan   Vijay A. Saraswat   ,1996
+105,journals/ci/BeekC90,Exact and approximate reasoning about temporal relations.,Peter van Beek   Robin Cohen   ,1990
+106,conf/acl/Abeille90,Lexical and Syntactic Rules in a Tree Adjoining Grammar.,Anne Abeill eacute,
+107,journals/corr/cmp-lg-9704010,The Theoretical Status of Ontologies in Natural Language Processing,John A. Bateman   ,1997
+108,conf/cbms/Knight90,Issues of software reliability in medical systems.,John C. Knight   ,1990
+109,conf/srds/Melliar-SmithM04,Progress in Real-Time Fault Tolerance.,P. M. Melliar-Smith   Louise E. Moser   ,2004
+110,conf/ftcs/MoserMA95,The Totem System.,Louise E. Moser   P. M. Melliar-Smith   Deborah A. Agarwal   ,1995
+111,conf/acm/MoiinMM93,Better Late Than Never.,Hossein Moiin   P. M. Melliar-Smith   Louise E. Moser   ,1993
+112,conf/IEEEares/MoserMZ06,Making Web Services Dependable.,Louise E. Moser   P. M. Melliar-Smith   Wenbing Zhao   ,2006
+113,conf/sde/Snodgrass84,Monitoring in a Software Development Environment A Relational Approach.,Richard T. Snodgrass   ,1984
+114,conf/tark/BurrowsAN88,Authentication A Practical Study in Belief and Action.,Michael Burrows   Mart iacute,
+115,conf/crypto/ZhengMI90,Structural Properties of One-way Hash Functions.,Yuliang Zheng   Tsutomu Matsumoto   Hideki Imai   ,1990
+116,conf/nips/KimMB05,Robust Fisher Discriminant Analysis.,Seung-Jean Kim   Alessandro Magnani   Stephen P. Boyd   ,2005
+117,conf/tark/BurrowsAN88,Authentication A Practical Study in Belief and Action.,Michael Burrows   Mart iacute,
+118,conf/fqas/ChristiansenA96,An Experimental Prototype for Flexible Query-Answering Mechanisms - A Metainterpretation Approach.,Henning Christiansen   Troels Andreasen   ,1996
+119,conf/iccv/KrummS95,Texture Segmentation and Shape in the Same Image.,John Krumm   Steven A. Shafer   ,1995
+120,conf/tke/Skuce93,A System for Managing Knowledge and Terminology for Technical Documentation.,Douglas R. Skuce   ,1993
+121,conf/tark/BurrowsAN88,Authentication A Practical Study in Belief and Action.,Michael Burrows   Mart iacute,
+122,journals/tcsv/RasheedSS05,On the use of computable features for film classification.,Zeeshan Rasheed   Yaser Sheikh   Mubarak Shah   ,2005
+123,journals/ci/BeekCS93,From Plan Critiquing to Clarification Dialogue for Cooperative ResponseGeneration.,Peter van Beek   Robin Cohen   Ken Schmidt   ,1993
+124,journals/speech/CohenL94,Preliminaries to a collaborative model of dialogue.,Philip R. Cohen   Hector J. Levesque   ,1994
+125,conf/ijcai/Koza89,Hierarchical Genetic Algorithms Operating on Populations of Computer Programs.,John R. Koza   ,1989
+126,conf/sigmod/PangCL94,Managing Memory for Real-Time Queries.,HweeHwa Pang   Michael J. Carey   Miron Livny   ,1994
+127,conf/foga/SpearsJ90,An Analysis of Multi-Point Crossover.,William M. Spears   Kenneth A. De Jong   ,1990
+128,conf/icde/CabibboPT06,DaWaII a Tool for the Integration of Autonomous Data Marts.,Luca Cabibbo   Ivan Panella   Riccardo Torlone   ,2006
+129,conf/cpe/BauseBK98,A Toolbox for Functional and Quantitative Analysis of DEDS.,Falko Bause   Peter Buchholz   Peter Kemper   ,1998
+130,conf/ewdw/MatthesS90,Towards Database Application Systems Types Kinds and Other Open Invitations.,Florian Matthes   Joachim W. Schmidt   ,1990
+131,journals/cj/Rijsbergen86,A Non-Classical Logic for Information Retrieval.,C. J. van Rijsbergen   ,1986
+132,journals/corr/abs-0712-0131,Learning Similarity for Character Recognition and 3D Object Recognition,Thomas M. Breuel   ,2007
+133,conf/icnc/BaiCY05,An Immune Partheno-Genetic Algorithm for Winner Determination in Combinatorial Auctions.,JianCong Bai   HuiYou Chang   Yang Yi   ,2005
+134,conf/cis/ChenCHL08,Hybrid Algorithm for Winner Determination Problem in Combinatorial Auctions.,Li Chen   Xiaoyun Chen   Shanli Hu   Yunguo Lin   ,2008
+135,conf/isaac/KloksB92,Approximating Treewidth and Pathwidth of some Classes of Perfect Graphs.,Ton Kloks   Hans L. Bodlaender   ,1992
+136,journals/pami/PrinceW90,Reconstructing Convex Sets from Support Line Measurements.,Jerry L. Prince   Alan S. Willsky   ,1990
+137,journals/tip/PrinceW93,Hierarchical reconstruction using geometry and sinogram restoration.,Jerry L. Prince   Alan S. Willsky   ,1993
+138,journals/cvgip/PrinceW91,Convex set reconstruction using prior shape information.,Jerry L. Prince   Alan S. Willsky   ,1991
+139,journals/tkde/RaoAV00,The Cost of Recovery in Message Logging Protocols.,Sriram Rao   Lorenzo Alvisi   Harrick M. Vin   ,2000
+140,journals/fmsd/Russinoff99,A Mechanically Checked Proof of Correctness of the AMD K5 Floating Point Square Root Microcode.,David M. Russinoff   ,1999
+141,conf/icnp/ChenMM96,Flow Control Techniques for Multicasting in Gigabit Networks.,Xiaomin Chen   Louise E. Moser   P. M. Melliar-Smith   ,1996
+142,conf/icccn/ThomopoulosMM97,Analyzing the latency of the Totem multicast protocols.,Efstratios Thomopoulos   Louise E. Moser   P. M. Melliar-Smith   ,1997
+143,conf/words/NarasimhanMM01,Strong Replica Consistency for Fault-Tolerant CORBA Applications.,Priya Narasimhan   Louise E. Moser   P. M. Melliar-Smith   ,2001
+144,conf/icws/ZhaoMM05,A Reservation-Based Coordination Protocol for Web Services.,Wenbing Zhao   Louise E. Moser   P. M. Melliar-Smith   ,2005
+145,conf/coots/NarasimhanMM97a,The Interception Approach to Reliable Distributed CORBA Objects.,Priya Narasimhan   Louise E. Moser   P. M. Melliar-Smith   ,1997
+146,conf/icml/KimMB06,Optimal kernel selection in Kernel Fisher discriminant analysis.,Seung-Jean Kim   Alessandro Magnani   Stephen P. Boyd   ,2006
+147,conf/tke/SkuceM90,Computer-Assisted Concept Analysis An Essential Component of a Terminologist's Workstation.,Douglas R. Skuce   Ingrid Meyer   ,1990
+148,conf/acl/McCoyVY92,A Functional Approach to Generation with TAG.,Kathleen F. McCoy   K. Vijay-Shanker   Gijoo Yang   ,1992
+149,conf/deductive/SudarshanR92,Optimizations of Bottom-Up Evaluation with Non-Ground Terms (Extended Abstract).,S. Sudarshan   Raghu Ramakrishnan   ,1992
+150,conf/icde/DatTI05,A speech enhancement system based on data clustering and cumulative histogram equalization.,Tran Huy Dat   Kazuya Takeda   Fumitada Itakura   ,2005
+151,conf/interspeech/SaruwatariKTIS00,Blind source separation based on subband ICA and beamforming.,Hiroshi Saruwatari   Satoshi Kurita   Kazuya Takeda   Fumitada Itakura   Kiyohiro Shikano   ,2000
+152,conf/interspeech/LiTID04,Speech enhancement based on magnitude estimation using the gamma prior.,Weifeng Li   Kazuya Takeda   Fumitada Itakura   Tran Huy Dat   ,2004
+153,conf/soups/BesmerWL10,The impact of social navigation on privacy policy configuration.,Andrew Besmer   Jason Watson   Heather Richter Lipford   ,2010
+154,journals/tcad/ChanS89,Bounds on signal delay in RC mesh networks.,Pak K. Chan   Martine D. F. Schlag   ,1989
+155,journals/corr/abs-1109-5559,High performance cosmological simulations on a grid of supercomputers,Derek Groen   Steven Rieder   Simon Portegies Zwart   ,2011
+156,journals/toplas/WiledenCW90,A Comparative Evaluation of Object Definition Techniques.,Jack C. Wileden   Lori A. Clarke   Alexander L. Wolf   ,1990
+157,journals/sigmod/HiddersMPV05,LiXQuery a formal foundation for XQuery research.,Jan Hidders   Philippe Michiels   Jan Paredaens   Roel Vercammen   ,2005
+158,conf/xsym/HiddersPVD04,A Light but Formal Introduction to XQuery.,Jan Hidders   Jan Paredaens   Roel Vercammen   Serge Demeyer   ,2004
+159,conf/eccv/BarSK04,Variational Pairing of Image Segmentation and Blind Restoration.,Leah Bar   Nir A. Sochen   Nahum Kiryati   ,2004
+160,conf/icsm/OlbrichCS10,Are all code smells harmful? A study of God Classes and Brain Classes in the evolution of three open source systems.,Steffen M. Olbrich   Daniela Cruzes   Dag I. K. Sj oslash,
+161,conf/sccc/Melliar-SmithM09,O-Ring A Fault Tolerance and Load Balancing Architecture for Peer-to-Peer Systems.,P. M. Melliar-Smith   Louise E. Moser   ,2009
+162,conf/icse/DillonKMMR92,Graphical Specifications for Concurrent Software Systems.,Laura K. Dillon   G. Kutty   Louise E. Moser   P. M. Melliar-Smith   Y. S. Ramakrishna   ,1992
+163,journals/adcm/ArnoldL97,Interior estimates for a low order finite element method for the Reissner-Mindlin plate model.,Douglas N. Arnold   Xiaobo Liu   ,1997
+164,journals/jsac/DoucetteG00,Influence of modularity and economy-of-scale effects on design of mesh-restorable DWDM networks.,John Doucette   Wayne D. Grover   ,2000
+165,journals/siamnum/KayaR05,A Discontinuous Subgrid Eddy Viscosity Method for the Time-Dependent Navier-Stokes Equations.,Songul Kaya   B eacute,
+166,conf/ppsn/JongS90,An Analysis of the Interacting Roles of Population Size and Crossover in Genetic Algorithms.,Kenneth A. De Jong   William M. Spears   ,1990
+167,conf/ismis/CamposLM88,Logical Connectives for Combining Fuzzy Measures.,Luis M. de Campos   Maria Teresa Lamata   Seraf iacute,
+168,journals/cga/SlaterKMY09,Visual Realism Enhances Realistic Response in an Immersive Virtual Environment.,Mel Slater   Pankaj Khanna   Jesper Mortensen   Insu Yu   ,2009
+169,journals/jpdc/AttiyaD01,Time Bounds for Decision Problems in the Presence of Timing Uncertainty and Failures.,Hagit Attiya   Taly Djerassi-Shintel   ,2001
+170,conf/wdag/AttiyaD93,Time Bounds for Decision Problems in the Presence of Timing Uncertainty and Failures.,Hagit Attiya   Taly Djerassi-Shintel   ,1993
+171,journals/jacm/Spielberg61,Representation of Power Series in Terms of Polynomials Rational Approximations and Continued Fractions.,Peter G. Harrison   Naresh M. Patel   Kurt Spielberg   ,1961
+172,conf/vrst/KhannaYMS06,Presence in response to dynamic visual realism a preliminary report of an experiment study.,Pankaj Khanna   Insu Yu   Jesper Mortensen   Mel Slater   ,2006
+173,journals/tocs/KaashoekRST93,FLIP An Internetwork Protocol for Supporting Distributed Systems.,M. Frans Kaashoek   Robbert van Renesse   Hans van Staveren   Andrew S. Tanenbaum   ,1993
+174,conf/icdcs/RenesseTSH87,Connecting RPC-Based Distributed Systems Using Wide-Area Networks.,Robbert van Renesse   Andrew S. Tanenbaum   Hans van Staveren   J. Hall   ,1987
+175,conf/isca/LenoskiLGGH90,The Directory-Based Cache Coherence Protocol for the DASH Multiprocessor.,Daniel Lenoski   James Laudon   Kourosh Gharachorloo   Anoop Gupta   John L. Hennessy   ,1990
+176,journals/tsp/ChenNC95,Symmetric extension methods for M-channel linear-phase perfect-reconstruction filter banks.,Li Chen   Truong Q. Nguyen   Kwok Ping Chan   ,1995
+177,conf/iceis/KaiyaSOK06,A Supporting Tool to Identify both Satisfied Requirements and Tolerant Threats for a Java Mobile Code Application.,Haruhiko Kaiya   Kouta Sasaki   Chikanobu Ogawa   Kenji Kaijiri   ,2006
+178,journals/ipm/BooksteinK90,Using bitmaps for medium sized information retrieval systems.,Abraham Bookstein   Shmuel T. Klein   ,1990
+179,journals/sigmod/Han98,Towards On-Line Analytical Mining in Large Databases.,Jiawei Han   ,1998
+180,conf/podc/DworkLS84,Consensus in the Presence of Partial Synchrony (Preliminary Version).,Cynthia Dwork   Nancy A. Lynch   Larry J. Stockmeyer   ,1984
+181,conf/ftcs/BrilliantKA90,On the performance of software testing using multiple versions.,Susan S. Brilliant   John C. Knight   Paul Ammann   ,1990
+182,journals/cj/KihlstromMM03,Byzantine Fault Detectors for Solving Consensus.,Kim Potter Kihlstrom   Louise E. Moser   P. M. Melliar-Smith   ,2003
+183,conf/dais/TewksburyMM01,Live Upgrade Techniques for CORBA Applications.,L. A. Tewksbury   Louise E. Moser   P. M. Melliar-Smith   ,2001
+184,conf/icpp/DasMM92,PAL A Language for Parallel Asynchronous Computation.,Amitabha Das   Louise E. Moser   P. M. Melliar-Smith   ,1992
+185,conf/irregular/DasMM95,A Parallel Processing Paradigm for Irregular Applications.,Amitabha Das   Louise E. Moser   P. M. Melliar-Smith   ,1995
+186,conf/sigmetrics/MoserKM90,Probabilistic Language Analysis of Weighted Voting Algorithms.,Louise E. Moser   Vikas Kapur   P. M. Melliar-Smith   ,1990
+187,conf/usenix/Black91,Processors Priority and Policy Mach Scheduling for New Environments.,David L. Black   ,1991
+188,journals/jar/Chou87,A Method for the Mechanical Derivation of Formulas in Elementary Geometry.,Shang-Ching Chou   ,1987
+189,journals/tcs/Maass01,On the relevance of time in neural computation and learning.,Wolfgang Maass   ,2001
+190,conf/aaai/FungC90,Constructor A System for the Induction of Probabilistic Models.,Robert M. Fung   Stuart L. Crawford   ,1990
+191,journals/tcs/FortnowL93,Interactive Proof Systems and Alternating Time-Space Complexity.,Lance Fortnow   Carsten Lund   ,1993
+192,conf/stacs/FortnowL91,Interactive Proof Systems and Alternating Time-Space Complexity.,Lance Fortnow   Carsten Lund   ,1991
+193,journals/entcs/LincolnMS96,The Complexity of Local Proof Search in Linear Logic.,Patrick Lincoln   John C. Mitchell   Andre Scedrov   ,1996
+194,conf/pldi/ChambersU89,Customization Optimizing Compiler Technology for SELF A Dynamically-Typed Object-Oriented Programming Language.,Craig Chambers   David Ungar   ,1989
+195,conf/foiks/Hegner04,The Relative Complexity of Updates for a Class of Database Views.,Stephen J. Hegner   ,2004
+196,conf/coling/Schabes92,Stochastic Lexicalized Tree-adjoining Grammars.,Yves Schabes   ,1992
+197,conf/icip/AliagaC05,A spatial image hierarchy for compression in image-based-rendering.,Daniel G. Aliaga   Ingrid Carlbom   ,2005
+198,conf/coling/Vijay-ShankerS92,Structure Sharing in Lexicalized Tree-Adjoining Grammars.,K. Vijay-Shanker   Yves Schabes   ,1992
+199,conf/nlg/ElhadadR92,Controlling Content Realization with Functional Unification Grammars.,Michael Elhadad   Jacques Robin   ,1992
+200,conf/kdd/WickRSM08,A unified approach for schema matching coreference and canonicalization.,Michael L. Wick   Khashayar Rohanimanesh   Karl Schultz   Andrew McCallum   ,2008
+201,conf/icmcs/ConnellSHTBP04,Detection and tracking in the IBM PeopleVision system.,Jonathan H. Connell   Andrew W. Senior   Arun Hampapur   Ying-li Tian   Lisa M. G. Brown   Sharath Pankanti   ,2004
+202,conf/gecco/Koza08,Introduction to genetic programming tutorial.,John R. Koza   ,2008
+203,journals/corr/abs-cs-0701134,Byzantine Fault Tolerance for Nondeterministic Applications,Wenbing Zhao   ,2007
+204,conf/cscl/WalkerRMK07,The student becomes the master integrating peer tutoring with cognitive tutoring.,Erin Walker   Nikol Rummel   Bruce M. McLaren   Kenneth R. Koedinger   ,2007
+205,conf/aaai/WeldMD11,Human Intelligence Needs Artificial Intelligence.,Daniel S. Weld   Mausam   Peng Dai   ,2011
+206,conf/interspeech/KlavansT94,Inducing concatenative units from machine readable dictionaries and corpora for speech synthesis.,Judith L. Klavans   Evelyne Tzoukermann   ,1994
+207,journals/corr/cmp-lg-9608008,The discourse functions of Italian subjects a centering approach,Barbara Di Eugenio   ,1996
+208,conf/coling/Eugenio96,The discourse functions of Italian subjects a centering approach.,Barbara Di Eugenio   ,1996
+209,journals/siamcomp/AwerbuchCKMP98,Optimal Broadcast with Partial Knowledge.,Baruch Awerbuch   Israel Cidon   Shay Kutten   Yishay Mansour   David Peleg   ,1998
+210,conf/podc/Awerbuch90,Distributed Control for PARIS.,Baruch Awerbuch   Israel Cidon   Inder S. Gopal   Marc Kaplan   Shay Kutten   ,1990
+211,conf/sutc/WoehrlePLBT08,EvAnT Analysis and Checking of Event Traces for Wireless Sensor Networks.,Matthias Woehrle   Christian Plessl   Roman Lim   Jan Beutel   Lothar Thiele   ,2008
+212,conf/wmrd/SchlossS90,Highly Redundant Management of Distributed Data.,Gerhard A. Schloss   Michael Stonebraker   ,1990
+213,journals/tpds/LiuTM11,Compressing Network Access Control Lists.,Alex X. Liu   Eric Torng   Chad R. Meiners   ,2011
+214,conf/mfcs/ChrobakL90,On Fast Algorithms for Two Servers.,Marek Chrobak   Lawrence L. Larmore   ,1990
+215,conf/scalespace/Lindeberg97,Linear Spatio-Temporal Scale-Space.,Tony Lindeberg   ,1997
+216,conf/cade/FeltyM90,Encoding a Dependent-Type Lambda-Calculus in a Logic Programming Language.,Amy P. Felty   Dale Miller   ,1990
+217,conf/cade/FeltyM90,Encoding a Dependent-Type Lambda-Calculus in a Logic Programming Language.,Amy P. Felty   Dale Miller   ,1990
+218,conf/icdt/CabibboT99,A Framework for the Investigation of Aggregate Functions in Database Queries.,Luca Cabibbo   Riccardo Torlone   ,1999
+219,journals/tcad/ChoudhuryS93a,Constraint-based channel routing for analog and mixed analog/digital circuits.,Umakanta Choudhury   Alberto L. Sangiovanni-Vincentelli   ,1993
+220,conf/uai/LiuW98,Incremental Tradeoff Resolution in Qualitative Probabilistic Networks.,Chao-Lin Liu   Michael P. Wellman   ,1998
+221,conf/cikm/LimNJLL10,Detecting product review spammers using rating behaviors.,Ee-Peng Lim   Viet-An Nguyen   Nitin Jindal   Bing Liu 0001   Hady Wirawan Lauw   ,2010
+222,journals/ijcv/EricG92,The cost of choosing the wrong model in object recognition by constrained search.,W. Eric L. Grimson   ,1992
+223,journals/ijcv/EricG92,The cost of choosing the wrong model in object recognition by constrained search.,W. Eric L. Grimson   ,1992
+224,conf/pos/NodineSZ90,Synchronization and Recovery in Cooperative Transactions.,Marian H. Nodine   Andrea H. Skarra   Stanley B. Zdonik   ,1990
+225,conf/sigecom/SakuraiYK00,An efficient approximate algorithm for winner determination in combinatorial auctions.,Yuko Sakurai   Makoto Yokoo   Koji Kamei   ,2000
+226,conf/cp/SakuraiYK00,An Efficient Approximate Algorithm for Winner Determination in Combinatorial Auctions.,Yuko Sakurai   Makoto Yokoo   Koji Kamei   ,2000
+227,journals/ml/MaloofM00,Selecting Examples for Partial Memory Learning.,Marcus A. Maloof   Ryszard S. Michalski   ,2000
+228,conf/doa/LittleSW01,Theory and Practice of Building Reliable Distributed Applications.,Mark C. Little   Santosh K. Shrivastava   Stuart M. Wheater   ,2001
+229,journals/cogsci/CollinsM89,The Logic of Plausible Reasoning A Core Theory.,Allan M. Collins   Ryszard S. Michalski   ,1989
+230,conf/fgcs/Gaines92,Modeling the Generational Infrastructure of Information Technology.,Brian R. Gaines   ,1992
+231,journals/entcs/LincolnMS96,The Complexity of Local Proof Search in Linear Logic.,Patrick Lincoln   John C. Mitchell   Andre Scedrov   ,1996
+232,conf/slp/JansonH91,Programming Paradigms of the Andorra Kernel Language.,Sverker Janson   Seif Haridi   ,1991
+233,journals/ipm/BooksteinK90,Using bitmaps for medium sized information retrieval systems.,Abraham Bookstein   Shmuel T. Klein   ,1990
+234,journals/jacm/BleiGJ10,The nested chinese restaurant process and bayesian nonparametric inference of topic hierarchies.,David M. Blei   Thomas L. Griffiths   Michael I. Jordan   ,2010
+235,journals/speech/ZueSPPPGGG94,PEGASUS A spoken dialogue interface for on-line air travel planning.,Victor Zue   Stephanie Seneff   Joseph Polifroni   Michael S. Phillips   Christine Pao   David Goodine   David Goddeau   James R. Glass   ,1994
+236,journals/sigops/KasshoekRST92,FLIP an Internetwork Protocol for Supporting Distributed Systems (Abstract).,M. Frans Kaashoek   Robbert van Renesse   Hans van Staveren   Andrew S. Tanenbaum   ,1992
+237,journals/cga/AliagaFYC03,Sea of Images A Dense Sampling Approach for Rendering Large Indoor Environments.,Daniel G. Aliaga   Thomas A. Funkhouser   Dimah Yanovsky   Ingrid Carlbom   ,2003
+238,conf/iceis/CarreiraGPW07a,On Handling One-to-Many Transformations in Relational Systems.,Paulo Carreira   Helena Galhardas   Jo atilde,
+239,journals/ieicet/AkitaK05,Language Model Adaptation Based on PLSA of Topics and Speakers for Automatic Transcription of Panel Discussions.,Yuya Akita   Tatsuya Kawahara   ,2005
+240,conf/si3d/HsiungTW90,T-buffer fast visualization of relativistic effects in space-time.,Ping-Kang Hsiung   Robert H. Thibadeau   Michael Wu   ,1990
+241,conf/icip/ZhouSCF09,Bayesian image segmentation with mean shift.,Huiyu Zhou   Gerald Schaefer   M. Emre Celebi   Minrui Fei   ,2009
+242,journals/ton/MeinersLT12,Bit Weaving A Non-Prefix Approach to Compressing Packet Classifiers in TCAMs.,Chad R. Meiners   Alex X. Liu   Eric Torng   ,2012
+243,conf/icnp/MeinersLT09,Bit Weaving A Non-prefix Approach to Compressing Packet Classifiers in TCAMs.,Chad R. Meiners   Alex X. Liu   Eric Torng   ,2009
+244,journals/pami/GrimsonH91,Introduction to the Special Issue on Interpretation of 3-D Scenes-Part I.,W. Eric L. Grimson   Daniel P. Huttenlocher   ,1991
+245,journals/pami/GrimsonH91,Introduction to the Special Issue on Interpretation of 3-D Scenes-Part I.,W. Eric L. Grimson   Daniel P. Huttenlocher   ,1991
+246,conf/hicss/KalogerakiMM00,A CORBA Framework for Managing Real-Time Distributed Multimedia Applications.,Vana Kalogeraki   Louise E. Moser   P. M. Melliar-Smith   ,2000
+247,conf/icde/WongM89,The Inter-Database Instance Identification Problem in Integrating Autonomous Systems.,Y. Richard Wang   Stuart E. Madnick   ,1989
+248,conf/icpp/Preiss90,Performance of Discrete Event Simulation on a Multiprocessor Using Optimistic and Conservative Synchronization.,Bruno R. Preiss   ,1990
+249,journals/tip/BarBSK07,Deblurring of Color Images Corrupted by Impulsive Noise.,Leah Bar   Alexander Brook   Nir A. Sochen   Nahum Kiryati   ,2007
+250,conf/icdcs/KaashoekT91,Group communication in the Amoeba distributed operating system.,M. Frans Kaashoek   Andrew S. Tanenbaum   ,1991
+251,journals/concurrency/NarasimhanMM01,Interceptors for Java Remote Method Invocation.,Nitya Narasimhan   Louise E. Moser   P. M. Melliar-Smith   ,2001
+252,conf/rtss/KalogerakiMM00,Dynamic Scheduling of Distributed Method Invocations.,Vana Kalogeraki   P. M. Melliar-Smith   Louise E. Moser   ,2000
+253,conf/ftcs/MoserMN99,A Fault Tolerance Framework for CORBA.,Louise E. Moser   P. M. Melliar-Smith   Priya Narasimhan   ,1999
+254,conf/IEEEcloud/ZhaoMM10,Fault Tolerance Middleware for Cloud Computing.,Wenbing Zhao   P. M. Melliar-Smith   Louise E. Moser   ,2010
+255,conf/middleware/NarasimhanMM00,Gateways for Accessing Fault Tolerance Domains.,Priya Narasimhan   Louise E. Moser   P. M. Melliar-Smith   ,2000
+256,journals/acta/AndersonG91,A New Explanation of the Glitch Phenomenon.,James H. Anderson   Mohamed G. Gouda   ,1991
+257,journals/ijcv/KlinkerSK88,The measurement of highlights in color images.,Gudrun Klinker   Steven A. Shafer   Takeo Kanade   ,1988
+258,conf/slp/SudarshanR93,Optimizations of Bottom-Up Evaluation with Non-Ground Terms.,S. Sudarshan   Raghu Ramakrishnan   ,1993
+259,conf/sigcomm/CidonGS90,Fast Connection Establishment in High Speed Networks.,Israel Cidon   Inder S. Gopal   Adrian Segall   ,1990
+260,conf/wdag/CidonGK90,Optimal Computation of Global Sensitive Functions in Fast Networks.,Israel Cidon   Inder S. Gopal   Shay Kutten   ,1990
+261,journals/ci/Strzalkowski90,Reversible logic grammars for natural language parsing and generation.,Tomek Strzalkowski   ,1990
+262,conf/focs/KampZ03,Deterministic Extractors for Bit-Fixing Sources and Exposure-Resilient Cryptography.,James Renegar   Jesse Kamp   David Zuckerman   ,2003
+263,journals/ijcv/KlinkerSK88,The measurement of highlights in color images.,Gudrun Klinker   Steven A. Shafer   Takeo Kanade   ,1988
+264,journals/siamcomp/Papadimitriou92,The Complexity of the Lin-Kernighan Heuristic for the Traveling Salesman Problem.,Christos H. Papadimitriou   ,1992
+265,journals/tocs/RamakrishnanJ90,A Binary Feedback Scheme for Congestion Avoidance in Computer Networks.,K. K. Ramakrishnan   Raj Jain   ,1990
+266,journals/tpds/AdveH93,A Unified Formalization of Four Shared-Memory Models.,Sarita V. Adve   Mark D. Hill   ,1993
+267,conf/interspeech/KajitaTI96,Subband-crosscorrelation analysis for robust speech recognition.,Shoji Kajita   Kazuya Takeda   Fumitada Itakura   ,1996
+268,conf/ismis/TecuciM91,Input Understanding as a Basis for Multistrategy Task-Adaptive Learning.,Gheorghe Tecuci   Ryszard S. Michalski   ,1991
+269,conf/aied/McLarenLYK07,Can a Polite Intelligent Tutoring System Lead to Improved Learning Outside of the Lab?,Bruce M. McLaren   Sung-Joo Lim   David Yaron   Kenneth R. Koedinger   ,2007
+270,journals/ipm/Herrera-ViedmaP03,Evaluating the informative quality of documents in SGML format from judgements by means of fuzzy linguistic techniques based on computing with words.,Enrique Herrera-Viedma   Eduardo Peis   ,2003
+271,journals/tpds/RankaS90,Odd Even Shifts in SIMD Hypercubes.,Sanjay Ranka   Sartaj Sahni   ,1990
+272,journals/corr/abs-1102-2878,Dual-Tree Fast Gauss Transforms,Dongryeol Lee   Alexander G. Gray   Andrew W. Moore   ,2011
+273,conf/nips/LeeGM05,Dual-Tree Fast Gauss Transforms.,Dongryeol Lee   Alexander G. Gray   Andrew W. Moore   ,2005
+274,conf/iccv/GlasnerBI09,Super-resolution from a single image.,Daniel Glasner   Shai Bagon   Michal Irani   ,2009
+275,journals/ci/Harbusch94,Toward an Integrated Generation Approach with Tree-Adjoining Grammars.,Karin Harbusch   ,1994
+276,conf/eps/KozaA96,Evolution of Iteration in Genetic Programming.,John R. Koza   David Andre   ,1996
+277,journals/debu/BenderCKMPW07,Peer-to-Peer Information Search Semantic Social or Spiritual?,Matthias Bender   Tom Crecelius   Mouna Kacimi   Sebastian Michel   Josiane Xavier Parreira   Gerhard Weikum   ,2007
+278,conf/uist/WeldMD11,Execution control for crowdsourcing.,Daniel S. Weld   Mausam   Peng Dai   ,2011
+279,journals/algorithmica/HirschbergL87,The Set LCS Problem.,Daniel S. Hirschberg   Lawrence L. Larmore   ,1987
+280,journals/ijtm/RoessnerPNJ02,A comparison of recent assessments of the high-tech competitiveness of nations.,J. David Roessner   Alan L. Porter   Nils C. Newman   Xiao-Yin Jin   ,2002
+281,conf/sebd/CabibboT04,Dimension Compatibility for Data Mart Integration.,Luca Cabibbo   Riccardo Torlone   ,2004
+282,conf/sebd/CabibboT97,A Systematic Approach to Multidimensional Databases.,Luca Cabibbo   Riccardo Torlone   ,1997
+283,conf/sigopsE/BennettCCEJKZ92,Distributed shared memory experience with Munin.,John K. Bennett   John B. Carter   Alan L. Cox   E. N. Elnozahy   David B. Johnson   Peter J. Keleher   Willy Zwaenepoel   ,1992
+284,conf/nips/LegendreMS90,Distributed Recursive Structure Processing.,Geraldine Legendre   Yoshiro Miyata   Paul Smolensky   ,1990
+285,journals/tocs/KaashoekRST93,FLIP An Internetwork Protocol for Supporting Distributed Systems.,M. Frans Kaashoek   Robbert van Renesse   Hans van Staveren   Andrew S. Tanenbaum   ,1993
+286,conf/icdcs/RenesseTSH87,Connecting RPC-Based Distributed Systems Using Wide-Area Networks.,Robbert van Renesse   Andrew S. Tanenbaum   Hans van Staveren   J. Hall   ,1987
+287,conf/dagstuhl/KnappJHCGHBW07,Modelling the CoCoME with the Java/AComponent Model.,Alexander Knapp   Stephan Janisch   Rolf Hennicker   Allan Clark   Stephen Gilmore   Florian Hacklinger   Hubert Baumeister   Martin Wirsing   ,2007
+288,journals/jmis/OsbornMW90,Motivating Strategic Alliance for Composite Information Systems The Case of a Major Regional Hospital.,Charles S. Osborn   Stuart E. Madnick   Richard Y. Wang   ,1990
+289,journals/jucs/ChenW09,A Hammerstein-Wiener Recurrent Neural Network with Frequency-Domain Eigensystem Realization Algorithm for Unknown System Identification.,Yi-Chung Chen   Jeen-Shing Wang   ,2009
+290,journals/concurrency/BalKTJ92,Replication techniques for speeding up parallel applications on distributed systems.,Henri E. Bal   M. Frans Kaashoek   Andrew S. Tanenbaum   Jack Jansen   ,1992
+291,journals/csse/ZhaoMM04,Design and implementation of a consistent time service for fault-tolerant distributed systems.,Wenbing Zhao   Louise E. Moser   P. M. Melliar-Smith   ,2004
+292,conf/dsn/ZhaoMM03,Design and Implementation of a Consistent Time Service for Fault-Tolerant Distributed Systems.,Wenbing Zhao   Louise E. Moser   P. M. Melliar-Smith   ,2003
+293,conf/interspeech/AkitaNK07,PLSA-based topic detection in meetings for adaptation of lexicon and language model.,Yuya Akita   Yusuke Nemoto   Tatsuya Kawahara   ,2007
+294,journals/ton/LiuMT10,TCAM Razor a systematic approach towards minimizing packet classifiers in TCAMs.,Alex X. Liu   Chad R. Meiners   Eric Torng   ,2010
+295,conf/icnp/MeinersLT07,TCAM Razor A Systematic Approach Towards Minimizing Packet Classifiers in TCAMs.,Chad R. Meiners   Alex X. Liu   Eric Torng   ,2007
+296,journals/cj/Griswold90,String Scanning in the Icon Programming Language.,Ralph E. Griswold   ,1990
+297,conf/sigplanW/KranzLJKA92,Integrating Message-Passing and Shared-Memory Early Experience.,David A. Kranz   Beng-Hong Lim   Kirk L. Johnson   John Kubiatowicz   Anant Agarwal   ,1992
+298,conf/ppopp/KranzJAKL93,Integrating Message-Passing and Shared-Memory Early Experience.,David A. Kranz   Kirk L. Johnson   Anant Agarwal   John Kubiatowicz   Beng-Hong Lim   ,1993
+299,conf/ipmu/Wellman94,Some Varieties of Qualitative Probability.,Michael P. Wellman   ,1994
+300,conf/aaai/Wellman87,Probabilistic Semantics for Qualitative Influences.,Michael P. Wellman   ,1987
+301,conf/icassp/LaskowskiEH11,A single-port non-parametric model of turn-taking in multi-party conversation.,Kornel Laskowski   Jens Edlund   Mattias Heldner   ,2011
+302,journals/sigops/KaashoekTHB89,An Efficient Reliable Broadcast Protocol.,M. Frans Kaashoek   Andrew S. Tanenbaum   Susan Flynn Hummel   Henri E. Bal   ,1989
+303,journals/sigops/PikePTTW93,The Use of Name Spaces in Plan 9.,Rob Pike   David L. Presotto   Ken Thompson   Howard Trickey   Phil Winterbottom   ,1993
+304,conf/sigopsE/PikePTTW92,The use of name spaces in plan 9.,Rob Pike   David L. Presotto   Ken Thompson   Howard Trickey   Phil Winterbottom   ,1992
+305,journals/dse/NarasimhanMM97,Replica consistency of CORBA objects in partitionable distributed systems.,Priya Narasimhan   Louise E. Moser   P. M. Melliar-Smith   ,1997
+306,journals/adcm/JohnK08,Finite element error analysis of a variational multiscale method for the Navier-Stokes equations.,Volker John   Songul Kaya   ,2008
+307,journals/siamcomp/GrigorievKS94,Computational Complexity of Sparse Rational Interpolation.,Dima Grigoriev   Marek Karpinski   Michael F. Singer   ,1994
+308,conf/eccv/DeMenthonD90,Inverse Perspective Of A Triangle New Exact And Approximate Solutions.,Daniel DeMenthon   Larry S. Davis   ,1990
+309,journals/ai/Grimson90,The Combinatorics of Object Recognition in Cluttered Environments Using Constrained Search.,W. Eric L. Grimson   ,1990
+310,journals/ai/Grimson90,The Combinatorics of Object Recognition in Cluttered Environments Using Constrained Search.,W. Eric L. Grimson   ,1990
+311,conf/ifsa/XiangK07,Estimating Variance Under Interval and Fuzzy Uncertainty Case of Hierarchical Estimation.,Gang Xiang   Vladik Kreinovich   ,2007
+312,journals/ipm/BooksteinK92,Models of Bitmap Generation A Systematic Approach to Bitmap Compression.,Abraham Bookstein   Shmuel T. Klein   ,1992
+313,journals/dam/ValerioMM94,Classic Squares and Broadcast Squares.,Marcos Valerio   Louise E. Moser   P. M. Melliar-Smith   ,1994
+314,conf/words/ZhaoMM05,Deterministic Scheduling for Multithreaded Replicas.,Wenbing Zhao   Louise E. Moser   P. M. Melliar-Smith   ,2005
+315,conf/discex/MoserM03,Demonstration of Fault Tolerance for CORBA Applications.,Louise E. Moser   P. M. Melliar-Smith   ,2003
+316,conf/sigmetrics/Melliar-SmithM91,Performance Analysis of a Broadcast Communications Protocol.,P. M. Melliar-Smith   Louise E. Moser   ,1991
+317,conf/ifip/Sommerville83,Software Engineering - An Educational Challenge.,Ian Sommerville   ,1983
+318,conf/podc/AwerbuchCKMP91,Broadcast with Partial Knowledge (Preliminary Version).,Baruch Awerbuch   Israel Cidon   Shay Kutten   Yishay Mansour   David Peleg   ,1991
+319,journals/tcs/LincolnMS99,Optimization Complexity of Linear Logic Proof Games.,Patrick Lincoln   John C. Mitchell   Andre Scedrov   ,1999
+320,conf/podc/Awerbuch90,Distributed Control for PARIS.,Baruch Awerbuch   Israel Cidon   Inder S. Gopal   Marc Kaplan   Shay Kutten   ,1990
+321,journals/mst/Vijay-ShankerW94,The Equivalence of Four Extensions of Context-Free Grammars.,K. Vijay-Shanker   David J. Weir   ,1994
+322,conf/interspeech/KobayashiKTI96,Extracting speech features from human speech-like noise.,Daisuke Kobayashi   Shoji Kajita   Kazuya Takeda   Fumitada Itakura   ,1996
+323,journals/mva/TianBHLSS08,IBM smart surveillance system (S3) event based video surveillance system with an open and extensible framework.,Ying-li Tian   Lisa M. G. Brown   Arun Hampapur   Max Lu   Andrew W. Senior   Chiao-Fe Shu   ,2008
+324,conf/dawak/CarreiraGPL05,Data Mapper An Operator for Expressing One-to-Many Data Transformations.,Paulo J. F. Carreira   Helena Galhardas   Jo atilde,
+325,journals/comcom/TanenbaumKRB91,The Amoeba distributed operating system - A status report.,Andrew S. Tanenbaum   M. Frans Kaashoek   Robbert van Renesse   Henri E. Bal   ,1991
+326,journals/cacm/Wolff05,The growth of information workers in the U.S. economy.,Edward N. Wolff   ,2005
+327,conf/ac/LittleS99,Integrating Group Communication with Transactions for Implementing Persistent Replicated Objects.,Mark C. Little   Santosh K. Shrivastava   ,1999
+328,journals/tcs/LincolnMS99,Optimization Complexity of Linear Logic Proof Games.,Patrick Lincoln   John C. Mitchell   Andre Scedrov   ,1999
+329,journals/aai/MarchesiPO90,ASCETA an expert system for passive network synthesis.,Michele Marchesi   Francesco Piazza   Gianni Orlandi   ,1990
+330,journals/ipm/BooksteinK92,Models of Bitmap Generation A Systematic Approach to Bitmap Compression.,Abraham Bookstein   Shmuel T. Klein   ,1992
+331,conf/nips/AtlasCCEMMB89,Performance Comparisons Between Backpropagation Networks and Classification Trees on Three Real-World Applications.,Les E. Atlas   Ronald A. Cole   Jerome Connor   Mohamed A. El-Sharkawi   Robert J. Marks II   Yeshwant K. Muthusamy   Etienne Barnard   ,1989
+332,conf/mfps/JonesSS87,MIX A Self-Applicable Partial Evaluator for Experiments in Compiler Generation (Extended Abstract).,Neil D. Jones   Peter Sestoft   Harald S oslash,
+333,journals/entcs/NiehrenSSS07,Observational Semantics for a Concurrent Lambda Calculus with Reference Cells and Futures.,Joachim Niehren   David Sabel   Manfred Schmidt-Schau szlig,
+334,journals/ieicet/KaiyaSK04,A Method to Develop Feasible Requirements for Java Mobile Code Application.,Haruhiko Kaiya   Kouta Sasaki   Kenji Kaijiri   ,2004
+335,conf/isca/GharachorlooGH92,Hiding Memory Latency using Dynamic Scheduling in Shared-Memory Multiprocessors.,Kourosh Gharachorloo   Anoop Gupta   John L. Hennessy   ,1992
+336,conf/asplos/GharachorlooGH91,Performance Evaluation of Memory Consistency Models for Shared Memory Multiprocessors.,Kourosh Gharachorloo   Anoop Gupta   John L. Hennessy   ,1991
+337,conf/interspeech/GlassGPSSZ93,A bilingual Voyager system.,James R. Glass   David Goodine   Michael S. Phillips   Shinsuke Sakai   Stephanie Seneff   Victor W. Zue   ,1993
+338,conf/dexa/BooksteinK90,Information Retrieval Tools for Literary Analysis.,Abraham Bookstein   Shmuel T. Klein   ,1990
+339,journals/computer/Melliar-SmithM98,Surviving Network Partitioning.,P. M. Melliar-Smith   Louise E. Moser   ,1998
+340,conf/acl/Dorr92,A Parameterized Approach to Integrating Aspect with Lexical-Semanics for Machine Translation.,Bonnie J. Dorr   ,1992
+341,conf/crypto/ZhengMI90,Structural Properties of One-way Hash Functions.,Yuliang Zheng   Tsutomu Matsumoto   Hideki Imai   ,1990
+342,journals/ci/Shieber94,Restricting the Weak-Generative Capacity of Synchronous Tree-Adjoining Grammars .,Stuart M. Shieber   ,1994
+343,journals/coling/Vijay-ShankerW94,Parsing Some Constrained Grammar Formalisms.,K. Vijay-Shanker   David J. Weir   ,1993
+344,journals/corr/cmp-lg-9505028,D-Tree Grammars,Owen Rambow   K. Vijay-Shanker   David J. Weir   ,1995
+345,conf/acl/RambowVW95,D-Tree Grammars.,Owen Rambow   K. Vijay-Shanker   David J. Weir   ,1995
+346,conf/icpp/AdveH90,Implementing Sequential Consistency in Cache-Based Systems.,Sarita V. Adve   Mark D. Hill   ,1990
+347,journals/jolli/KaminskiS09,Terminating Tableau Systems for Hybrid Logic with Difference and Converse.,Mark Kaminski   Gert Smolka   ,2009
+348,journals/tkde/HaritsaS00,Real-Time Index Concurrency Control.,Jayant R. Haritsa   S. Seshadri   ,2000
+349,journals/sigmod/HaritsaS96,Real-Time Index Concurrency Control.,Jayant R. Haritsa   S. Seshadri   ,1996
+350,conf/rtdb/HaritsaS01,Real-Time Index Concurrency Control.,Jayant R. Haritsa   S. Seshadri   ,2001
+351,conf/sigmod/McKenzieS87,Extending the Relational Algebra to Support Transaction Time.,L. Edwin McKenzie   Richard T. Snodgrass   ,1987
+352,conf/pldi/SteeleW90,How to Print Floating-Point Numbers Accurately.,Guy L. Steele Jr.   Jon L. White   ,1990
+353,conf/dexaw/ZamanSG04,An Auto-Indexing Technique for Databases Based on Clustering.,Mujiba Zaman   Jyotsna Surabattula   Le Gruenwald   ,2004
+354,conf/cvpr/JainKG08,Fast image search for learned metrics.,Prateek Jain   Brian Kulis   Kristen Grauman   ,2008
+355,journals/endm/Boughaci10,A Differential Evolution Algorithm for the Winner Determination Problem in Combinatorial Auctions.,Dalila Boughaci   ,2010
+356,journals/ml/Michalski93,Inferential Theory of Learning as a Conceptual Basis for Multistrategy Learning.,Ryszard S. Michalski   ,1993
+357,conf/dexa/BooksteinK90,Information Retrieval Tools for Literary Analysis.,Abraham Bookstein   Shmuel T. Klein   ,1990
+358,journals/comcom/TanenbaumKRB91,The Amoeba distributed operating system - A status report.,Andrew S. Tanenbaum   M. Frans Kaashoek   Robbert van Renesse   Henri E. Bal   ,1991
+359,journals/corr/cs-NI-9809095,Congestion Avoidance in Computer Networks with a Connectionless Network Layer Part I Concepts Goals and Methodology,Raj Jain   K. Ramakrishnan   ,1998
+360,conf/sigopsE/RenesseTS88,Functional specialization in distributed operating systems.,Robbert van Renesse   Andrew S. Tanenbaum   Gregory J. Sharp   ,1988
+361,journals/corr/cs-NI-9809095,Congestion Avoidance in Computer Networks with a Connectionless Network Layer Part I Concepts Goals and Methodology,Raj Jain   K. Ramakrishnan   ,1998
+362,conf/sigcse/KheraAK93,The internet programming contest a report and philosophy.,Vivek Khera   Owen L. Astrachan   David Kotz   ,1993
+363,conf/icip/ApostolopoulosWT02,Performance of a multiple description streaming media content delivery network.,John G. Apostolopoulos   Susie Wee   Wai-tian Tan   ,2002
+364,journals/pami/GrimsonH92,Introduction to the Special Issue on Interpretation of 3-D Scenes.,W. Eric L. Grimson   Daniel P. Huttenlocher   ,1992
+365,journals/pami/GrimsonH92,Introduction to the Special Issue on Interpretation of 3-D Scenes.,W. Eric L. Grimson   Daniel P. Huttenlocher   ,1992
+366,conf/rtss/ShrivastavaW91,Using Objects and Actions to Provide Fault Tolerance in Distributed Real-Time Applications.,Santosh K. Shrivastava   A. Waterworth   ,1991
+367,journals/corr/cs-NI-9809095,Congestion Avoidance in Computer Networks with a Connectionless Network Layer Part I Concepts Goals and Methodology,Raj Jain   K. Ramakrishnan   ,1998
+368,conf/vlsid/PaikRS93,Heuristics for the Placement of Flip-Flops in Partial Scan Designs and the Placement of Signal Boosters in Lossy Circuits.,Doowon Paik   Sudhakar M. Reddy   Sartaj Sahni   ,1993
+369,conf/srds/RaoAV98,The Cost of Recovery in Message Logging Protocols.,Sriram Rao   Lorenzo Alvisi   Harrick M. Vin   ,1998
+370,conf/hicss/KihlstromMM98,The SecureRing Protocols for Securing Group Communication.,Kim Potter Kihlstrom   Louise E. Moser   P. M. Melliar-Smith   ,1998
+371,journals/concurrency/SaltzBW91,Multiprocessors and run-time compilation.,Joel H. Saltz   Harry Berryman   Janet Wu   ,1991
+372,conf/micro/MalloyGS92,A shape matching approach for scheduling fine-grained parallelism.,Brian A. Malloy   Rajiv Gupta   Mary Lou Soffa   ,1992
+373,conf/sosp/CarterBZ91,Implementation and Performance of Munin.,John B. Carter   John K. Bennett   Willy Zwaenepoel   ,1991
+374,conf/interspeech/FlammiaGPPSZ94,Porting the bilingual voyager system to Italian.,Giovanni Flammia   James R. Glass   Michael S. Phillips   Joseph Polifroni   Stephanie Seneff   Victor W. Zue   ,1994
+375,journals/dke/CarreiraGLP07,One-to-many data transformations through data mappers.,Paulo Carreira   Helena Galhardas   Ant oacute,
+376,conf/qsic/KaiyaSK06,PORTAM Policy Requirements and Threats Analyzer for Mobile Code Application.,Haruhiko Kaiya   Kouta Sasaki   Kenji Kaijiri   ,2006
+377,journals/cga/MortensenYKTSMS08,Real-Time Global Illumination for VR Applications.,Jesper Mortensen   Insu Yu   Pankaj Khanna   Franco Tecchia   Bernhard Spanlang   Giuseppe Marino   Mel Slater   ,2008
+378,conf/dbpl/Moss89,Addressing Large Distributed Collections of Persistent Objects The Mneme Project's Approach.,J. Eliot B. Moss   ,1989
+379,journals/siamcomp/AwerbuchCKMP98,Optimal Broadcast with Partial Knowledge.,Baruch Awerbuch   Israel Cidon   Shay Kutten   Yishay Mansour   David Peleg   ,1998
+380,journals/bsl/LincolnMS96,Linear logic proof games and optimization.,Patrick Lincoln   John C. Mitchell   Andre Scedrov   ,1996
+381,journals/amai/Hegner06,The complexity of embedded axiomatization for a class of closed database views.,Stephen J. Hegner   ,2006
+382,journals/algorithmica/CidonG90,Dynamic Detection of Subgraphs in Computer Networks.,Israel Cidon   Inder S. Gopal   ,1990
+383,conf/infocom/GopalGK90,Broadcast in Fast Networks.,Ajei S. Gopal   Inder S. Gopal   Shay Kutten   ,1990
+384,conf/smc/PejtersenR04,Cognitive work analysis of new collaborative work.,Annelise Mark Pejtersen   Jens Rasmussen   ,2004
+385,journals/siamcomp/KampZ07,Deterministic Extractors for Bit-Fixing Sources and Exposure-Resilient Cryptography.,Jesse Kamp   David Zuckerman   ,2007
+386,journals/is/KemperM92,Access Support Relations An Indexing Method for Object Bases.,Alfons Kemper   Guido Moerkotte   ,1992
+387,journals/tog/BajajIP01,3D RGB image compression for interactive applications.,Chandrajit L. Bajaj   Insung Ihm   Sanghun Park   ,2001
+388,conf/graphicsinterface/IhmP98,Wavelet-Based 3D Compression Scheme for Very Large Volume Data.,Insung Ihm   Sanghun Park   ,1998
+389,journals/bsl/LincolnMS96,Linear logic proof games and optimization.,Patrick Lincoln   John C. Mitchell   Andre Scedrov   ,1996
+390,journals/taasm/JohnsonPRNJ10,High-tech indicators assessing the competitiveness of selected European countries.,David M. Johnson   Alan L. Porter   J. David Roessner   Nils C. Newman   Xiao-Yin Jin   ,2010
+391,journals/tc/GoswamiIY97,DEPEND A Simulation-Based Environment for System Level Dependability Analysis.,Kumar K. Goswami   Ravishankar K. Iyer   Luke T. Young   ,1997
+392,conf/aied/Chan05,Some New Perspectives on Learning Companion Research.,Tak-Wai Chan   ,2005
+393,journals/pami/BergenBHP92,A Three-Frame Algorithm for Estimating Two-Component Image Motion.,James R. Bergen   Peter J. Burt   Rajesh Hingorani   Shmuel Peleg   ,1992
+394,journals/eccc/ECCC-TR98-017,Computational Indistinguishability A Sample Hierarchy,Oded Goldreich   Madhu Sudan   ,1998
+395,journals/jcss/GoldreichS99,Computational Indistinguishability A Sample Hierarchy.,Oded Goldreich   Madhu Sudan   ,1999
+396,conf/coco/GoldreichS98,Computational Indistinguishability A Sample Hierarchy.,Oded Goldreich   Madhu Sudan   ,1998
+397,conf/iccad/ChoudhuryS90,Constraint-Based Channel Routing for Analog and Mixed Analog/Digital Circuits.,Umakanta Choudhury   Alberto L. Sangiovanni-Vincentelli   ,1990
+398,journals/tcad/LeeHR92,Pole and zero sensitivity calculation in asymptotic waveform evaluation.,John Y. Lee   Xiaoli Huang   Ronald A. Rohrer   ,1992
+399,journals/qic/KaplanLKR11,Non-local box complexity and secure function evaluation.,Marc Kaplan   Sophie Laplante   Iordanis Kerenidis   J eacute,
+400,conf/fsttcs/KaplanKLR09,Non-Local Box Complexity and Secure Function Evaluation.,Marc Kaplan   Iordanis Kerenidis   Sophie Laplante   J eacute,
+401,journals/dcc/AssmusK96,Designs and Codes An update.,E. F. Assmus Jr.   Jennifer D. Key   ,1996
+402,journals/dm/ChungGTT90,The maximum number of edges in 2K,Fan R. K. Chung   Andr aacute,
+403,journals/coling/SchabesS94,An Alternative Conception of Tree-Adjoining Derivation.,Yves Schabes   Stuart M. Shieber   ,1994
+404,conf/acl/SchabesS92,An Alternative Conception of Tree-Adjoining Derivation.,Yves Schabes   Stuart M. Shieber   ,1992
+405,conf/riao/ZueGCGHLPPS91,Spoken language systems for human/machine interfaces.,Victor Zue   James R. Glass   Dave Coddeau   David Goodine   Lynette Hirschman   Hong C. Leung   Michael S. Phillips   Joseph Polifroni   Stephanie Seneff   ,1991
+406,conf/cvpr/WangZSW06,Semi-Supervised Classification Using Linear Neighborhood Propagation.,Fei Wang 0001   Changshui Zhang   Helen C. Shen   Jingdong Wang   ,2006
+407,conf/compgeom/AgarwalKO91,Intersection Queries for Curved Objects (Extended Abstract).,Pankaj K. Agarwal   Marc J. van Kreveld   Mark H. Overmars   ,1991
+408,conf/focs/GoldmanKS90,Exact Identification of Circuits Using Fixed Points of Amplification Functions (Extended Abstract),Vaughan R. Pratt   Foong Frances Yao   ,1990
+409,journals/lisp/JonesSS89,Mix A Self-Applicable Partial Evaluator for Experiments in Compiler Generation.,Neil D. Jones   Peter Sestoft   Harald S oslash,
+410,journals/sigops/TanenbaumM81,An Overview of the Amoeba Distributed Operating System.,Andrew S. Tanenbaum   Sape J. Mullender   ,1981
+411,journals/tocs/CarterBZ95,Techniques for Reducing Consistency-Related Communication in Distributed Shared-Memory Systems,John B. Carter   John K. Bennett   Willy Zwaenepoel   ,1995
+412,conf/iva/SmithRBLGW07,Affect and Metaphor in an ICA Further Developments.,C. J. Smith   Timothy H. Rumbell   John A. Barnden   Mark G. Lee   Sheila Glasbey   Alan M. Wallington   ,2007
+413,journals/taasm/PorterNRJJ09,International high tech competitiveness does China rank number 1?,Alan L. Porter   Nils C. Newman   J. David Roessner   David M. Johnson   Xiao-Yin Jin   ,2009
+414,journals/tjs/BowenJ01,An Approach to the Specification and Verification of a Hardware Compilation Scheme.,Jonathan P. Bowen   Jifeng He   ,2001
+415,conf/avss/ShuHLBCST05,IBM smart surveillance system (S3) a open and extensible framework for event based surveillance.,Chiao-Fe Shu   Arun Hampapur   Max Lu   Lisa M. G. Brown   Jonathan Connell   Andrew W. Senior   Ying-li Tian   ,2005
+416,journals/spe/KaashoekBT92,A Comparison of Two Paradigms for Distributed Shared Memory.,M. Frans Kaashoek   Henri E. Bal   Andrew S. Tanenbaum   ,1992
+417,journals/jpdc/RankaS90,Image Template Matching on MIMD Hypercube Multicomputers.,Sanjay Ranka   Sartaj Sahni   ,1990
+418,conf/pos/FeketeLMW89,Commutativity-Based Locking for Nested Transactions.,Alan Fekete   Nancy A. Lynch   Michael Merritt   William E. Weihl   ,1989
+419,journals/jpdc/MoserM90,The World Banker's Algorithm.,Louise E. Moser   P. M. Melliar-Smith   ,1990
+420,conf/coling/Huang90,A Machine Translation System for the Target Language Inexpert.,Xiuming Huang   ,1990
+421,conf/aaai/Dorr87,UNITRAN An Interlingual Approach to Machine Translation.,Bonnie J. Dorr   ,1987
+422,conf/icdt/LynchMWF88,A Theory of Atomic Transactions.,Nancy A. Lynch   Michael Merritt   William E. Weihl   Alan Fekete   ,1988
+423,conf/infocom/Pang90,Perspectives on Fiber Distributed Data Interface (FDDI).,Joseph Pang   ,1990
+424,conf/focs/Yao92,Algebraic Decision Trees and Euler Characteristics,Danny Dolev   Cynthia Dwork   Orli Waarts   Moti Yung   ,1992
+425,conf/oopsla/KahnS90,Actors as a Special Case of Concurrent Constraint Programming.,Kenneth M. Kahn   Vijay A. Saraswat   ,1990
+426,journals/tit/Immink95,Constructions of almost block-decodable runlength-limited codes.,Kees A. Schouhamer Immink   ,1995
+427,conf/acl/Pereira89,A Calculus for Semantic Composition and Scoping.,Fernando C. N. Pereira   ,1989
+428,journals/corr/abs-0707-0701,Clustering and Feature Selection using Sparse Principal Component Analysis,Ronny Luss   Alexandre d'Aspremont   ,2007
+429,journals/sigops/LiskovGJS91,A Replicated Unic File System.,Barbara Liskov   Robert Gruber   Paul Johnson   Liuba Shrira   ,1991
+430,conf/sigopsE/LiskovGJS90,A replicated Unix file system.,Barbara Liskov   Robert Gruber   Paul Johnson   Liuba Shrira   ,1990
+431,conf/wmrd/LiskovGJS90,A Replicated Unix File System.,Barbara Liskov   Robert Gruber   Paul Johnson   Liuba Shrira   ,1990
+432,conf/uml/KnappKZH04,Modeling Business Processes in Web Applications with ArgoUWE.,Alexander Knapp   Nora Koch   Gefei Zhang   Hanns-Martin Hassler   ,2004
+433,journals/cpc/DoerrF09,Deterministic Random Walks on the Two-Dimensional Grid.,Benjamin Doerr   Tobias Friedrich   ,2009
+434,conf/isaac/DoerrF06,Deterministic Random Walks on the Two-Dimensional Grid.,Benjamin Doerr   Tobias Friedrich   ,2006
+435,conf/uai/Wellman90,Exploiting functional dependencies in qualitative probabilistic reasoning.,Michael P. Wellman   ,1990
+436,journals/tjs/BowenJ01,An Approach to the Specification and Verification of a Hardware Compilation Scheme.,Jonathan P. Bowen   Jifeng He   ,2001
+437,conf/icalp/BodlaenderK91,Better Algorithms for the Pathwidth and Treewidth of Graphs.,Hans L. Bodlaender   Ton Kloks   ,1991
+438,journals/speech/GlassFGPPSSZ95,Multilingual spoken-language understanding in the MIT Voyager system.,James R. Glass   Giovanni Flammia   David Goodine   Michael S. Phillips   Joseph Polifroni   Shinsuke Sakai   Stephanie Seneff   Victor Zue   ,1995
+439,conf/acii/RumbellSBLGW07,Metaphor and Affect Detection in an ICA.,Timothy H. Rumbell   C. J. Smith   John A. Barnden   Mark G. Lee   Sheila Glasbey   Alan M. Wallington   ,2007
+440,conf/webdb/PageHMPV05,On the Expressive Power of Node Construction in XQuery.,Wim Le Page   Jan Hidders   Philippe Michiels   Jan Paredaens   Roel Vercammen   ,2005
+441,conf/icga/WhitleySF89,Scheduling Problems and Traveling Salesmen The Genetic Edge Recombination Operator.,L. Darrell Whitley   Timothy Starkweather   D'Ann Fuquay   ,1989
+442,journals/siamcomp/MoserMA93,Asynchronous Fault-Tolerant Total Ordering Algorithms.,Louise E. Moser   P. M. Melliar-Smith   Vivek Agrawala   ,1993
+443,conf/tacas/MoserM96,Probabilistic Duration Automata for Analyzing Real-Time Systems.,Louise E. Moser   P. M. Melliar-Smith   ,1996
+444,journals/corr/cs-NI-9809093,A Delay Based Approach for Congestion Avoidance in Interconnected Heterogeneous Computer Networks,Raj Jain   ,1998
+445,conf/icdt/LynchMWF88,A Theory of Atomic Transactions.,Nancy A. Lynch   Michael Merritt   William E. Weihl   Alan Fekete   ,1988
+446,journals/siamsc/JohnK05,A Finite Element Variational Multiscale Method for the Navier-Stokes Equations.,Volker John   Songul Kaya   ,2005
+447,journals/corr/cs-NI-9809093,A Delay Based Approach for Congestion Avoidance in Interconnected Heterogeneous Computer Networks,Raj Jain   ,1998
+448,conf/performance/MinkDRC87,Hardware-Assisted Multiprocessor Performance Measurement.,Alan Mink   Jesse M. Draper   John W. Roberts   Robert J. Carpenter   ,1987
+449,journals/fac/JifengB94,Specification Verification and Prototyping of an Optimized Compiler.,Jifeng He   Jonathan P. Bowen   ,1994
+450,journals/corr/cs-NI-9809093,A Delay Based Approach for Congestion Avoidance in Interconnected Heterogeneous Computer Networks,Raj Jain   ,1998
+451,conf/interspeech/ZueGGHLPPS91,The MIT ATIS system preliminary development spontaneous speech data collection and performance evaluation.,Victor W. Zue   James R. Glass   David Goodine   Lynette Hirschman   Hong C. Leung   Michael S. Phillips   Joseph Polifroni   Stephanie Seneff   ,1991
+452,journals/sigops/Nessett90,A Critique of the Burrows Abadi and Needham Logic.,Dan M. Nessett   ,1990
+453,journals/sigops/Nessett90,A Critique of the Burrows Abadi and Needham Logic.,Dan M. Nessett   ,1990
+454,journals/ci/Strzalkowski90,Reversible logic grammars for natural language parsing and generation.,Tomek Strzalkowski   ,1990
+455,journals/sigops/Nessett90,A Critique of the Burrows Abadi and Needham Logic.,Dan M. Nessett   ,1990
+456,conf/rtss/AttiyaL89,Time Bounds for Real-Time Process Control in the Presence of Timing Uncertainty.,Hagit Attiya   Nancy A. Lynch   ,1989
+457,conf/hicss/DongMH97,Computing the Aperiodic and Oscillatory Small Signal Stability Boundaries in Modern Power Grids.,Zhao Yang Dong   Yuri V. Makarov   David J. Hill   ,1997
+458,conf/acl/AgerriBLW07,On the formalization of Invariant Mappings for Metaphor Interpretation.,Rodrigo Agerri   John A. Barnden   Mark G. Lee   Alan M. Wallington   ,2007
+459,conf/eacl/BarndenGLW03,Domain-transcending mappings in a system for metaphorical reasoning.,John A. Barnden   Sheila Glasbey   Mark G. Lee   Alan M. Wallington   ,2003
+460,conf/icde/NutanongZTK09,V*-kNN An Efficient Algorithm for Moving k Nearest Neighbor Queries.,Sarana Nutanong   Rui Zhang 0003   Egemen Tanin   Lars Kulik   ,2009
+461,conf/isorc/KalogerakiMM00,Dynamic Scheduling for Soft Real-Time Distributed Object Systems.,Vana Kalogeraki   P. M. Melliar-Smith   Louise E. Moser   ,2000
+462,conf/sigcse/KheraAK93,The internet programming contest a report and philosophy.,Vivek Khera   Owen L. Astrachan   David Kotz   ,1993
+463,journals/corr/cs-NI-9809094,Congestion Avoidance in Computer Networks with a Connectionless Network Layer,Raj Jain   K. Ramakrishnan   Dah-Ming Chiu   ,1998
+464,conf/ijcai/Chan91,Integration-Kid A Learning Companion System.,Tak-Wai Chan   ,1991
+465,conf/avss/HampapurBFSSTZL07,Searching surveillance video.,Arun Hampapur   Lisa M. G. Brown   Rogerio Feris   Andrew W. Senior   Chiao-Fe Shu   Ying-li Tian   Yun Zhai   Max Lu   ,2007
+466,journals/corr/cs-NI-9809094,Congestion Avoidance in Computer Networks with a Connectionless Network Layer,Raj Jain   K. Ramakrishnan   Dah-Ming Chiu   ,1998
+467,journals/corr/cs-NI-9809094,Congestion Avoidance in Computer Networks with a Connectionless Network Layer,Raj Jain   K. Ramakrishnan   Dah-Ming Chiu   ,1998
+468,conf/iccad/LeeHR90,Efficient Pole Zero Sensitivity Calculation in AWE.,John Y. Lee   Xiaoli Huang   Ronald A. Rohrer   ,1990
+469,journals/ton/KumarAMG07,New insights from a fixed-point analysis of single cell IEEE 802.11 WLANs.,Anurag Kumar   Eitan Altman   Daniele Miorandi   Munish Goyal   ,2007
+470,conf/infocom/KumarAMG05,New insights from a fixed point analysis of single cell IEEE 802.11 WLANs.,Anurag Kumar   Eitan Altman   Daniele Miorandi   Munish Goyal   ,2005
+471,journals/amai/Hegner04,An Order-Based Theory of Updates for Closed Database Views.,Stephen J. Hegner   ,2004
+472,conf/eacl/Linden89,Lambek Theorem Proving And Feature Unification.,Erik-Jan van der Linden   ,1989
+473,journals/computer/VaxiviereT92,Celesstin CAD Conversion of Mechanical Drawings.,Pascal Vaxivi egrave,
+474,journals/ivc/Fisher92,Representation extraction and recognition with second-order topographic surface features.,Robert B. Fisher   ,1992
+475,conf/dawak/CabibboT00,The Design and Development of a Logical System for OLAP.,Luca Cabibbo   Riccardo Torlone   ,2000
+476,conf/ipco/SchneiderHS90,Max-Balanced Flows.,Michael H. Schneider   Mark E. Hartmann   Hans Schneider   ,1990
+477,conf/naacl/BergerBPPGLMPU94,The Candide System for Machine Translation.,Adam L. Berger   Peter F. Brown   Stephen Della Pietra   Vincent J. Della Pietra   John R. Gillett   John D. Lafferty   Robert L. Mercer   Harry Printz   Lubos Ures   ,1994
+478,conf/colt/GoldmanKS90,On the Sample Complexity of Weak Learning.,Sally A. Goldman   Michael J. Kearns   Robert E. Schapire   ,1990
+479,conf/context/AgerriBLW07,Default Inferences in Metaphor Interpretation.,Rodrigo Agerri   John A. Barnden   Mark G. Lee   Alan M. Wallington   ,2007
+480,journals/ce/KreijnsKJB07,Measuring perceived sociability of computer-supported collaborative learning environments.,Karel Kreijns   Paul A. Kirschner   Wim M. G. Jochems   Hans van Buuren   ,2007
+481,journals/tjs/RankaS90,Computing Hough transforms on hypercube multicomputers.,Sanjay Ranka   Sartaj Sahni   ,1990
+482,conf/wdag/MoserM95,Total Ordering Algorithms for Asynchronous Byzantine Systems.,Louise E. Moser   P. M. Melliar-Smith   ,1995
+483,journals/tgis/LiZ06,A Generalized Markov Chain Approach for Conditional Simulation of Categorical Variables from Grid Samples.,Weidong Li   Chuanrong Zhang   ,2006
+484,conf/trec/ZhangL03,A Language Modeling Approach to Passage Question Answering.,Dell Zhang   Wee Sun Lee   ,2003
+485,journals/cvgip/IraniP91,Improving resolution by image registration.,Michal Irani   Shmuel Peleg   ,1991
+486,conf/sigcomm/CheritonD85,Host groups a multicast extension for datagram internetworks.,David R. Cheriton   Stephen E. Deering   ,1985
+487,conf/visualization/AliagaFYC02,Sea of Images.,Daniel G. Aliaga   Thomas A. Funkhouser   Dimah Yanovsky   Ingrid Carlbom   ,2002
+488,conf/coling/Kuhns90a,Automatic Indexing and Government-Binding Theory.,Robert J. Kuhns   ,1990
+489,journals/entcs/BonacinaE07a,Rewrite-Based Decision Procedures.,Maria Paola Bonacina   Mnacho Echenim   ,2007
+490,conf/fsttcs/MitraS91,AC-Equation Solving.,Subrata Mitra   G. Sivakumar   ,1991
+491,journals/tsp/OtterstenVK92,Analysis of subspace fitting and ML techniques for parameter estimation from sensor array data.,Bj ouml,
+492,journals/ijmms/Gaines87,An Overview of Knowledge-Acquisition and Transfer.,Brian R. Gaines   ,1987
+493,journals/ccr/AndersenBKM03,Experience with an evolving overlay network testbed.,David G. Andersen   Hari Balakrishnan   M. Frans Kaashoek   Robert Morris   ,2003
+494,journals/coling/BrownPPM94,The Mathematics of Statistical Machine Translation Parameter Estimation.,Peter F. Brown   Stephen Della Pietra   Vincent J. Della Pietra   Robert L. Mercer   ,1993
+495,journals/tcs/HahnlePRW08,Integration of a security type system into a program logic.,Reiner H auml,
+496,conf/tgc/HahnlePRW06,Integration of a Security Type System into a Program Logic.,Reiner H auml,
+497,conf/icml/RamseyGS90,Simulation-Assisted Learning by Competition Effects of Noise Differences Between Training Model and Target Environment.,Connie Loggia Ramsey   John J. Grefenstette   Alan C. Schultz   ,1990
+498,journals/computer/TanenbaumKB92,Parallel Programming Using Shared Objects and Broadcasting.,Andrew S. Tanenbaum   M. Frans Kaashoek   Henri E. Bal   ,1992
+499,journals/cacm/KaplanKBLD90,Agenda A Personal Information Manager.,S. Jerrold Kaplan   Mitchell Kapor   Edward J. Belove   Richard A. Landsman   Todd D. Drake   ,1990
+500,journals/rts/HaritsaCL92,Data Access Scheduling in Firm Real-Time Database Systems.,Jayant R. Haritsa   Michael J. Carey   Miron Livny   ,1992
+501,conf/icip/WeeA01,Unbalanced multiple description video communication using path diversity.,Susie J. Wee   John G. Apostolopoulos   ,2001
+502,conf/pos/ClarkeWW87,Object Management Support for Software Development Environments.,Lori A. Clarke   Jack C. Wileden   Alexander L. Wolf   ,1987
+503,conf/IEEEcgiv/MortensenKYS07,A Visibility Field for Ray Tracing.,Jesper Mortensen   Pankaj Khanna   Insu Yu   Mel Slater   ,2007
+504,conf/vlsm/BarBSK05,Color Image Deblurring with Impulsive Noise.,Leah Bar   Alexander Brook   Nir A. Sochen   Nahum Kiryati   ,2005
+505,conf/oopsla/SkarraZ86,The Management of Changing Types in an Object-Oriented Database.,Andrea H. Skarra   Stanley B. Zdonik   ,1986
+506,journals/tjs/RankaS90,Computing Hough transforms on hypercube multicomputers.,Sanjay Ranka   Sartaj Sahni   ,1990
+507,journals/spe/RenesseST89,The Performance of the Amoeba Distributed Operating system.,Robbert van Renesse   Hans van Staveren   Andrew S. Tanenbaum   ,1989
+508,conf/icsoc/Zhao07,Byzantine Fault Tolerant Coordination for Web Services Atomic Transactions.,Wenbing Zhao   ,2007
+509,conf/mva/ChooNK90,Relaxation Based Modeling and Recognition of 3D Surfaces from Range Data.,Chang Y. Choo   Nasser M. Nasrabadi   William I. Kwak   ,1990
+510,conf/edbt/CabibboT98,A Logical Approach to Multidimensional Databases.,Luca Cabibbo   Riccardo Torlone   ,1998
+511,journals/concurrency/TanenbaumBHK94,Object-based approach to programming distributed systems.,Andrew S. Tanenbaum   Henri E. Bal   Saniya Ben Hassen   M. Frans Kaashoek   ,1994
+512,conf/pods/FeketeLMW87,Nested Transactions and Read/Write Locking.,Alan Fekete   Nancy A. Lynch   Michael Merritt   William E. Weihl   ,1987
+513,journals/pami/GrimsonH91a,On the Verification of Hypothesized Matches in Model-Based Recognition.,W. Eric L. Grimson   Daniel P. Huttenlocher   ,1991
+514,journals/pami/GrimsonH91a,On the Verification of Hypothesized Matches in Model-Based Recognition.,W. Eric L. Grimson   Daniel P. Huttenlocher   ,1991
+515,journals/iacr/CamenischHL05,Compact E-Cash.,Jan Camenisch   Susan Hohenberger   Anna Lysyanskaya   ,2005
+516,conf/eurocrypt/CamenischHL05,Compact E-Cash.,Jan Camenisch   Susan Hohenberger   Anna Lysyanskaya   ,2005
+517,journals/cogsci/HolyoakT89,Analogical Mapping by Constraint Satisfaction.,Keith J. Holyoak   Paul Thagard   ,1989
+518,journals/spe/RenesseST89,The Performance of the Amoeba Distributed Operating system.,Robbert van Renesse   Hans van Staveren   Andrew S. Tanenbaum   ,1989
+519,conf/adbis/HegnerS07,Update Support for Database Views Via Cooperation.,Stephen J. Hegner   Peggy Schmidt   ,2007
+520,conf/icci/ChenH91,Storing Shortest Paths for a Polyhedron.,Jindong Chen   Yijie Han   ,1991
+521,conf/lpar/KaminskiS10,Clausal Graph Tableaux for Hybrid Logic with Eventualities and Difference.,Mark Kaminski   Gert Smolka   ,2010
+522,journals/algorithmica/Chan08,All-Pairs Shortest Paths with Real Weights in,Timothy M. Chan   ,2008
+523,conf/wads/Chan05,All-Pairs Shortest Paths with Real Weights in,Timothy M. Chan   ,2005
+524,conf/ancs/MeinersLTP11,Split Optimizing Space Power and Throughput for TCAM-Based Classification.,Chad R. Meiners   Alex X. Liu   Eric Torng   Jignesh Patel   ,2011
+525,conf/stacs/BeigelGH90,Counting Classes Thresholds Parity Mods and Fewness.,Richard Beigel   John Gill   Ulrich Hertrampf   ,1990
+526,conf/kivs/BauseB93,Qualitative und Quantitative Analysis of Timed SDL Specifications.,Falko Bause   Peter Buchholz   ,1993
+527,conf/icdcs/TanenbaumMR86,Using Sparse Capabilities in a Distributed Operating System.,Andrew S. Tanenbaum   Sape J. Mullender   Robbert van Renesse   ,1986
+528,journals/bc/YangS91,Minimum mean square error estimation of connectivity in biological neural networks.,X. Yang   Shihab A. Shamma   ,1991
+529,journals/spe/MoserM90,Formal Verification of Safety-critical Systems.,Louise E. Moser   P. M. Melliar-Smith   ,1990
+530,conf/eccv/BergenBHP90,Transparent-Motion Analysis.,James R. Bergen   Peter J. Burt   Rajesh Hingorani   Shmuel Peleg   ,1990
+531,conf/ipco/KamathKRR90,Computational Experience with an Interior Point Algorithm on the Satisfiability Problem.,Anil P. Kamath   Narendra Karmarkar   K. G. Ramakrishnan   Mauricio G. C. Resende   ,1990
+532,conf/icdcs/KalogerakiMM01,Dynamic Migration Algorithms for Distributed Object Systems.,Vana Kalogeraki   P. M. Melliar-Smith   Louise E. Moser   ,2001
+533,conf/icdt/LynchMWF88,A Theory of Atomic Transactions.,Nancy A. Lynch   Michael Merritt   William E. Weihl   Alan Fekete   ,1988
+534,journals/tpds/GuoM94,Embedding Binary X-Trees and Pyramids in Processor Arrays with Spanning Buses.,Zicheng Guo   Rami G. Melhem   ,1994
+535,conf/icwe/KnappKZ05,Modelling the Behaviour of Web Applications with ArgoUWE.,Alexander Knapp   Nora Koch   Gefei Zhang   ,2005
+536,journals/vldb/HaritsaCL93,Value-Based Scheduling in Real-Time Database Systems,Jayant R. Haritsa   Michael J. Carey   Miron Livny   ,1993
+537,conf/rtss/HaritsaLC91,Earliest Deadline Scheduling for Real-Time Database Systems.,Jayant R. Haritsa   Miron Livny   Michael J. Carey   ,1991
+538,journals/tocs/LadinLSG92,Providing High Availability Using Lazy Replication.,Rivka Ladin   Barbara Liskov   Liuba Shrira   Sanjay Ghemawat   ,1992
+539,journals/automatica/Mareels93,Linear controller design limits of performance  Stephen P. Boyd and Craig H. Barratt.,I. Mareels   ,1993
+540,journals/cgf/IhmP99,Wavelet-Based 3D Compression Scheme for Interactive Visualization of Very Large Volume Data.,Insung Ihm   Sanghun Park   ,1999
+541,journals/tocs/LadinLSG92,Providing High Availability Using Lazy Replication.,Rivka Ladin   Barbara Liskov   Liuba Shrira   Sanjay Ghemawat   ,1992
+542,journals/tcad/CongKR93,Matching-based methods for high-performance clock routing.,Jason Cong   Andrew B. Kahng   Gabriel Robins   ,1993
+543,conf/nips/ZueGGHLPPS90,From Speech Recognition to Spoken Language Understanding.,Victor Zue   James R. Glass   David Goodine   Lynette Hirschman   Hong C. Leung   Michael S. Phillips   Joseph Polifroni   Stephanie Seneff   ,1990
+544,journals/ijhpca/GroenHZ10,The Living Application a Self-Organizing System for Complex Grid Tasks.,Derek Groen   Stefan Harfst   Simon Portegies Zwart   ,2010
+545,journals/corr/abs-0907-4036,The Living Application a Self-Organising System for Complex Grid Tasks,Derek Groen   Stefan Harfst   Simon Portegies Zwart   ,2009
+546,conf/cgi/SlaterMKY04,A Virtual Light Field Approach to Global Illumination.,Mel Slater   Jesper Mortensen   Pankaj Khanna   Insu Yu   ,2004
+547,conf/oodbs/SkarraZR86,An Object Server for an Object-Oriented Database System.,Andrea H. Skarra   Stanley B. Zdonik   Steven P. Reiss   ,1986
+548,journals/automatica/YamamotoH92,Internal and external stability and robust stability condition for a class of infinite-dimensional systems.,Yutaka Yamamoto   Shinji Hara   ,1992
+549,conf/sigmetrics/Jain89,Congestiion Control in Computer Networks.,Raj Jain   ,1989
+550,conf/mva/BunkeGM90,A Flexible Approach to the Construction of Expert Systems for the Application of Image Processing Software.,Horst Bunke   Felix Grimm   Song Maoqiang   ,1990
+551,conf/scm/Dart91,Concepts in Configuration Management Systems.,Susan A. Dart   ,1991
+552,journals/tpds/RankaS91,Clustering on a Hypercube Multicomputer.,Sanjay Ranka   Sartaj Sahni   ,1991
+553,conf/popl/SaraswatR90,Concurrent Constraint Programming.,Vijay A. Saraswat   Martin C. Rinard   ,1990
+554,journals/ijcv/Horn90a,Height and gradient from shading.,Berthold K. P. Horn   ,1990
+555,journals/ijcv/Horn90a,Height and gradient from shading.,Berthold K. P. Horn   ,1990
+556,conf/icml/LebanonZ08,Local likelihood modeling of temporal text streams.,Guy Lebanon   Yang Zhao   ,2008
+557,conf/acl/LappinM90,A Syntactic Filter on Pronomial Anaphora for Slot Grammar.,Shalom Lappin   Michael C. McCord   ,1990
+558,journals/coling/LappinM90,Anaphora Resolution in Slot Grammar.,Shalom Lappin   Michael C. McCord   ,1990
+559,journals/jair/DaiMWG11,Topological Value Iteration Algorithms.,Peng Dai   Mausam   Daniel S. Weld   Judy Goldsmith   ,2011
+560,conf/interspeech/HarbeckKKNN95,Robust pitch period detection using dynamic programming with an ANN cost function.,Stefan Harbeck   Andreas Kie szlig,
+561,conf/dood/FuH95,Meta-Rule-Guided Mining of Association Rules in Relational Databases.,Yongjian Fu   Jiawei Han   ,1995
+562,journals/jcss/FeketeLMW90,Commutativity-Based Locking for Nested Transactions.,Alan Fekete   Nancy A. Lynch   Michael Merritt   William E. Weihl   ,1990
+563,conf/iclp/RamakrishnanSS92,Controlling the Search in Bottom-Up Evaluation.,Raghu Ramakrishnan   Divesh Srivastava   S. Sudarshan   ,1992
+564,conf/scia/BylundRK03,3D Wiener Filtering to Reduce Reverberations in Ultrasound Image Sequences.,Nina Eriksson Bylund   Marcus Ressner   Hans Knutsson   ,2003
+565,conf/iccS/ParkBI04,Visualization of Very Large Oceanography Time-Varying Volume Datasets.,Sanghun Park   Chandrajit L. Bajaj   Insung Ihm   ,2004
+566,conf/dac/ChoudhuryS90,Constraint Generation for Routing Analog Circuits.,Umakanta Choudhury   Alberto L. Sangiovanni-Vincentelli   ,1990
+567,journals/jmlr/WangPB11,Online Variational Inference for the Hierarchical Dirichlet Process.,Chong Wang   John William Paisley   David M. Blei   ,2011
+568,conf/vrst/MortensenKYS07,Real-time global illumination in the CAVE.,Jesper Mortensen   Pankaj Khanna   Insu Yu   Mel Slater   ,2007
+569,conf/interspeech/LaskowskiEH11,Incremental Learning and Forgetting in Stochastic Turn-Taking Models.,Kornel Laskowski   Jens Edlund   Mattias Heldner   ,2011
+570,conf/snpd/SubramanianCS06,An NFR-Based Framework for Establishing Traceability between Enterprise Architectures and System Architectures.,Nary Subramanian   Lawrence Chung   Yeong-Tae Song   ,2006
+571,conf/coling/MooneyCM90,The Generation Of High-Level Structure For Extended Explanations.,David J. Mooney   Sandra Carberry   Kathleen F. McCoy   ,1990
+572,conf/isca/BennettCZ90,Adaptive Software Cache Management for Distributed Shared Memory Architectures.,John K. Bennett   John B. Carter   Willy Zwaenepoel   ,1990
+573,conf/dagstuhl/BennettCZ91,Munin Distributed Shared Memory Using Multi-Protocol Release Consistency.,John K. Bennett   John B. Carter   Willy Zwaenepoel   ,1991
+574,conf/isca/Gharachorloo98,Retrospective Memory Consistency and Event Ordering in Scalable Shared-Memory Multiprocessors.,Kourosh Gharachorloo   ,1998
+575,conf/icsnw/HaaseSH04,Peer Selection in Peer-to-Peer Networks with Semantic Topologies.,Peter Haase   Ronny Siebes   Frank van Harmelen   ,2004
+576,conf/sc/HsiungTCD90,Time dilation visualization in relativity.,Ping-Kang Hsiung   Robert H. Thibadeau   Christopher B. Cox   Robert H. P. Dunn   ,1990
+577,journals/siamsc/BenziO06,An Augmented Lagrangian-Based Approach to the Oseen Problem.,Michele Benzi   Maxim A. Olshanskii   ,2006
+578,conf/apn/Makela01,Optimising Enabling Tests and Unfoldings of Algebraic System Nets.,Marko M auml,
+579,conf/hpdc/TanenbaumBK93,Programming a Distributed System Using Shared Objects.,Andrew S. Tanenbaum   Henri E. Bal   M. Frans Kaashoek   ,1993
+580,journals/tse/BrilliantKL89,The Consistent Comparison Problem in N-Version Software.,Susan S. Brilliant   John C. Knight   Nancy G. Leveson   ,1989
+581,conf/focs/ChazelleF88,A Deterministic View of Random Sampling and its Use in Geometry,Abbas El Gamal   Alon Orlitsky   ,1988
+582,journals/jpdc/CullerP90,The Explicit Token Store.,David E. Culler   Gregory M. Papadopoulos   ,1990
+583,journals/cacm/GibbsTCNP90,Class Management for Software Communities.,Simon J. Gibbs   Dennis Tsichritzis   Eduardo Casais   Oscar Nierstrasz   Xavier Pintado   ,1990
+584,conf/pos/FeketeLMW89,Commutativity-Based Locking for Nested Transactions.,Alan Fekete   Nancy A. Lynch   Michael Merritt   William E. Weihl   ,1989
+585,conf/podc/JohnsonZ88,Recovery in Distributed Systems Using Asynchronous Message Logging and Checkpointing.,David B. Johnson   Willy Zwaenepoel   ,1988
+586,conf/coling/BarndenGLW02,Reasoning in Metaphor Understanding The ATT-Meta Approach and System.,John A. Barnden   Sheila Glasbey   Mark G. Lee   Alan M. Wallington   ,2002
+587,conf/foiks/Hegner02,Uniqueness of Update Strategies for Database Views.,Stephen J. Hegner   ,2002
+588,journals/ci/Schabes94,Left to Right Parsing of Lexicalized Tree-Adjoining Grammars.,Yves Schabes   ,1994
+589,conf/mfps/BrookesG91,Continuous Functions and Parallel Algorithms on Concrete Data Structures.,Stephen D. Brookes   Shai Geva   ,1991
+590,conf/interact/SchmandtHAM90,Observations on using speech input for window navigation.,Chris Schmandt   Debby Hindus   Mark S. Ackerman   Sanjay Manandhar   ,1990
+591,conf/visualization/HsiungTCDWO90,Wide-band Relativistic Doppler Effect Visualization.,Ping-Kang Hsiung   Robert H. Thibadeau   Christopher B. Cox   Robert H. P. Dunn   Michael Wu   P. A. Olbrich   ,1990
+592,journals/spe/RenesseST89,The Performance of the Amoeba Distributed Operating system.,Robbert van Renesse   Hans van Staveren   Andrew S. Tanenbaum   ,1989
+593,journals/tcs/BeigelG92,Counting Classes Thresholds Parity Mods and Fewness.,Richard Beigel   John Gill   ,1992
+594,journals/ets/KreijinsKJ02,The sociability of computer-supported collaborative learning environment.,Karel Kreijns   Paul A. Kirschner   Wim M. G. Jochems   ,2002
+595,conf/eccv/GrimsonH90,On the Verification of Hypthesized Matches in Model-Based Recognition.,W. Eric L. Grimson   Daniel P. Huttenlocher   ,1990
+596,conf/eccv/GrimsonH90,On the Verification of Hypthesized Matches in Model-Based Recognition.,W. Eric L. Grimson   Daniel P. Huttenlocher   ,1990
+597,journals/jal/AgarwalKO93,Intersection Queries in Curved Objects.,Pankaj K. Agarwal   Marc J. van Kreveld   Mark H. Overmars   ,1993
+598,conf/iccpol/PandianG09,CRF Models for Tamil Part of Speech Tagging and Chunking.,S. Lakshmana Pandian   T. V. Geetha   ,2009
+599,journals/dss/Sandholm00,Approaches to winner determination in combinatorial auctions.,Tuomas Sandholm   ,2000
+600,conf/aaai/SandholmS00,Improved Algorithms for Optimal Winner Determination in Combinatorial Auctions and Generalizations.,Tuomas Sandholm   Subhash Suri   ,2000
+601,conf/stoc/LuekerMR86,Linear Programming with Two Variables per Inequality in Poly-Log Time (Preliminary Version),,1986
+602,conf/ecml/Torgo93a,Rule Combination in Inductive Learning.,Lu iacute,
+603,conf/icde/BenderCKMNPSW08,Exploiting social relations for query expansion and result ranking.,Matthias Bender   Tom Crecelius   Mouna Kacimi   Sebastian Michel   Thomas Neumann   Josiane Xavier Parreira   Ralf Schenkel   Gerhard Weikum   ,2008
+604,journals/ijhsc/BarszczCJT89,Flo52 on Hypercubes Performance and Modelling of a Multigrid Euler Code.,Eric Barszcz   Tony F. Chan   Dennis C. Jespersen   Raymond S. Tuminaro   ,1989
+605,conf/sigir/SchenkelCKMNPW08,Efficient top-k querying over social-tagging networks.,Ralf Schenkel   Tom Crecelius   Mouna Kacimi   Sebastian Michel   Thomas Neumann   Josiane Xavier Parreira   Gerhard Weikum   ,2008
+606,journals/cacm/TanenbaumRSSM90,Experiences with the Amoeba Distributed Operating System.,Andrew S. Tanenbaum   Robbert van Renesse   Hans van Staveren   Gregory J. Sharp   Sape J. Mullender   ,1990
+607,conf/pdos/RenesseTM89,The Evolution of a Distributed Operating System.,Robbert van Renesse   Andrew S. Tanenbaum   Sape J. Mullender   ,1989
+608,conf/sdm/RiegelGR08,Massive-Scale Kernel Discriminant Analysis Mining for Quasars.,Ryan Riegel   Alexander G. Gray   Gordon Richards   ,2008
+609,journals/tse/BalKT92,Orca A Language For Parallel Programming of Distributed Systems.,Henri E. Bal   M. Frans Kaashoek   Andrew S. Tanenbaum   ,1992
+610,journals/csys/PikePDFTT95,Phil Winterbottom Plan 9 from Bell Labs.,Rob Pike   David L. Presotto   Sean Dorward   Bob Flandrena   Ken Thompson   Howard Trickey   ,1995
+611,conf/icalp/PanR90,On the Bit-Complexity of Discrete Solutions of PDEs Compact Multigrid.,Victor Y. Pan   John H. Reif   ,1990
+612,conf/pos/FeketeLMW89,Commutativity-Based Locking for Nested Transactions.,Alan Fekete   Nancy A. Lynch   Michael Merritt   William E. Weihl   ,1989
+613,conf/coling/Delannoy90,A message processing system with object-centered semantics.,Jean-Fran ccedil,
+614,conf/interspeech/SaruwatariKTI99,Speech enhancement using nonlinear microphone array under nonstationary noise conditions.,Hiroshi Saruwatari   Shoji Kajita   Kazuya Takeda   Fumitada Itakura   ,1999
+615,journals/ijfcs/AlmeidaMR09,Antimirov and Mosses's Rewrite System Revisited.,Marco Almeida   Nelma Moreira   Rog eacute,
+616,conf/issac/ChouG90,Methods for Mechanical Geometry Formula Deriving.,Shang-Ching Chou   Xiao-Shan Gao   ,1990
+617,journals/tjs/RankaS90,Computing Hough transforms on hypercube multicomputers.,Sanjay Ranka   Sartaj Sahni   ,1990
+618,conf/cocoon/Brent00,Recent Progress and Prospects for Integer Factorisation Algorithms.,Richard P. Brent   ,2000
+619,journals/jirs/SzaboSMLB92,High-level mobility controller for a remotely operated unmanned land vehicle.,Sandor Szabo   Harry Scott   Karl N. Murphy   Steven A. Legowik   Roger Bostelman   ,1992
+620,conf/aips/DaiMW09,Focused Topological Value Iteration.,Peng Dai   Mausam   Daniel S. Weld   ,2009
+621,conf/icml/TecuciK89,Multi-Strategy Learning in Nonhomongeneous Domain Theories.,Gheorghe Tecuci   Yves Kodratoff   ,1989
+622,conf/vldb/SeegerK90,The Buddy-Tree An Efficient and Robust Access Method for Spatial Data Base Systems.,Bernhard Seeger   Hans-Peter Kriegel   ,1990
+623,conf/eacl/Huang83,Dealing With Conjunctions In A Machine Translation Environment.,Xiuming Huang   ,1983
+624,conf/coling/Huang84,Dealing With Conjunctions In A Machine Translation Environment.,Xiuming Huang   ,1984
+625,conf/sigmod/SudarshanSRN91,Space Optimization in the Bottom-Up Evaluation of Logic Programs.,S. Sudarshan   Divesh Srivastava   Raghu Ramakrishnan   Jeffrey F. Naughton   ,1991
+626,conf/naacl/BrownPPM91,A Statistical Approach to Sense Disambiguation in Machine Translation.,Peter F. Brown   Stephen Della Pietra   Vincent J. Della Pietra   Robert L. Mercer   ,1991
+627,journals/toplas/Gomard92,A Self-Applicable Partial Evaluator for the Lambda Calculus Correctness and Pragmatics.,Carsten K. Gomard   ,1992
+628,conf/mva/GerardiCGT90,HERMIA An Heterogeneous and Reconfigurable Machine for Image Analysis.,Gaetano Gerardi   Franco Chiavetta   Vito Di Ges ugrave,
+629,journals/tois/HartE91,Inter-Organization Networks Computer Integration and Shifts in Interdependence The Case of the Semiconductor Industry.,Paul Hart   Deborah Estrin   ,1991
+630,journals/tpds/MoserMA94,Processor Membership in Asynchronous Distributed Systems.,Louise E. Moser   P. M. Melliar-Smith   Vivek Agrawala   ,1994
+631,journals/pami/KangI93,The Complex EGI A New Representation for 3-D Pose Determination.,Sing Bing Kang   Katsushi Ikeuchi   ,1993
+632,journals/computer/MullenderRTRS90,Amoeba A Distributed Operating System for the 1990s.,Sape J. Mullender   Guido van Rossum   Andrew S. Tanenbaum   Robbert van Renesse   Hans van Staveren   ,1990
+633,journals/debu/SchenkelCKNPSW08,Social Wisdom for Search and Recommendation.,Ralf Schenkel   Tom Crecelius   Mouna Kacimi   Thomas Neumann   Josiane Xavier Parreira   Marc Spaniol   Gerhard Weikum   ,2008
+634,conf/icdar/AbdulkaderC09,Low Cost Correction of OCR Errors Using Learning in a Multi-Engine Environment.,Ahmad Abdulkader   Mathew R. Casey   ,2009
+635,journals/jcss/ChangKR95,On Unique Satisfiability and the Threshold Behavior of Randomized Reductions.,Richard Chang   Jim Kadin   Pankaj Rohatgi   ,1995
+636,journals/acta/AnderssonIKO90,Binary Search Trees of Almost Optimal Height.,Arne Andersson   Christian Icking   Rolf Klein   Thomas Ottmann   ,1990
+637,journals/tcad/SilveiraWNV92,On exponential fitting for circuit simulation.,Luis Miguel Silveira   Jacob K. White   Hor aacute,
+638,conf/ices/Garis95,CAM-BRAIN The Evolutionary Engineering of a Billion Neuron Artificial Brain by 2001 Which Grows/Evolves at Electronic Speeds Inside a Cellular Automata Machine (CAM).,Hugo de Garis   ,1995
+639,conf/icse/HarelLNPPSS88,STATEMATE A Working Environment for the Development of Complex Reactive Systems.,David Harel   Hagi Lachover   Amnon Naamad   Amir Pnueli   Michal Politi   Rivi Sherman   Aharon Shtull-Trauring   ,1988
+640,conf/sosp/BurrowsAN89,A Logic of Authentication.,Michael Burrows   Mart iacute,
+641,conf/sosp/BurrowsAN89,A Logic of Authentication.,Michael Burrows   Mart iacute,
+642,conf/sosp/BurrowsAN89,A Logic of Authentication.,Michael Burrows   Mart iacute,
+643,journals/ijcga/ChenH96,Shortest paths on a polyhedron.,Jindong Chen   Yijie Han   ,1996
+644,journals/jacm/AwerbuchCK08,Optimal maintenance of a spanning tree.,Baruch Awerbuch   Israel Cidon   Shay Kutten   ,2008
+645,conf/stoc/AttiyaDLS91,Bounds on the Time to Reach Agreement in the Presence of Timing Uncertainty,,1991
+646,journals/toplas/CleavelandPS93,The Concurrency Workbench A Semantics-Based Tool for the Verification of Concurrent Systems.,Rance Cleaveland   Joachim Parrow   Bernhard Steffen   ,1993
+647,journals/dc/MoserMA93,Necessary and Sufficient Conditions for Broadcast Consensus Protocols.,Louise E. Moser   P. M. Melliar-Smith   Vivek Agrawala   ,1993
+648,journals/jcss/FeketeLMW90,Commutativity-Based Locking for Nested Transactions.,Alan Fekete   Nancy A. Lynch   Michael Merritt   William E. Weihl   ,1990
+649,conf/iclp/Saraswat90,The Paradigm of Concurrent Constraint Programming.,Vijay A. Saraswat   ,1990
+650,conf/sosp/LiskovGGJSW91,Replication in the Harp File System.,Barbara Liskov   Sanjay Ghemawat   Robert Gruber   Paul Johnson   Liuba Shrira   Michael Williams   ,1991
+651,journals/toms/DunklR94a,Algorithm 736 hyperelliptic integrals and the surface measure of ellipsoids.,Charles F. Dunkl   Donald E. Ramirez   ,1994
+652,conf/dac/KahngCR91,High-Performance Clock Routing Based on Recursive Geometric Aatching.,Andrew B. Kahng   Jason Cong   Gabriel Robins   ,1991
+653,journals/tois/Jacob91,The Use of Eye Movements in Human-Computer Interaction Techniques What You Look At is What You Get.,Robert J. K. Jacob   ,1991
+654,conf/pet/KohlweissFFGP07,Efficient Oblivious Augmented Maps Location-Based Services with a Payment Broker.,Markulf Kohlweiss   Sebastian Faust   Lothar Fritsch   Bartek Gedrojc   Bart Preneel   ,2007
+655,conf/icdt/FeketeLW92,Hybrid Atomicity for Nested Transactions.,Alan Fekete   Nancy A. Lynch   William E. Weihl   ,1992
+656,conf/ijcai/JongS91,Learning Concept Classification Rules Using Genetic Algorithms.,Kenneth A. De Jong   William M. Spears   ,1991
+657,conf/issta/PodgurskiC89,The Implications of Program Dependencies for Software Testing Debugging and Maintenance.,Andy Podgurski   Lori A. Clarke   ,1989
+658,journals/sigops/StephensonB91,Fast Causal Multicast.,Pat Stephenson   Kenneth P. Birman   ,1991
+659,journals/vc/BoulicTT90,A global human walking model with real-time kinematic personification.,Ronan Boulic   Nadia Magnenat-Thalmann   Daniel Thalmann   ,1990
+660,journals/ieeesp/SeniorPHBTECSL05,Enabling Video Privacy through Computer Vision.,Andrew W. Senior   Sharath Pankanti   Arun Hampapur   Lisa M. G. Brown   Ying-li Tian   Ahmet Ekin   Jonathan H. Connell   Chiao-Fe Shu   Max Lu   ,2005
+661,conf/vldb/HanF95,Discovery of Multiple-Level Association Rules from Large Databases.,Jiawei Han   Yongjian Fu   ,1995
+662,conf/soda/Chan06,All-pairs shortest paths for unweighted undirected graphs in,Timothy M. Chan   ,2006
+663,conf/sigir/CreceliusKMNPSW08,Social recommendations at work.,Tom Crecelius   Mouna Kacimi   Sebastian Michel   Thomas Neumann   Josiane Xavier Parreira   Ralf Schenkel   Gerhard Weikum   ,2008
+664,conf/mva/TsukadaKNF90,An Automatic Adjustment System for VCR Magnetic Heads on Cylinder Units.,Hiroshi Tsukada   Tadanori Komatsu   Sumio Nagashima   Teruhisa Fukazawa   ,1990
+665,journals/tse/HarelLNPPSST90,STATEMATE A Working Environment for the Development of Complex Reactive Systems.,David Harel   Hagi Lachover   Amnon Naamad   Amir Pnueli   Michal Politi   Rivi Sherman   Aharon Shtull-Trauring   Mark B. Trakhtenbrot   ,1990
+666,journals/jcss/FeketeLMW90,Commutativity-Based Locking for Nested Transactions.,Alan Fekete   Nancy A. Lynch   Michael Merritt   William E. Weihl   ,1990
+667,conf/rex/Lynch89,Multivalued Possibilities Mappings.,Nancy A. Lynch   ,1989
+668,conf/fccm/PatelMSCPC06,A Scalable FPGA-based Multiprocessor.,Arun Patel   Christopher A. Madill   Manuel Salda ntilde,
+669,journals/pvldb/AgrawalKO08,Scheduling shared scans of large data files.,Parag Agrawal   Daniel Kifer   Christopher Olston   ,2008
+670,journals/ml/JongSG93,Using Genetic Algorithms for Concept Learning.,Kenneth A. De Jong   William M. Spears   Diana F. Gordon   ,1993
+671,conf/iccv/GrimsonH90,On the sensitivity of geometric hashing.,W. Eric L. Grimson   Daniel P. Huttenlocher   ,1990
+672,conf/iccv/GrimsonH90,On the sensitivity of geometric hashing.,W. Eric L. Grimson   Daniel P. Huttenlocher   ,1990
+673,conf/coling/VeronisI90,Word Sense Disambiguation with Very Large Neural Networks Extracted from Machine Readable Dictionaries.,Jean V eacute,
+674,journals/cce/GwaltneyS07,Reliable computation of equilibrium states and bifurcations in ecological systems analysis.,C. Ryan Gwaltney   Mark A. Stadtherr   ,2007
+675,conf/its/MiksatkoM08,What's in a Cluster? Automatically Detecting Interesting Interactions in Student E-Discussions.,Jan Miksatko   Bruce M. McLaren   ,2008
+676,journals/tcs/FeketeLW95,Hybrid Atomicity for Nested Transactions.,Alan Fekete   Nancy A. Lynch   William E. Weihl   ,1995
+677,conf/icdt/FeketeLW92,Hybrid Atomicity for Nested Transactions.,Alan Fekete   Nancy A. Lynch   William E. Weihl   ,1992
+678,conf/focs/ValleeF90,The Lattice Reduction Algorithm of Gauss An Average Case Analysis,Theresa F. Klaschka   ,1990
+679,journals/ai/HobbsSAM93,Interpretation as Abduction.,Jerry R. Hobbs   Mark E. Stickel   Douglas E. Appelt   Paul A. Martin   ,1993
+680,conf/wia/AlmeidaMR08,Antimirov and Mosses's Rewrite System Revisited.,Marco Almeida   Nelma Moreira   Rog eacute,
+681,conf/europar/Brent99,Some Parallel Algorithms for Integer Factorisation.,Richard P. Brent   ,1999
+682,conf/lfp/CurtisR90,A Module System for Scheme.,Pavel Curtis   James Rauen   ,1990
+683,conf/coling/Kuhns86,A PROLOG Implementation of Government-Binding Theory.,Robert J. Kuhns   ,1986
+684,conf/acl/HaghighiK07,Unsupervised Coreference Resolution in a Nonparametric Bayesian Model.,Aria Haghighi   Dan Klein   ,2007
+685,journals/kais/HaaseSH08,Expertise-based peer selection in Peer-to-Peer networks.,Peter Haase   Ronny Siebes   Frank van Harmelen   ,2008
+686,conf/aaai/DershowitzP90,Inductive Synthesis of Equational Programs.,Nachum Dershowitz   Eli Pinchover   ,1990
+687,journals/sLogica/BlackburnR97,Why Combine Logics?,Patrick Blackburn   Maarten de Rijke   ,1997
+688,tr/ibm/IWBS131,Syntactic Processing of Unknown Words,Gregor Erbach   ,1990
+689,conf/aimsa/Erbach90,Syntactic Processing of Unknown Words.,Gregor Erbach   ,1990
+690,journals/corr/cmp-lg-9504007,Mixed Initiative in Dialogue An Investigation into Discourse Segmentation,Marilyn A. Walker   Steve Whittaker   ,1995
+691,conf/sigmetrics/MeinersLT08,Algorithmic approaches to redesigning tcam-based systems.,Chad R. Meiners   Alex X. Liu   Eric Torng   ,2008
+692,conf/wads/HershbergerS91,Computing Minimum Length Paths of a Given Homotopy Class (Extended Abstract).,John Hershberger   Jack Snoeyink   ,1991
+693,conf/alp/Moreno-NavarroKLR90,Lazy Narrowing in a Graph Machine.,Juan Jos eacute,
+694,journals/cacm/TanenbaumRSSM90,Experiences with the Amoeba Distributed Operating System.,Andrew S. Tanenbaum   Robbert van Renesse   Hans van Staveren   Gregory J. Sharp   Sape J. Mullender   ,1990
+695,conf/iccv/KrummS90,Local spatial frequency analysis of image texture.,John Krumm   Steven A. Shafer   ,1990
+696,journals/eatcs/HartmanisCRR90,On Unique Staisfiability and Randomized Reductions.,Juris Hartmanis   Richard Chang   Desh Ranjan   Pankaj Rohatgi   ,1990
+697,conf/eacl/DologlouMP91,A Preference Mechanism Based On Multiple Criteria Resolution.,Ioannis Dologlou   Giovanni Malnati   Patrizia Paggio   ,1991
+698,conf/sigcomm/Deering88,Multicast routing in internetworks and extended LANs.,Stephen E. Deering   ,1988
+699,conf/stoc/Karmarkar84,A New Polynomial-Time Algorithm for Linear Programming,I. S. Filotti   Jack N. Mayer   ,1984
+700,conf/coling/BriscoeCB90,Enjoy the Paper Lexicology.,Ted Briscoe   Ann A. Copestake   Branimir Boguraev   ,1990
+701,conf/icip/MonroS97,Space-Frequency Balance of Biorthogonal Wavelets.,Donald M. Monro   Barry G. Sherlock   ,1997
+702,conf/sbbd/CarreiraGLP05,Extending Relational Algebra to express one-to-many data transformations.,Paulo J. F. Carreira   Helena Galhardas   Ant oacute,
+703,conf/eusflat/Herrera-ViedmaPHA03,Evaluating the informative quality of web documents using fuzzy linguistic techniques.,Enrique Herrera-Viedma   Eduardo Peis   Jesus Canelon Herrera   Karina Anaya   ,2003
+704,conf/icdcs/MoserMA91,Membership algorithms for asynchronous distributed systems.,Louise E. Moser   P. M. Melliar-Smith   Vivek Agrawala   ,1991
+705,journals/eccc/ECCC-TR00-024,Some Connections between Bounded Query Classes and Non-Uniform Complexity,Amihood Amir   Richard Beigel   William I. Gasarch   ,2000
+706,conf/pods/HaritsaCL90,On Being Optimistic about Real-Time Constraints.,Jayant R. Haritsa   Michael J. Carey   Miron Livny   ,1990
+707,conf/pos/FeketeLMW89,Commutativity-Based Locking for Nested Transactions.,Alan Fekete   Nancy A. Lynch   Michael Merritt   William E. Weihl   ,1989
+708,journals/coling/Decary90,An Editor for the Explanatory and Combinatory Dictionary of Contemporary French (DECFC).,Michel D eacute,
+709,conf/coling/Wiren90,Incremental Parsing and Reason Maintenance.,Mats Wir eacute,
+710,conf/mva/NiemannBSS90,Interpretation of Industrial Scenes by Semantic Networks.,Heinrich Niemann   Heinz Br uuml,
+711,conf/esem/OlbrichCBZ09,The evolution and impact of code smells A case study of two open source systems.,Steffen M. Olbrich   Daniela Cruzes   Victor R. Basili   Nico Zazworka   ,2009
+712,conf/iccl/JonesGBDM90,A Self-Applicable Partial Evaluator for the Lambda Calculus.,Neil D. Jones   Carsten K. Gomard   Anders Bondorf   Olivier Danvy   Torben  AElig,
+713,conf/sigmod/BhattacharyaMBNHS02,Coordinating backup/recovery and data consistency between database and file systems.,Suparna Bhattacharya   C. Mohan   Karen Brannon   Inderpal Narang   Hui-I Hsiao   Mahadevan Subramanian   ,2002
+714,conf/isca/PapadopoulosC98,Monsoon An Explicit Token-Store Architecture.,Gregory M. Papadopoulos   David E. Culler   ,1998
+715,journals/jct/OporowskiOT93,Typical Subgraphs of 3- and 4-Connected Graphs.,Bogdan Oporowski   James G. Oxley   Robin Thomas   ,1993
+716,conf/focs/MaassT90,On the Complexity of Learning from Counterexamples and Membership Queries,Ira Pohl   ,1990
+717,journals/vldb/CormodeSYZ10,Anonymizing bipartite graph data using safe groupings.,Graham Cormode   Divesh Srivastava   Ting Yu   Qing Zhang   ,2010
+718,journals/pvldb/CormodeSYZ08,Anonymizing bipartite graph data using safe groupings.,Graham Cormode   Divesh Srivastava   Ting Yu   Qing Zhang   ,2008
+719,conf/dagm/Dengler91,Estimation of Discontinuous Displacement Vector Fields with the Minimum Description Length Criterion.,Joachim Dengler   ,1991
+720,journals/cc/HastadG91,On the Power of Small-Depth Threshold Circuits.,Johan H aring,
+721,journals/siamdm/BodlaenderM93,The Pathwidth and Treewidth of Cographs.,Hans L. Bodlaender   Rolf H. M ouml,
+722,conf/wmrd/Verissimo90,Real-Time Data Management with Clock-Less Reliable Broadcast Protocols.,Paulo Ver iacute,
+723,journals/jfp/GomardJ91,A Partial Evaluator for the Untyped lambda-Calculus.,Carsten K. Gomard   Neil D. Jones   ,1991
+724,conf/pepm/JonesGS98,Partial Evaluation for the Lambda Calculus.,Neil D. Jones   Carsten K. Gomard   Peter Sestoft   ,1998
+725,journals/coling/BachenkoF90,A Computational Grammar of Discourse-Neutral Prosodic Phrasing in English.,Joan Bachenko   Eileen Fitzpatrick   ,1990
+726,conf/dbpl/HiddersMPV05,On the Expressive Power of XQuery Fragments.,Jan Hidders   Stefania Marrara   Jan Paredaens   Roel Vercammen   ,2005
+727,journals/ijcv/BarKS06,Image Deblurring in the Presence of Impulsive Noise.,Leah Bar   Nahum Kiryati   Nir A. Sochen   ,2006
+728,conf/srds/VerissimoM90,Reliable Broadcast for Fault-Tolerance on Local Computer Networks.,Paulo Ver iacute,
+729,conf/bnaic/BleysB05,Explaining universal colour categories through a constrained acquisition process.,Joris Bleys   Tony Belpaeme   ,2005
+730,conf/podc/KorachKM85,A Modular Technique for the Design of Efficient Distributed Leader Finding Algorithms.,Ephraim Korach   Shay Kutten   Shlomo Moran   ,1985
+731,conf/podc/KorachKM85,A Modular Technique for the Design of Efficient Distributed Leader Finding Algorithms.,Ephraim Korach   Shay Kutten   Shlomo Moran   ,1985
+732,journals/cogsci/Elman90,Finding Structure in Time.,Jeffrey L. Elman   ,1990
+733,conf/colt/MaassT90,On the Complexity of Learning from Counterexamples and Membership Queries (abstract).,Wolfgang Maass   Gy ouml,
+734,conf/nips/Fahlman90,The Recurrent Cascade-Correlation Architecture.,Scott E. Fahlman   ,1990
+735,conf/ics/GallivanSZ90,Solving general sparse linear systems using conjugate gradient-type methods.,Kyle Gallivan   Ahmed H. Sameh   Zahari Zlatev   ,1990
+736,journals/tocs/BurrowsAN90,A Logic of Authentication.,Michael Burrows   Mart iacute,
+737,journals/ml/Quinlan90,Learning Logical Definitions from Relations.,J. Ross Quinlan   ,1990
+738,conf/apvis/BuchsbaumGV07,Directed graphs and rectangular layouts.,Adam L. Buchsbaum   Emden R. Gansner   Suresh Venkatasubramanian   ,2007
+739,journals/tocs/BurrowsAN90,A Logic of Authentication.,Michael Burrows   Mart iacute,
+740,conf/coling/Guez90,A Computational Model for Arguments Understanding.,St eacute,
+741,journals/jal/JohnsonZ90,Recovery in Distributed Systems Using Optimistic Message Logging and Checkpointing.,David B. Johnson   Willy Zwaenepoel   ,1990
+742,journals/tocs/BurrowsAN90,A Logic of Authentication.,Michael Burrows   Mart iacute,
+743,conf/coling/WebberE90,Free Adjuncts In Natural Language Instructions.,Bonnie L. Webber   Barbara Di Eugenio   ,1990
+744,conf/coling/BlacheM90,Bottom-Up Filtering a Parsing Strategy for GPSG.,Philippe Blache   Jean-Yves Morin   ,1990
+745,journals/coling/Ramsay90,Disjunction without Tears.,Allan Ramsay   ,1990
+746,conf/coling/KerpedjievN90,Intelligent Handling Of Weather Forecasts.,Stephan M. Kerpedjiev   Veska Noncheva   ,1990
+747,conf/acl/DawarV89,A Three-Valued Interpretation of Negation in Feature Structure Descriptions.,Anuj Dawar   K. Vijay-Shanker   ,1989
+748,conf/coling/Dorrepaal90,Discourse Anaphora.,Joke Dorrepaal   ,1990
+749,conf/compgeom/ChenH90,Shortest Paths on a Polyhedron.,Jindong Chen   Yijie Han   ,1990
+750,journals/jcss/KampRVZ11,Deterministic extractors for small-space sources.,Jesse Kamp   Anup Rao   Salil P. Vadhan   David Zuckerman   ,2011
+751,conf/cade/BonacinaE07,T-Decision by Decomposition.,Maria Paola Bonacina   Mnacho Echenim   ,2007
+752,conf/issac/KaltofenLW90,Modular Rational Sparse Multivariate Polynomial Interpolation.,Erich Kaltofen   Yagati N. Lakshman   J.-M. Wiley   ,1990
+753,journals/tcs/Schwartzbach96,Static Correctness of Hierarchical Procedures.,Michael I. Schwartzbach   ,1996
+754,journals/aei/X90,Editorial.,,1990
+755,journals/csse/X90,Editorial.,,1990
+756,journals/expert/X90m,Editorial.,,1990
+757,conf/icdcs/ShrivastavaW90,Implementing Fault-Tolerant Distributed Applications.,Santosh K. Shrivastava   Stuart M. Wheater   ,1990
+758,conf/swat/BergKNO90,Finding Shortest Paths in the Presence of Orthogonal Obstacles Using a Combined L1 and Link Metric.,Mark de Berg   Marc J. van Kreveld   Bengt J. Nilsson   Mark H. Overmars   ,1990
+759,journals/ai/Freksa92,Temporal Reasoning Based on Semi-Intervals.,Christian Freksa   ,1992
+760,journals/tsp/Chornoboy92,Initialization for improved IIR filter performance.,Edward S. Chornoboy   ,1992
+761,conf/focs/AndoniIP06,On the Optimality of the Dimensionality Reduction Method.,Bernard W. Lovell   Alexandr Andoni   Piotr Indyk   Mihai Patrascu   ,2006
+762,journals/computer/MullenderRTRS90,Amoeba A Distributed Operating System for the 1990s.,Sape J. Mullender   Guido van Rossum   Andrew S. Tanenbaum   Robbert van Renesse   Hans van Staveren   ,1990
+763,journals/ipl/AnderssonC90,Construction of a Tree From its Traversals in Optimal Time and Space.,Arne Andersson   Svante Carlsson   ,1990
+764,journals/siamcomp/BeameBRRT99,A Time-Space Tradeoff for Undirected Graph Traversal by Walking Automata.,Paul Beame   Allan Borodin   Prabhakar Raghavan   Walter L. Ruzzo   Martin Tompa   ,1999
+765,conf/acl/ShieberNMP89,A Semantic-Head-Driven Generation Algorithm for Unification-Based Formalisms.,Stuart M. Shieber   Gertjan van Noord   Robert C. Moore   Fernando C. N. Pereira   ,1989
+766,conf/sigcomm/RamakrishnanJ88,A binary feedback scheme for congestion avoidance in computer networks with a connectionless network layer.,K. K. Ramakrishnan   Raj Jain   ,1988
+767,conf/sigcomm/RamakrishnanJ88,A binary feedback scheme for congestion avoidance in computer networks with a connectionless network layer.,K. K. Ramakrishnan   Raj Jain   ,1988
+768,conf/performance/HarrisonP87,The Representation of Switching Networks in Queueing Models of Parallel Systems.,Peter G. Harrison   Naresh M. Patel   ,1987
+769,conf/sigcomm/RamakrishnanJ88,A binary feedback scheme for congestion avoidance in computer networks with a connectionless network layer.,K. K. Ramakrishnan   Raj Jain   ,1988
+770,journals/sigplan/Bal90,Orca a language for distributed programming.,Henri E. Bal   Andrew S. Tanenbaum   M. Frans Kaashoek   ,1990
+771,conf/stoc/AlonST90,A Separator Theorem for Graphs with an Excluded Minor and its Applications,,1990
+772,conf/icwe/KnappKZ04,Modeling the Structure of Web Applications with ArgoUWE.,Alexander Knapp   Nora Koch   Gefei Zhang   ,2004
+773,conf/icdcs/SchwarzBB90,Low-Cost Comparisons of File Copies.,Thomas J. E. Schwarz   Robert W. Bowdidgem   Walter A. Burkhard   ,1990
+774,journals/jacm/HarrisonP90,The Representation of Multistage Interconnection Networks in Queuing Models of Parallel Systems,,1990
+775,conf/micro/BeatyWJ90,Motivation and framework for using genetic algorithms for microcode compaction.,Steven J. Beaty   Darrell Whitley   Gearold Johnson   ,1990
+776,conf/podc/HerlihyT90,Lower Bounds for Wait-Free Computation in Message-Passing Systems.,Maurice Herlihy   Mark R. Tuttle   ,1990
+777,journals/comgeo/HershbergerS94,Computing Minimum Length Paths of a Given Homotopy Class.,John Hershberger   Jack Snoeyink   ,1994
+778,conf/riao/BrownCPPJMR88,A Statistical Approach to French/English Translation.,Peter F. Brown   John Cocke   Stephen Della Pietra   Vincent J. Della Pietra   Frederick Jelinek   Robert L. Mercer   Paul S. Roossin   ,1988
+779,journals/cacm/Meyer90,Lessons from the Design of the Eiffel Libraries.,Bertrand Meyer   ,1990
+780,journals/siamam/BlochWH04,Radiation Induced Instability.,Anthony M. Bloch   Michael I. Weinstein   Patrick Hagerty   ,2004
+781,conf/cade/KaminskiS08,Terminating Tableaux for Hybrid Logic with the Difference Modality and Converse.,Mark Kaminski   Gert Smolka   ,2008
+782,journals/ras/Bicchi92,A criterion for optimal design of multi-axis force sensors.,Antonio Bicchi   ,1992
+783,journals/dam/Stanley91,Some applications of algebra to combinatorics.,Richard P. Stanley   ,1991
+784,conf/focs/HastadG90,On the Power of Small-Depth Threshold Circuits,,1990
+785,conf/siggraph/PanneFV90,Reusable motion synthesis using state-space controllers.,Michiel van de Panne   Eugene Fiume   Zvonko G. Vranesic   ,1990
+786,conf/naacl/MohammadDEHMQRZ09,Using Citations to Generate surveys of Scientific Paradigms.,Saif Mohammad   Bonnie J. Dorr   Melissa Egan   Ahmed Hassan   Pradeep Muthukrishnan   Vahed Qazvinian   Dragomir R. Radev   David M. Zajic   ,2009
+787,conf/nips/KolenP90,Back Propagation is Sensitive to Initial Conditions.,John F. Kolen   Jordan B. Pollack   ,1990
+788,conf/coling/ShieberS90,Synchronous Tree-Adjoining Grammars.,Stuart M. Shieber   Yves Schabes   ,1990
+789,conf/acl/WalkerW90,Mixed Initiative in Dialogue An Investigation into Discourse Segmentation.,Marilyn A. Walker   Steve Whittaker   ,1990
+790,journals/sigops/LadinLS91,Lazy Replication Exploiting the Semantics of Distributed Services (Extended Abstract).,Rivka Ladin   Barbara Liskov   Liuba Shrira   ,1991
+791,journals/sigops/LadinLS91,Lazy Replication Exploiting the Semantics of Distributed Services (Extended Abstract).,Rivka Ladin   Barbara Liskov   Liuba Shrira   ,1991
+792,conf/coling/BrownCPPJMR88,A statistical approach to language translation.,Peter F. Brown   John Cocke   Stephen Della Pietra   Vincent J. Della Pietra   Frederick Jelinek   Robert L. Mercer   Paul S. Roossin   ,1988
+793,conf/vldb/SeltzerS90,Transaction Support in Read Optimizied and Write Optimized File Systems.,Margo I. Seltzer   Michael Stonebraker   ,1990
+794,conf/coling/Lewin90,A Quantifier Scoping Algorithm without A Free Variable Constraint.,Ian Lewin   ,1990
+795,conf/ntii/WickRMD08,A Discriminative Approach to Ontology Mapping.,Michael L. Wick   Khashayar Rohanimanesh   Andrew McCallum   AnHai Doan   ,2008
+796,journals/mp/Rockafellar90,Computational Schemes for Large-Scale Problems in Extended Linear-Quadratic Programming.,R. Tyrrell Rockafellar   ,1990
+797,conf/hotos/AndersenBKM01,The Case for Resilient Overlay Networks.,David G. Andersen   Hari Balakrishnan   M. Frans Kaashoek   Robert Morris   ,2001
+798,conf/eacl/Fernando99,Ambiguous propositions typed.,Tim Fernando   ,1999
+799,journals/jcss/FeketeLMW90,Commutativity-Based Locking for Nested Transactions.,Alan Fekete   Nancy A. Lynch   Michael Merritt   William E. Weihl   ,1990
+800,conf/cvpr/SheikhS05,Bayesian Object Detection in Dynamic Scenes.,Yaser Sheikh   Mubarak Shah   ,2005
+801,conf/coling/Konig90,The Complexity Of Parsing With Extended Categorial Grammars.,Esther K ouml,
+802,conf/coling/Maruyama90,An Interactive Japanese Parser for Machine Translation.,Hiroshi Maruyama   ,1990
+803,conf/mva/LiKI90,A Pattern Classifier Integrating Multilayer Perceptron and Error-Correcting Code.,Haibo Li   Torbj ouml,
+804,conf/para/GwaltneyS04,Reliable Computation of Equilibrium States and Bifurcations in Nonlinear Dynamics.,C. Ryan Gwaltney   Mark A. Stadtherr   ,2004
+805,journals/jsc/DershowitzR93,Deductive and Inductive Synthesis of Equational Programs.,Nachum Dershowitz   Uday S. Reddy   ,1993
+806,journals/siamcomp/Beigel90,Unbounded Searching Slgorithms.,Richard Beigel   ,1990
+807,conf/vldb/Sheth91,Federated Database Systems for Managing Distributed Heterogeneous and Autonomous Databases.,Amit P. Sheth   ,1991
+808,journals/coling/PalmerF90,Workshop on the Evaluation of Natural Language Processing Systems.,Martha Stone Palmer   Timothy W. Finin   ,1990
+809,conf/coco/AmirBG90,Some Connections Between Bounded Query Classes and Non-Uniform Complexity.,Amihood Amir   Richard Beigel   William I. Gasarch   ,1990
+810,conf/fjcc/JacobF86,Software Engineering for Rule-Based Software Systems.,Robert J. K. Jacob   Judith N. Froscher   ,1986
+811,conf/coling/NumazakiT90,A New Parallel Algorithm for Generalized LR Parsing.,Hiroaki Numazaki   Hozumi Tanaka   ,1990
+812,conf/see/WiledenW89,Environment Object Management Technology Experiences Opportunities and Risks.,Jack C. Wileden   Alexander L. Wolf   ,1989
+813,journals/bit/KreveldOA92,Intersection Queries in Sets of Disks.,Marc J. van Kreveld   Mark H. Overmars   Pankaj K. Agarwal   ,1992
+814,conf/pos/KochSDVMFB90,Cache Coherency and Storage Management in a Persistent Object System.,Bett Koch   Tracy Schunke   Alan Dearle   Francis Vaughan   Chris D. Marlin   Ruth Fazakerley   Chris J. Barter   ,1990
+815,journals/pami/RankaS90,Convolution on Mesh Connected Multicomputers.,Sanjay Ranka   Sartaj Sahni   ,1990
+816,journals/toplas/KorachKM90,A Modular Technique for the Design of Efficient Distributed Leader Finding Algorithms.,Ephraim Korach   Shay Kutten   Shlomo Moran   ,1990
+817,journals/jsyml/Lambalgen90,The Axiomatization of Randomness.,Michiel van Lambalgen   ,1990
+818,conf/sigopsE/StephensonB90,Fast causal multicast.,Pat Stephenson   Kenneth P. Birman   ,1990
+819,journals/toplas/KorachKM90,A Modular Technique for the Design of Efficient Distributed Leader Finding Algorithms.,Ephraim Korach   Shay Kutten   Shlomo Moran   ,1990
+820,conf/acl/Gibson90,Memory Capacity and Sentence Processing.,Edward Gibson   ,1990
+821,conf/ipmi/ChungRE05,Unified Statistical Approach to Cortical Thickness Analysis.,Moo K. Chung   Steve Robbins   Alan C. Evans   ,2005
+822,conf/mva/TakayaMSKM90,Application of Image Reconstruction by Means of Chirp z-Transform.,Kunio Takaya   Tie-nan Ma   Koichi Shimizu   Masataka Kitama   Tomohisa Mikami   ,1990
+823,journals/questa/GoldT93,Performance analysis of a batch service queue arising out of manufacturing system modelling.,Hermann Gold   Phuoc Tran-Gia   ,1993
+824,journals/spe/DershowitzR90,Calendrical Calculations.,Nachum Dershowitz   Edward M. Reingold   ,1990
+825,journals/tc/ChaudhuriHHSRH03,Latency Occupancy and Bandwidth in DSM Multiprocessors A Performance Evaluation.,Mainak Chaudhuri   Mark Heinrich   Chris Holt   Jaswinder Pal Singh   Edward Rothberg   John L. Hennessy   ,2003
+826,conf/wstst/ZhouSSC08,Anisotropic mean shift based fuzzy c-means segmentation of skin lesions.,Huiyu Zhou   Gerald Schaefer   Abdul H. Sadka   M. Emre Celebi   ,2008
+827,conf/podc/NeigerT88,Automatically Increasing the Fault-Tolerance of Distributed Systems.,Gil Neiger   Sam Toueg   ,1988
+828,conf/ecir/JagarlamudiD10,Extracting Multilingual Topics from Unaligned Comparable Corpora.,Jagadeesh Jagarlamudi   Hal Daum eacute,
+829,journals/ccr/AndersenBKM02,Resilient overlay networks.,David G. Andersen   Hari Balakrishnan   M. Frans Kaashoek   Robert Morris   ,2002
+830,conf/fmldo/Wieringa90,Integrated Specification of Values Objects and Processes for Object-Oriented Models (Extended Abstract).,Roel Wieringa   ,1990
+831,conf/aied/WalkerMRK07,Who Says Three's a Crowd? Using a Cognitive Tutor to Support Peer Tutoring.,Erin Walker   Bruce M. McLaren   Nikol Rummel   Kenneth R. Koedinger   ,2007
+832,conf/swat/AnderssonL90,Fast Updating of Well-Balanced Trees.,Arne Andersson   Tony W. Lai   ,1990
+833,journals/siamcomp/GoldmanKS93,Exact Identification of Read-Once Formulas Using Fixed Points of Amplification Functions.,Sally A. Goldman   Michael J. Kearns   Robert E. Schapire   ,1993
+834,journals/software/Hall90,Seven Myths of Formal Methods.,Anthony Hall   ,1990
+835,conf/acl/HobbsSME88,Interpretation as Abduction.,Jerry R. Hobbs   Mark E. Stickel   Paul A. Martin   Douglas Edwards   ,1988
+836,conf/coling/SadlerV90,Pilot Implementation Of A Bilingual Knowledge Bank.,Victor Sadler   Ronald Vendelmans   ,1990
+837,conf/acl/BobrowRW90,Multiple Underlying Systems Translating User Requests into Programs to Produce Answers.,Robert J. Bobrow   Philip Resnik   Ralph M. Weischedel   ,1990
+838,conf/coling/BlockH90,Generating Referring Expressions Using Multiple Knowledge Sources.,Russell Block   Helmut Horacek   ,1990
+839,conf/coling/SchutzeR90,Language Without A Central Pushdown Stack.,Carson T. Sch uuml,
+840,conf/coling/Karlsson90,Constraint Grammar As A Framework For Parsing Running Text.,Fred Karlsson   ,1990
+841,conf/ppsc/SharmaW91,Generating Finite Element Programs for Shared Memory Machines.,Naveen Sharma   Paul S. Wang   ,1991
+842,journals/tse/Smith90,KIDS A Semiautomatic Program Development System.,Douglas R. Smith   ,1990
+843,journals/dcg/AvisF92,A Pivoting Algorithm for Convex Hulls and Vertex Enumeration of Arrangements and Polyhedra.,David Avis   Komei Fukuda   ,1992
+844,conf/compgeom/AvisF91,A Pivoting Algorithm for Convex Hulls and Vertex Enumeration of Arrangements and Polyhedra.,David Avis   Komei Fukuda   ,1991
+845,journals/dcg/AvisF92,A Pivoting Algorithm for Convex Hulls and Vertex Enumeration of Arrangements and Polyhedra.,David Avis   Komei Fukuda   ,1992
+846,conf/compgeom/AvisF91,A Pivoting Algorithm for Convex Hulls and Vertex Enumeration of Arrangements and Polyhedra.,David Avis   Komei Fukuda   ,1991
+847,conf/infocom/GreavesLH90,The Cambridge Backbone Ring.,David J. Greaves   Dimitris Lioupis   Andy Hopper   ,1990
+848,journals/jacm/McAllester93,Automatic Recognition of Tractability in Inference Relations.,David A. McAllester   ,1993
+849,conf/scalespace/BarSK05,Image Deblurring in the Presence of Salt-and-Pepper Noise.,Leah Bar   Nir A. Sochen   Nahum Kiryati   ,2005
+850,journals/sigart/CarbonellEGJKMV91,PRODIGY An Integrated Architecture for Planning and Learning.,Jaime G. Carbonell   Oren Etzioni   Yolanda Gil   Robert Joseph   Craig A. Knoblock   Steven Minton   Manuela M. Veloso   ,1991
+851,conf/swat/BodlaenderM90,The Pathwidth and Treewidth of Cographs.,Hans L. Bodlaender   Rolf H. M ouml,
+852,journals/jet/CrippsDP05,Reputation with equal discounting in repeated games with strictly conflicting interests.,Martin W. Cripps   Eddie Dekel   Wolfgang Pesendorfer   ,2005
+853,conf/sosp/SchroederB89,Performance of Firefly RPC.,Michael D. Schroeder   Michael Burrows   ,1989
+854,conf/icdcs/ThomasianR90,A New Distributed Optimistic Concurrency Control Method and a Comparison of its Performance with Two-Phase Locking.,Alexander Thomasian   Erhard Rahm   ,1990
+855,journals/jcss/ChangCGHHRR94,The Random Oracle Hypothesis Is False.,Richard Chang   Benny Chor   Oded Goldreich   Juris Hartmanis   Johan H aring,
+856,conf/wec/DuboisA05b,SVM-Based Detection of SAR Images in Partially Developed Speckle Noise.,Jean-Pierre Dubois   O. M. Abdul-Latif   ,2005
+857,conf/coling/DymetmanIP90,A Symmetrical Approach to Parsing and Generation.,Marc Dymetman   Pierre Isabelle   Fran ccedil,
+858,journals/anor/GroverD01,Topological Design of Survivable Mesh-Based Transport Networks.,Wayne D. Grover   John Doucette   ,2001
+859,conf/mva/VaxiviereT90,Interpretation of Mechanical Engineering Drawings for Paper-CAD Conversion.,Pascal Vaxivi egrave,
+860,conf/stoc/KampRVZ06,Deterministic extractors for small-space sources.,Jesse Kamp   Anup Rao   Salil P. Vadhan   David Zuckerman   ,2006
+861,conf/isca/PapadopoulosC90,Monsoon An Explicit Token-Store Architecture.,Gregory M. Papadopoulos   David E. Culler   ,1990
+862,journals/ndjfl/PelletierM90,Post's Functional Completeness Theorem.,Francis Jeffry Pelletier   Norman M. Martin   ,1990
+863,journals/corr/abs-0803-1520,Integrity-Enhancing Replica Coordination for Byzantine Fault Tolerant Systems,Wenbing Zhao   ,2008
+864,conf/sigcomm/BreslauE90,Design of Inter-Administrative Domain Routing Protocols.,Lee Breslau   Deborah Estrin   ,1990
+865,conf/ppopp/Herlihy90,A Methodology for Implementing Highly Concurrent Data Structures.,Maurice Herlihy   ,1990
+866,conf/ijcai/Sandholm99,An Algorithm for Optimal Winner Determination in Combinatorial Auctions.,Tuomas Sandholm   ,1999
+867,conf/concur/FeketeL90,The Need for Headers An Impossibility Result for Communication over Unreliable Channels.,Alan Fekete   Nancy A. Lynch   ,1990
+868,conf/coling/KernighanCG90,A Spelling Correction Program Based on a Noisy Channel Model.,Mark D. Kernighan   Kenneth Ward Church   William A. Gale   ,1990
+869,conf/emnets/WoehrlePBT07,Increasing the reliability of wireless sensor networks with a distributed testing framework.,Matthias Woehrle   Christian Plessl   Jan Beutel   Lothar Thiele   ,2007
+870,conf/cscw/BeardPHBNS90,A Visual Calendar for Scheduling Group Meetings.,David Beard   Murugappan Palaniappan   Alan Humm   David Banks   Anil Nair   Yen-Ping Shan   ,1990
+871,conf/eurocrypt/ZhengMI89,Impossibility and Optimality Results on Constructing Pseudorandom Permutations (Extended Abstract).,Yuliang Zheng   Tsutomu Matsumoto   Hideki Imai   ,1989
+872,conf/acl/Ingria90,The Limits of Unification.,Robert Ingria   ,1990
+873,conf/iccv/BergenBHP90,Computing two motions from three frames.,James R. Bergen   Peter J. Burt   Rajesh Hingorani   Shrnuel Peleg   ,1990
+874,conf/focs/Istrail90,Constructing Generalized Universal Traversing Sequences of Polynomial Size for Graphs with Small Diameter (Extended Abstract),,1990
+875,journals/iandc/BeameBRRT96,Time-Space Tradeoffs for Undirected Graph Traversal by Graph Automata.,Paul Beame   Allan Borodin   Prabhakar Raghavan   Walter L. Ruzzo   Martin Tompa   ,1996
+876,journals/ml/DietterichHB95,A Comparison of ID3 and Backpropagation for English Text-to-Speech Mapping.,Thomas G. Dietterich   Hermann Hild   Ghulum Bakiri   ,1995
+877,journals/tjs/ShenO90,Systolic arrays for multidimensional discrete transforms.,Weicheng Shen   A. Yavuz Oru ccedil,
+878,journals/siamcomp/CidonKMP95,Greedy Packet Scheduling.,Israel Cidon   Shay Kutten   Yishay Mansour   David Peleg   ,1995
+879,conf/ijcai/BeekC91,Resolving Plan Ambiguity for Cooperative Response Generation.,Peter van Beek   Robin Cohen   ,1991
+880,conf/isca/AdveH98,Retrospective Weak Ordering - A New Definition.,Sarita V. Adve   Mark D. Hill   ,1998
+881,conf/alp/DershowitzMS90,Equation Solving in Conditional AC-Theories.,Nachum Dershowitz   Subrata Mitra   G. Sivakumar   ,1990
+882,conf/iccad/MalavasiCS90,A Routing Methodology for Analog Integrated Circuits.,Enrico Malavasi   Umakanta Choudhury   Alberto L. Sangiovanni-Vincentelli   ,1990
+883,conf/csb/LangmeadD04,High-Throughput 3D Structural Homology Detection via NMR Resonance Assignment.,Christopher James Langmead   Bruce Randall Donald   ,2004
+884,journals/pami/SolinaB90,Recovery of Parametric Models from Range Images The Case for Superquadrics with Global Deformations.,Franc Solina   Ruzena Bajcsy   ,1990
+885,conf/visualization/HsiungTCDWO90,Wide-band Relativistic Doppler Effect Visualization.,Ping-Kang Hsiung   Robert H. Thibadeau   Christopher B. Cox   Robert H. P. Dunn   Michael Wu   P. A. Olbrich   ,1990
+886,journals/questa/NiuC91,A Suality Relation for Busy Cycles in GI/G/1 Queues.,Shun-Chen Niu   Robert B. Cooper   ,1991
+887,journals/sigops/Bacon91,Transparent Recovery in Distributed Systems.,David F. Bacon   ,1991
+888,journals/ml/Quinlan90,Learning Logical Definitions from Relations.,J. Ross Quinlan   ,1990
+889,journals/tog/DynLG90,A butterfly subdivision scheme for surface interpolation with tension control.,Nira Dyn   David Levine   John A. Gregory   ,1990
+890,conf/coling/NeumannF90,A Head-Driven Approach to Incremental and Parallel Generation of Syntactic Structures.,G uuml,
+891,conf/coling/Deemter90,Structured Meanings in Computational Linguistics.,Kees van Deemter   ,1990
+892,conf/coling/Sabah90,CARAMEL A flexible model for interaction between the cognitive processes underlying natural language understanding.,G eacute,
+893,conf/ifipTCS/Schmidt-SchaussNSS08,Adequacy of Compositional Translations for Observational Semantics.,Manfred Schmidt-Schau szlig,
+894,conf/pldi/AgrawalH90,Dynamic Program Slicing.,Hiralal Agrawal   Joseph Robert Horgan   ,1990
+895,journals/cl/BalachandranDB90,Efficient Retargetable Code Generation Using Bottom-up Tree Pattern Matching.,A. Balachandran   Dhananjay M. Dhamdhere   S. Biswas   ,1990
+896,conf/edmcc/Schmidt91,Making PEACE a Dynamic Alterable System.,Henning Schmidt   ,1991
+897,conf/uai/Bacchus88,On probability distributions over possible worlds.,Fahiem Bacchus   ,1988
+898,conf/edbt/TOC90,Table of Contents.,,1990
+899,conf/edbt/TOC90,Table of Contents.,,1990
+900,journals/csur/Schneider90,Implementing Fault-Tolerant Services Using the State Machine Approach A Tutorial.,Fred B. Schneider   ,1990
+901,conf/oopsla/NierstraszP90,Viewing Objects as Patterns of Communicating Agents.,Oscar Nierstrasz   Michael Papathomas   ,1990
+902,journals/tc/ShihWK90,Unifying Maximum Cut and Minimum Cut of a Planar Graph.,Wei Kuan Shih   Sun Wu   Yue-Sun Kuo   ,1990
+903,conf/isca/SmithLH90,Boosting Beyond Static Scheduling in a Superscalar Processor.,Michael D. Smith   Monica S. Lam   Mark Horowitz   ,1990
+904,journals/tit/CidonGK95,New models and algorithms for future networks.,Israel Cidon   Inder S. Gopal   Shay Kutten   ,1995
+905,conf/podc/CidonGK88,New Models and Algorithms for Future Networks.,Israel Cidon   Inder S. Gopal   Shay Kutten   ,1988
+906,conf/coling/AbeilleSJ90,Using Lexicalized Tags for Machine Translation.,Anne Abeill eacute,
+907,conf/acl/LappinM90,A Syntactic Filter on Pronomial Anaphora for Slot Grammar.,Shalom Lappin   Michael C. McCord   ,1990
+908,conf/sdm/ZhangWWZ08,Semi-Supervised Classification with Universum.,Dan Zhang   Jingdong Wang   Fei Wang 0001   Changshui Zhang   ,2008
+909,conf/icde/StonebrakerS90,Distributed RAID - A New Multiple Copy Algorithm.,Michael Stonebraker   Gerhard A. Schloss   ,1990
+910,conf/esop/Bertot90,Implementation of an Interpreter for a Parallel Language in Centaur.,Yves Bertot   ,1990
+911,journals/computer/MinkCNR90,Multiprocessor Performance-Measurement Instrumentation.,Alan Mink   Robert J. Carpenter   George Nacht   John W. Roberts   ,1990
+912,conf/coling/Thurmair90,Parsing for Grammar and Style Checking.,Gregor Thurmair   ,1990
+913,conf/acl/Steedman90,Structure and Intonation in Spoken Language Undestanding.,Mark Steedman   ,1990
+914,journals/cce/GwaltneySS04,Reliable computation of equilibrium states and bifurcations in food chain models.,C. Ryan Gwaltney   Mark P. Styczynski   Mark A. Stadtherr   ,2004
+915,journals/jsc/BonacinaE10,Theory decision by decomposition.,Maria Paola Bonacina   Mnacho Echenim   ,2010
+916,conf/sigmod/KemperM90,Access Support in Object Bases.,Alfons Kemper   Guido Moerkotte   ,1990
+917,journals/coling/Harper92,Ambiguous Noun Phrases in Logical Form.,Mary P. Harper   ,1992
+918,journals/jasis/DeerwesterDLFH90,Indexing by Latent Semantic Analysis.,Scott C. Deerwester   Susan T. Dumais   Thomas K. Landauer   George W. Furnas   Richard A. Harshman   ,1990
+919,journals/jasis/DeerwesterDLFH90,Indexing by Latent Semantic Analysis.,Scott C. Deerwester   Susan T. Dumais   Thomas K. Landauer   George W. Furnas   Richard A. Harshman   ,1990
+920,journals/dmtcs/LynchS98,SOUR graphs for efficient completion.,Christopher Lynch   Polina Strogova   ,1998
+921,conf/icalp/Schwartzbach90,Static Correctness of Hierarchical Procedures.,Michael I. Schwartzbach   ,1990
+922,journals/cacm/TanenbaumRSSM90,Experiences with the Amoeba Distributed Operating System.,Andrew S. Tanenbaum   Robbert van Renesse   Hans van Staveren   Gregory J. Sharp   Sape J. Mullender   ,1990
+923,journals/siamdm/Aldous90,The Random Walk Construction of Uniform Spanning Trees and Uniform Labelled Trees.,David Aldous   ,1990
+924,journals/jacm/LundFKN92,Algebraic Methods for Interactive Proof Systems.,Carsten Lund   Lance Fortnow   Howard J. Karloff   Noam Nisan   ,1992
+925,journals/apal/LincolnMSS92,Decision Problems for Propositional Linear Logic.,Patrick Lincoln   John C. Mitchell   Andre Scedrov   Natarajan Shankar   ,1992
+926,journals/pami/GigusM90,Computing the Aspect Graph for Line Drawings of Polyhedral Objects.,Ziv Gigus   Jitendra Malik   ,1990
+927,conf/icalp/GrooteV90,An Efficient Algorithm for Branching Bisimulation and Stuttering Equivalence.,Jan Friso Groote   Frits W. Vaandrager   ,1990
+928,journals/toms/DunklR94,Computing hyperelliptic integrals for surface measure of ellipsoids.,Charles F. Dunkl   Donald E. Ramirez   ,1994
+929,journals/tcs/BrookesG92,Towards a Theory of Parallel Algorithms on Concrete Data Structures.,Stephen D. Brookes   Shai Geva   ,1992
+930,journals/endm/CooperDFS07,Deterministic Random Walks on Regular Trees.,Joshua N. Cooper   Benjamin Doerr   Tobias Friedrich   Joel Spencer   ,2007
+931,journals/rsa/CooperDFS10,Deterministic random walks on regular trees.,Joshua N. Cooper   Benjamin Doerr   Tobias Friedrich   Joel Spencer   ,2010
+932,journals/corr/abs-1006-1441,Deterministic Random Walks on Regular Trees,Joshua N. Cooper   Benjamin Doerr   Tobias Friedrich   Joel Spencer   ,2010
+933,conf/soda/CooperDFS08,Deterministic random walks on regular trees.,Joshua N. Cooper   Benjamin Doerr   Tobias Friedrich   Joel Spencer   ,2008
+934,conf/stoc/Chan07,More algorithms for all-pairs shortest paths in weighted graphs.,Ravi B. Boppana   Timothy M. Chan   ,2007
+935,conf/sc/CytronLS90,A compiler-assisted approach to SPMD execution.,Ron Cytron   Jim Lipkis   Edith Schonberg   ,1990
+936,conf/pods/SaccaZ90,Stable Models and Non-Determinism in Logic Programs with Negation.,Domenico Sacc agrave,
+937,conf/swat/KreveldOA90,Intersection Queries in Sets of Disks.,Marc J. van Kreveld   Mark H. Overmars   Pankaj K. Agarwal   ,1990
+938,journals/libt/Engle95,Forty-Five Years After Lamont The University Undergraduate Library in the 1990s.,Michael O. Engle   ,1995
+939,journals/apal/LincolnMSS92,Decision Problems for Propositional Linear Logic.,Patrick Lincoln   John C. Mitchell   Andre Scedrov   Natarajan Shankar   ,1992
+940,journals/csys/CurranS90,A Comparison of Basic CPU Scheduling Algorithms for Multiprocessor UNIX.,Stephan Curran   Michael Stumm   ,1990
+941,conf/mva/DanielssonECIS90,Single-Chip High-Speed Computation of Optical Flow.,Per-Erik Danielsson   P auml,
+942,journals/acj/SwatmanSE90,Stages of Growth of an Innovative Software House An Additional Criterion for Software Package Selection.,Paul A. Swatman   Paula M. C. Swatman   James E. Everett   ,1990
+943,journals/corr/cs-NI-9809091,Congestion Control in Computer Networks Trends and Issues,Raj Jain   ,1998
+944,journals/eatcs/ChangR90,On Unique Staisfiability and Randomized Reductions.,Richard Chang   Pankaj Rohatgi   ,1990
+945,conf/nips/FahlmanL89,The Cascade-Correlation Learning Architecture.,Scott E. Fahlman   Christian Lebiere   ,1989
+946,conf/icml/KimMSBL06,Pareto optimal linear classification.,Seung-Jean Kim   Alessandro Magnani   Sikandar Samar   Stephen P. Boyd   Johan Lim   ,2006
+947,journals/corr/cs-NI-9809090,Error Characteristics of Fiber Distributed Data Interface (FDDI),Raj Jain   ,1998
+948,journals/aei/Robertson91,Multi-level cooperative dialogue in intelligent front-ends.,Dave Robertson   ,1991
+949,journals/combinatorica/Karmarkar84,A new polynomial-time algorithm for linear programming.,Narendra Karmarkar   ,1984
+950,conf/interact/Buxton90,A three-state model of graphical input.,William Buxton   ,1990
+951,conf/podc/Awerbuch90,Distributed Control for PARIS.,Baruch Awerbuch   Israel Cidon   Inder S. Gopal   Marc Kaplan   Shay Kutten   ,1990
+952,conf/coling/ShieberS90,Synchronous Tree-Adjoining Grammars.,Stuart M. Shieber   Yves Schabes   ,1990
+953,conf/coling/Brown90,Human-Computer Interaction for Semantic Disambiguation.,Ralf D. Brown   ,1990
+954,conf/coling/GuthrieSWB90,Is there content in empty heads?,Louise Guthrie   Brian M. Slator   Yorick Wilks   Rebecca F. Bruce   ,1990
+955,conf/acl/Fong90,Free Indexation Combinatorial Analysis and a Compositional Algorithm.,Sandiway Fong   ,1990
+956,journals/entcs/KaminskiS09,Hybrid Tableaux for the Difference Modality.,Mark Kaminski   Gert Smolka   ,2009
+957,journals/moc/Gibson09,A covering system with least modulus 25.,Donald Jason Gibson   ,2009
+958,journals/corr/cmp-lg-9608009,Centering theory and the Italian pronominal system,Barbara Di Eugenio   ,1996
+959,conf/coling/MooneyCM90,The Generation Of High-Level Structure For Extended Explanations.,David J. Mooney   Sandra Carberry   Kathleen F. McCoy   ,1990
+960,conf/wads/Pugh89,Skip Lists A Probabilistic Alternative to Balanced Trees.,William Pugh   ,1989
+961,journals/ipm/Bates90,Where should the person stop and the information search interface start?,Marcia J. Bates   ,1990
+962,conf/wads/Pugh89,Skip Lists A Probabilistic Alternative to Balanced Trees.,William Pugh   ,1989
+963,journals/ai/Sandholm02,Algorithm for optimal winner determination in combinatorial auctions.,Tuomas Sandholm   ,2002
+964,journals/csur/Schneider90,Implementing Fault-Tolerant Services Using the State Machine Approach A Tutorial.,Fred B. Schneider   ,1990
+965,journals/jet/BlumeH04,All equilibria of the Vickrey auction.,Andreas Blume   Paul Heidhues   ,2004
+966,journals/arobots/BrooksS94,Building brains for bodies.,Rodney A. Brooks   Lynn Andrea Stein   ,1994
+967,journals/jacm/AttiyaDLS94,Bounds on the Time to Reach Agreement in the Presence of Timing Uncertainty.,Hagit Attiya   Cynthia Dwork   Nancy A. Lynch   Larry J. Stockmeyer   ,1994
+968,journals/dam/FernandesLW09,Minimum cycle cover and Chinese postman problems on mixed graphs with bounded tree-width.,Cristina G. Fernandes   Orlando Lee   Yoshiko Wakabayashi   ,2009
+969,conf/sde/SnodgrassS90,Fine grained data management to achieve evolution resilience in a software development environment.,Richard T. Snodgrass   Karen Shannon   ,1990
+970,journals/ton/MeinersLT11,Topological transformation approaches to TCAM-based packet classification.,Chad R. Meiners   Alex X. Liu   Eric Torng   ,2011
+971,journals/dm/AssmusK90,Affine and projective planes.,E. F. Assmus Jr.   Jennifer D. Key   ,1990
+972,conf/coling/Wada90,Discourse Processing in MT Problems in Pronominal Translation.,Hajime Wada   ,1990
+973,conf/coling/Fargues90,Synthesizing a large concept hierarchy from French hyperonyms.,Jean Fargues   ,1990
+974,conf/isca/AdveH98a,Weak Ordering - A New Definition.,Sarita V. Adve   Mark D. Hill   ,1998
+975,conf/compgeom/Bajaj90,Geometric Computations with Algebraic Varieties of Bounded Degree.,Chandrajit L. Bajaj   ,1990
+976,journals/is/McKenzieS90,Schema Evolution and the Relational Algebra.,L. Edwin McKenzie   Richard T. Snodgrass   ,1990
+977,conf/pldi/Clinger90a,How to read floating point numbers accurately (with retrospective),William D. Clinger   ,1990
+978,conf/isca/GharachorlooLLGGH98,Memory Consistency and Event Ordering in Scalable Shared-Memory Multiprocessors.,Kourosh Gharachorloo   Daniel Lenoski   James Laudon   Phillip B. Gibbons   Anoop Gupta   John L. Hennessy   ,1998
+979,conf/acl/Clark02,Memory-Based Learning of Morphology with Stochastic Transducers.,Alexander Clark   ,2002
+980,conf/siggraph/HanrahanL90,A language for shading and lighting calculations.,Pat Hanrahan   Jim Lawson   ,1990
+981,conf/eurocrypt/PreneelLLGV90,Propagation Characteristics of Boolean Functions.,Bart Preneel   Werner Van Leekwijck   Luc Van Linden   Ren eacute,
+982,conf/krdb/AndreasenC96,Flexible Query-Answering Systems Modelled in Metalogic Programming.,Troels Andreasen   Henning Christiansen   ,1996
+983,conf/coling/Cahill90,Syllable-based Morphology.,Lynne J. Cahill   ,1990
+984,journals/jacm/DolevDWY93,Perfectly Secure Message Transmission.,Danny Dolev   Cynthia Dwork   Orli Waarts   Moti Yung   ,1993
+985,conf/acl/ChurchH89,Word Association Norms Mutual Information and Lexicography.,Kenneth Ward Church   Patrick Hanks   ,1989
+986,conf/acl/ChurchH89,Word Association Norms Mutual Information and Lexicography.,Kenneth Ward Church   Patrick Hanks   ,1989
+987,journals/ijcga/Devillers93,Simultaneous containment of several polygons analysis of the contact configurations.,Olivier Devillers   ,1993
+988,conf/iccv/KulisG09,Kernelized locality-sensitive hashing for scalable image search.,Brian Kulis   Kristen Grauman   ,2009
+989,conf/sosp/AndersenBKM01,Resilient Overlay Networks.,David G. Andersen   Hari Balakrishnan   M. Frans Kaashoek   Robert Morris   ,2001
+990,journals/ijfcs/PaikRS98,Vertex Splitting in Dags and Applications to Partial Scan Designs and Lossy Circuits.,Doowon Paik   Sudhakar M. Reddy   Sartaj Sahni   ,1998
+991,conf/coling/NakamuraMKS90,Neural Network Approach To Word Category Prediction For English Texts.,Masami Nakamura   Katsuteru Maruyama   Takeshi Kawabata   Kiyohiro Shikano   ,1990
+992,conf/iat/WicklerPTPS07,Planning and Choosing Augmenting HTN-Based Agents with Mental Attitudes.,Gerhard Wickler   Stephen Potter   Austin Tate   Michal Piechouicek   Eduard Semsch   ,2007
+993,journals/ton/RamaiyanKA08,Fixed point analysis of single cell IEEE 802.11e WLANs uniqueness and multistability.,Venkatesh Ramaiyan   Anurag Kumar   Eitan Altman   ,2008
+994,journals/jacm/CoppersmithDRS93,Random Walks on Weighted Graphs and Applications to On-line Algorithms.,Don Coppersmith   Peter Doyle   Prabhakar Raghavan   Marc Snir   ,1993
+995,conf/iccv/KrummS90,Local spatial frequency analysis of image texture.,John Krumm   Steven A. Shafer   ,1990
+996,conf/coling/LavelliS90,When Something Is Missing Ellipsis Coordination and the Chart.,Alberto Lavelli   Oliviero Stock   ,1990
+997,conf/coling/GiorgiPS90,A Computational Approach to Binding Theory.,Alessandra Giorgi   Fabio Pianesi   Giorgio Satta   ,1990
+998,journals/siamcomp/Chan10,More Algorithms for All-Pairs Shortest Paths in Weighted Graphs.,Timothy M. Chan   ,2010
+999,conf/aaai/DurfeeM90,A Hierarchical Protocol for Coordinating Mulitagent Behaviors.,Edmund H. Durfee   Thomas A. Montgomery   ,1990
+1000,conf/asplos/MogulB91,The Effect of Context Switches on Cache Performance.,Jeffrey C. Mogul   Anita Borg   ,1991
+1001,conf/pldi/CallahanCK90a,Improving register allocation for subscripted variables (with retrospective),David Callahan   Steve Carr   Ken Kennedy   ,1990
+1002,conf/icse/HarelLNPPSS88,STATEMATE A Working Environment for the Development of Complex Reactive Systems.,David Harel   Hagi Lachover   Amnon Naamad   Amir Pnueli   Michal Politi   Rivi Sherman   Aharon Shtull-Trauring   ,1988
+1003,conf/nips/WangB09,Variational Inference for the Nested Chinese Restaurant Process.,Chong Wang   David M. Blei   ,2009
+1004,journals/tcad/SalehW90,Accelerating relaxation algorithms for circuit simulation using waveform-Newton and step-size refinement.,Resve A. Saleh   Jacob K. White   ,1990
+1005,journals/ai/ThagardHNG90,Analog Wetrieval by Constraint Satisfaction.,Paul Thagard   Keith J. Holyoak   Greg Nelson   David Gochfeld   ,1990
+1006,conf/coling/ElhadadM90,Generating Connectives.,Michael Elhadad   Kathleen McKeown   ,1990
+1007,conf/mva/QuanM90,Using Geometric Model Guided Active Contour Method for Traffic Sign Detection.,Long Quan   Roger Mohr   ,1990
+1008,conf/vldb/KemperM90,Advanced Query Processing in Object Bases Using Access Support Relations.,Alfons Kemper   Guido Moerkotte   ,1990
+1009,conf/uai/HeckermanH90,Problem formulation as the reduction of a decision model.,David Heckerman   Eric Horvitz   ,1990
+1010,journals/logcom/Miller91,A Logic Programming Language with Lambda-Abstraction Function Variables and Simple Unification.,Dale Miller   ,1991
+1011,conf/elp/Miller89,A Logic Programming Language with Lambda-Abstraction Function Variables and Simple Unification.,Dale Miller   ,1989
+1012,journals/logcom/Miller91,A Logic Programming Language with Lambda-Abstraction Function Variables and Simple Unification.,Dale Miller   ,1991
+1013,conf/elp/Miller89,A Logic Programming Language with Lambda-Abstraction Function Variables and Simple Unification.,Dale Miller   ,1989
+1014,conf/sc/MoulitsasK01,Multilevel algorithms for generating coarse grids for multigrid methods.,Irene Moulitsas   George Karypis   ,2001
+1015,conf/dagm/Dengler91,Estimation of Discontinuous Displacement Vector Fields with the Minimum Description Length Criterion.,Joachim Dengler   ,1991
+1016,journals/mp/GoldfarbH90,A Primal Simplex Algorithm that Solves the Maximum Flow Problem in at most nm Pivots and O(n,Donald Goldfarb   Jianxiu Hao   ,1990
+1017,conf/serp/SubramanianC06,An NFR-Based Framework for Aligning Software Architectures with System Architectures.,Nary Subramanian   Lawrence Chung   ,2006
+1018,conf/pstv/CleavelandPS89,A Semantics Based Verification Tool for Finite State Systems.,Rance Cleaveland   Joachim Parrow   Bernhard Steffen   ,1989
+1019,conf/trec/ZhangL02,Web Based Pattern Mining and Matching Approach to Question Answering.,Dell Zhang   Wee Sun Lee   ,2002
+1020,conf/cscw/FishKC90,The VideoWindow System in Informal Communication.,Robert S. Fish   Robert E. Kraut   Barbara L. Chalfonte   ,1990
+1021,conf/coling/BoguraevP90,Lexical Ambiguity and The Role of Knowledge Representation in Lexicon Design.,Branimir Boguraev   James Pustejovsky   ,1990
+1022,conf/coling/DorffnerBK90,Integrating Stress and Intonation into a Concept-to-Speech System.,Georg Dorffner   Ernst Buchberger   Markus Kommenda   ,1990
+1023,conf/mva/MorimotoY92,3-D Shape Measurement by Extraction of Characteristics Using Image Processing.,Yoshiharu Morimoto   Yutaka Yoshioka   ,1992
+1024,conf/mva/Roth-TabakW90,Using and Generating Environment Models for Indoor Mobile Robots.,Yuval Roth-Tabak   Terry E. Weymouth   ,1990
+1025,conf/sigopsE/LadinLS90,Lazy replication exploiting the semantics of distributed services.,Rivka Ladin   Barbara Liskov   Liuba Shrira   ,1990
+1026,conf/wmrd/LadinLS90,Lazy Replication Exploiting the Semantics of Distributed Services.,Rivka Ladin   Barbara Liskov   Liuba Shrira   ,1990
+1027,conf/podc/LadinLS90,Lazy Replication Exploiting the Semantics of Distributed Services.,Rivka Ladin   Barbara Liskov   Liuba Shrira   ,1990
+1028,conf/sigopsE/LadinLS90,Lazy replication exploiting the semantics of distributed services.,Rivka Ladin   Barbara Liskov   Liuba Shrira   ,1990
+1029,conf/wmrd/LadinLS90,Lazy Replication Exploiting the Semantics of Distributed Services.,Rivka Ladin   Barbara Liskov   Liuba Shrira   ,1990
+1030,conf/podc/LadinLS90,Lazy Replication Exploiting the Semantics of Distributed Services.,Rivka Ladin   Barbara Liskov   Liuba Shrira   ,1990
+1031,journals/moc/LarsenEU09,New method to obtain small parameter power series expansions of Mathieu radial and angular functions.,T. M. Larsen   Danilo Erricolo   P. L. E. Uslenghi   ,2009
+1032,journals/ai/JohnM90,Learning and Applying Contextual Constraints in Sentence Comprehension.,Mark F. St. John   James L. McClelland   ,1990
+1033,journals/tkde/RamakrishnanSS94,Rule Ordering in Bottom-Up Fixpoint Evaluation of Logic Programs.,Raghu Ramakrishnan   Divesh Srivastava   S. Sudarshan   ,1994
+1034,conf/si3d/AliagaYFC03,Interactive image-based rendering using feature globalization.,Daniel G. Aliaga   Dimah Yanovsky   Thomas A. Funkhouser   Ingrid Carlbom   ,2003
+1035,conf/acl/Ravin90,Disambiguating and Interpreting Verb Definitions.,Yael Ravin   ,1990
+1036,conf/acl/Marcken90,Parsing the LOB Corpus.,Carl de Marcken   ,1990
+1037,journals/entcs/BaumeisterHHKW06,A Component Model for Architectural Programming.,Hubert Baumeister   Florian Hacklinger   Rolf Hennicker   Alexander Knapp   Martin Wirsing   ,2006
+1038,conf/sdm/LinED08,Exact and Approximate Reverse Nearest Neighbor Search for Multimedia Data.,Jessica Lin 0001   David Etter   David DeBarr   ,2008
+1039,conf/acl/ChrupalaG06,Using Machine-Learning to Assign Function Labels to Parser Output for Spanish.,Grzegorz Chrupala   Josef van Genabith   ,2006
+1040,conf/dac/CahnK89,Computing Signal Delay in General RC Networks by Tree/Link Partitioning.,Pak K. Chan   Kevin Karplus   ,1989
+1041,conf/oopsla/BrachaC90,Mixin-based Inheritance.,Gilad Bracha   William R. Cook   ,1990
+1042,conf/acl/Marcken90,Parsing the LOB Corpus.,Carl de Marcken   ,1990
+1043,journals/is/HiddersMPV08,On the expressibility of functions in XQuery fragments.,Jan Hidders   Stefania Marrara   Jan Paredaens   Roel Vercammen   ,2008
+1044,journals/lisp/ChambersU91,Iterative Type Analysis and Extended Message Splitting Optimizing Dynamically-Typed Object-Oriented Programs.,Craig Chambers   David Ungar   ,1991
+1045,conf/coling/KlavansT90,The BICORD System Combining Lexical Information from Bilingual Corpora and Machine Readable Dictionaries.,Judith Klavans   Evelyne Tzoukermann   ,1990
+1046,conf/iccv/GrimsonH88,On The Sensitivity Of The Hough Transform For Object Recognition.,W. Eric L. Grimson   Daniel P. Huttenlocher   ,1988
+1047,conf/iccv/GrimsonH88,On The Sensitivity Of The Hough Transform For Object Recognition.,W. Eric L. Grimson   Daniel P. Huttenlocher   ,1988
+1048,journals/rc/XiangCK07,Computing Population Variance and Entropy under Interval Uncertainty Linear-Time Algorithms.,Gang Xiang   Martine Ceberio   Vladik Kreinovich   ,2007
+1049,journals/siamco/NowakA02,epsilon-Equilibria for Stochastic Games with Uncountable State Space and Unbounded Costs.,Andrzej S. Nowak   Eitan Altman   ,2002
+1050,journals/sigmod/Snodgrass90,Temporal Databases - Status and Research Directions.,Richard T. Snodgrass   ,1990
+1051,conf/icassp/ApostolopoulosTWW02,Modeling path diversity for multiple description video communication.,John G. Apostolopoulos   Wai-tian Tan   Susie Wee   Gregory W. Wornell   ,2002
+1052,journals/jasis/DeerwesterDLFH90,Indexing by Latent Semantic Analysis.,Scott C. Deerwester   Susan T. Dumais   Thomas K. Landauer   George W. Furnas   Richard A. Harshman   ,1990
+1053,journals/coling/BrownCPPJLMR90,A Statistical Approach to Machine Translation.,Peter F. Brown   John Cocke   Stephen Della Pietra   Vincent J. Della Pietra   Frederick Jelinek   John D. Lafferty   Robert L. Mercer   Paul S. Roossin   ,1990
+1054,conf/eacl/Namer89,Subject Erasing And Pronominalization In Italian Text Generation.,Fiammetta Namer   ,1989
+1055,conf/acl/WhittemoreFB90,Empirical Study of Predictive Powers od Simple Attachment Schemes for Post-Modifier Prepositional Phrases.,Greg Whittemore   Kathleen Ferrara   Hans Brunner   ,1990
+1056,journals/coling/LappinM90,Anaphora Resolution in Slot Grammar.,Shalom Lappin   Michael C. McCord   ,1990
+1057,conf/coling/Kuhns90,A PARLOG Implementation of Government-Binding Theory.,Robert J. Kuhns   ,1990
+1058,journals/mp/KarmarkarRR91,An interior point algorithm to solve computationally difficult set covering problems.,Narendra Karmarkar   Mauricio G. C. Resende   K. G. Ramakrishnan   ,1991
+1059,journals/mt/NoordDEFRT91,An overview of MiMo2.,Gertjan van Noord   Joke Dorrepaal   Pim van der Eijk   Maria Florenza   Herbert Ruessink   Louis des Tombe   ,1991
+1060,conf/spdp/TyagiR90,Energy complexity of optical computations.,Akhilesh Tyagi   John H. Reif   ,1990
+1061,journals/tocs/SchroederB90,Performance of Firefly RPC.,Michael D. Schroeder   Michael Burrows   ,1990
+1062,conf/cocoon/SuLWZZC01,A Logical Framework for Knowledge Sharing in Multi-agent Systems.,Kaile Su   Xudong Luo   Huaiqing Wang   Chengqi Zhang   Shichao Zhang   Qingfeng Chen   ,2001
+1063,conf/icpads/Zhao08,Integrity-Preserving Replica Coordination for Byzantine Fault Tolerant Systems.,Wenbing Zhao   ,2008
+1064,conf/emnlp/PoonD08,Joint Unsupervised Coreference Resolution with Markov Logic.,Hoifung Poon   Pedro Domingos   ,2008
+1065,conf/icec/Garis94,The Genetic Programming of an Artificial Brain Which Grows/Evolves at Electronic Speeds in a Cellular Automata Machine.,Hugo de Garis   ,1994
+1066,conf/isca/GharachorlooLLGGH90,Memory Consistency and Event Ordering in Scalable Shared-Memory Multiprocessors.,Kourosh Gharachorloo   Daniel Lenoski   James Laudon   Phillip B. Gibbons   Anoop Gupta   John L. Hennessy   ,1990
+1067,conf/coling/LitmanH90,Disambiguating Cue Phrases in Text and Speech.,Diane J. Litman   Julia Hirschberg   ,1990
+1068,conf/wdag/CidonKMP90,Greedy Packet Scheduling.,Israel Cidon   Shay Kutten   Yishay Mansour   David Peleg   ,1990
+1069,conf/sigal/GazitM90,Planar Separators and the Euclidean Norm.,Hillel Gazit   Gary L. Miller   ,1990
+1070,conf/coling/TzoukermannL90,A Finite-State Morphological Processor For Spanish.,Evelyne Tzoukermann   Mark Liberman   ,1990
+1071,conf/acl/Abeille90,Lexical and Syntactic Rules in a Tree Adjoining Grammar.,Anne Abeill eacute,
+1072,conf/lrec/Bestgen08,Building Affective Lexicons from Specific Corpora for Automatic Sentiment Analysis.,Yves Bestgen   ,2008
+1073,conf/siggraph/WitkinW90,Fast animation and control of nonrigid structures.,Andrew P. Witkin   William Welch   ,1990
+1074,conf/icdcs/SchwartzHHH91,Supporting resource discovery among public Internet archives using a spectrum of information quality.,Michael F. Schwartz   Darren R. Hardy   William K. Heinzman   Glenn C. Hirschowitz   ,1991
+1075,journals/toplas/HerlihyW90,Linearizability A Correctness Condition for Concurrent Objects.,Maurice Herlihy   Jeannette M. Wing   ,1990
+1076,conf/lics/GoldmanL90,Modelling Shared State in a Shared Action Model,Kenneth J. Goldman   Nancy A. Lynch   ,1990
+1077,journals/tse/BrocklehurstCLS90,Recalibrating Software Reliability Models.,Sarah Brocklehurst   P. Y. Chan 0002   Bev Littlewood   John Snell   ,1990
+1078,conf/coling/SomersTJ90,Machine Translation without a source text.,Harold L. Somers   Jun-ichi Tsujii   Danny Jones   ,1990
+1079,conf/acl/SmadjaM90,Automatically Extracting and Representing Collocations for Language Generation.,Frank A. Smadja   Kathleen McKeown   ,1990
+1080,journals/pvldb/SansL08,Prefix based numbering schemes for XML techniques applications and performances.,Virginie Sans   Dominique Laurent   ,2008
+1081,conf/wmrd/LiskovGGJS92,Efficient Recovery in Harp.,Barbara Liskov   Sanjay Ghemawat   Robert Gruber   Paul Johnson   Liuba Shrira   ,1992
+1082,conf/chi/HeerB10,Crowdsourcing graphical perception using mechanical turk to assess visualization design.,Jeffrey Heer   Michael Bostock   ,2010
+1083,conf/pg/BajajPI01,Visualization-Specific Compression of Large Volume Data.,Chandrajit L. Bajaj   Sanghun Park   Insung Ihm   ,2001
+1084,journals/siamsc/OlshanskiiB08,An Augmented Lagrangian Approach to Linearized Problems in Hydrodynamic Stability.,Maxim A. Olshanskii   Michele Benzi   ,2008
+1085,conf/pods/FeketeLW90,A Serialization Graph Construction for Nested Transactions.,Alan Fekete   Nancy A. Lynch   William E. Weihl   ,1990
+1086,journals/ijcv/KlinkerSK90,A physical approach to color image understanding.,Gudrun Klinker   Steven A. Shafer   Takeo Kanade   ,1990
+1087,conf/coling/SkuceM90,Concept Analysis And Terminology A Knowledge-Based Approach To Documentation.,Douglas R. Skuce   Ingrid Meyer   ,1990
+1088,conf/coling/AnickP90,An Application of Lexical Semantics to Knowledge Acquisition from Corpora.,Peter G. Anick   James Pustejovsky   ,1990
+1089,journals/ijcv/KlinkerSK90,A physical approach to color image understanding.,Gudrun Klinker   Steven A. Shafer   Takeo Kanade   ,1990
+1090,conf/icdcs/AlvisiRV98,Low-Overhead Protocols for Fault-Tolerant File Sharing.,Lorenzo Alvisi   Sriram Rao   Harrick M. Vin   ,1998
+1091,conf/wdag/CidonGK90,Optimal Computation of Global Sensitive Functions in Fast Networks.,Israel Cidon   Inder S. Gopal   Shay Kutten   ,1990
+1092,conf/nsdi/LipfordBW08,Understanding Privacy Settings in Facebook with an Audience View.,Heather Richter Lipford   Andrew Besmer   Jason Watson   ,2008
+1093,conf/adhoc-now/AltmanBS08,The Mathematics of Routing in Massively Dense Ad-Hoc Networks.,Eitan Altman   Pierre Bernhard   Alonso Silva   ,2008
+1094,conf/iccS/GroenHZ09,On the Origin of Grid Species The Living Application.,Derek Groen   Stefan Harfst   Simon Portegies Zwart   ,2009
+1095,conf/isca/AgarwalLKK90,APRIL A Processor Architecture for Multiprocessing.,Anant Agarwal   Beng-Hong Lim   David A. Kranz   John Kubiatowicz   ,1990
+1096,conf/concur/FeketeL90,The Need for Headers An Impossibility Result for Communication over Unreliable Channels.,Alan Fekete   Nancy A. Lynch   ,1990
+1097,conf/lics/AllenCHA90,The Semantics of Reflected Proof,Stuart F. Allen   Robert L. Constable   Douglas J. Howe   William E. Aitken   ,1990
+1098,journals/spe/GrossS90,Structured Dataflow Analysis for Arrays and its Use in an Optimizing Compiler.,Thomas R. Gross   Peter Steenkiste   ,1990
+1099,conf/interspeech/HeldnerEHL11,Very Short Utterances and Timing in Turn-Taking.,Mattias Heldner   Jens Edlund   Anna Hjalmarsson   Kornel Laskowski   ,2011
+1100,journals/tse/BrilliantKL90,Analysis of Faults in an N-Version Software Experiment.,Susan S. Brilliant   John C. Knight   Nancy G. Leveson   ,1990
+1101,journals/pvldb/FontouraJKOTV08,Relaxation in text search using taxonomies.,Marcus Fontoura   Vanja Josifovski   Ravi Kumar   Christopher Olston   Andrew Tomkins   Sergei Vassilvitskii   ,2008
+1102,conf/icassp/KawaharaNA08,Automatic lecture transcription by exploiting presentation slide information for language model adaptation.,Tatsuya Kawahara   Yusuke Nemoto   Yuya Akita   ,2008
+1103,conf/dsd/ChengHW08,PUFFIN A Novel Compact Block Cipher Targeted to Embedded Digital Systems.,Huiju Cheng   Howard M. Heys   Cheng Wang   ,2008
+1104,conf/sigmetrics/MeinersLT09,Topological transformation approaches to optimizing TCAM-based packet classification systems.,Chad R. Meiners   Alex X. Liu   Eric Torng   ,2009
+1105,journals/ml/GrefenstetteRS90,Learning Sequential Decision Rules Using Simulation Models and Competition.,John J. Grefenstette   Connie Loggia Ramsey   Alan C. Schultz   ,1990
+1106,conf/IEEEcgiv/KhannaSMY07,A Non-parametric Guide for Radiance Sampling in Global Illumination.,Pankaj Khanna   Mel Slater   Jesper Mortensen   Insu Yu   ,2007
+1107,conf/acl/RussellWC90,Asymmetry in Parsing and Generating with Unification Grammars Case Studies from ELU.,Graham Russell   Susan Warwick-Armstrong   John Carroll   ,1990
+1108,conf/acl/MarcoS07,Words and Echoes Assessing and Mitigating the Non-Randomness Problem in Word Frequency Distribution Modeling.,Marco Baroni   Stefan Evert   ,2007
+1109,journals/siamcomp/GrigorievKS90,Fast Parallel Algorithms for Sparse Multivariate Polynomial Interpolation over Finite Fields.,Dima Grigoriev   Marek Karpinski   Michael F. Singer   ,1990
+1110,conf/sc/HsiungTCD90,Time dilation visualization in relativity.,Ping-Kang Hsiung   Robert H. Thibadeau   Christopher B. Cox   Robert H. P. Dunn   ,1990
+1111,journals/jise/WangH08,Dynamic Nonlinear System Identification Using a Wiener-Type Recurrent Network with OKID Algorithm.,Jeen-Shing Wang   Yu-Liang Hsu   ,2008
+1112,conf/colt/GoldmanKS90a,Exact Identification of Circuits Using Fixed Points of Amplification Functions (Abstract).,Sally A. Goldman   Michael J. Kearns   Robert E. Schapire   ,1990
+1113,journals/pvldb/NutanongZTK08,The V*-Diagram a query-dependent approach to moving KNN queries.,Sarana Nutanong   Rui Zhang 0003   Egemen Tanin   Lars Kulik   ,2008
+1114,conf/sigmetrics/RamaiyanKA05,Fixed point analysis of single cell IEEE 802.11e WLANs uniqueness multistability and throughput differentiation.,Venkatesh Ramaiyan   Anurag Kumar   Eitan Altman   ,2005
+1115,conf/re/KaiyaSMK03,Trade-off Analysis between Security Policies for Java Mobile Codes and Requirements for Java Application.,Haruhiko Kaiya   Kouta Sasaki   Yasunori Maebashi   Kenji Kaijiri   ,2003
+1116,journals/tse/HarelLNPPSST90,STATEMATE A Working Environment for the Development of Complex Reactive Systems.,David Harel   Hagi Lachover   Amnon Naamad   Amir Pnueli   Michal Politi   Rivi Sherman   Aharon Shtull-Trauring   Mark B. Trakhtenbrot   ,1990
+1117,conf/siggraph/Chen90,Incremental radiosity an extension of progressive radiosity to an interactive image synthesis system.,Shenchang Eric Chen   ,1990
+1118,journals/csur/ShethL90,Federated Database Systems for Managing Distributed Heterogeneous and Autonomous Databases.,Amit P. Sheth   James A. Larson   ,1990
+1119,conf/ctrs/Nipkow90,Higher-Order Unification Polymorphism and Subsorts (Extended Abstract).,Tobias Nipkow   ,1990
+1120,conf/iccl/BalKT90,Experience with Distributed Programming in ORCA.,Henri E. Bal   M. Frans Kaashoek   Andrew S. Tanenbaum   ,1990
+1121,journals/tois/BooksteinK90,Compression Information Theory and Grammars A Unified Approach.,Abraham Bookstein   Shmuel T. Klein   ,1990
+1122,journals/jal/NeigerT90,Automatically Increasing the Fault-Tolerance of Distributed Algorithms.,Gil Neiger   Sam Toueg   ,1990
+1123,journals/tkde/HanF99,Mining Multiple-Level Association Rules in Large Databases.,Jiawei Han   Yongjian Fu   ,1999
+1124,journals/jpdc/RankaS90,Image Template Matching on MIMD Hypercube Multicomputers.,Sanjay Ranka   Sartaj Sahni   ,1990
+1125,conf/sigopsE/Bacon90,Transparent recovery in distributed systems.,David F. Bacon   ,1990
+1126,journals/jpdc/RankaS90a,String Editing on an SIMD Hypercube Multicomputer.,Sanjay Ranka   Sartaj Sahni   ,1990
+1127,conf/rex/Cook90,Object-Oriented Programming Versus Abstract Data Types.,William R. Cook   ,1990
+1128,conf/scn/CamenischHL06,Balancing Accountability and Privacy Using E-Cash (Extended Abstract).,Jan Camenisch   Susan Hohenberger   Anna Lysyanskaya   ,2006
+1129,journals/rts/Cristian90,Synchronous Atomic Broadcast for Redundant Broadcast Channels.,Flaviu Cristian   ,1990
+1130,journals/combinatorica/ChazelleF90,A deterministic view of random sampling and its use in geometry.,Bernard Chazelle   Joel Friedman   ,1990
+1131,journals/tpds/Melliar-SmithMA90,Broadcast Protocols for Distributed Systems.,P. M. Melliar-Smith   Louise E. Moser   Vivek Agrawala   ,1990
+1132,journals/tois/Moss90,Design of the  Mneme Persistent Object Store.,J. Eliot B. Moss   ,1990
+1133,journals/computer/Black90,Scheduling Support for Concurrency and Parallelism in the Mach Operating System.,David L. Black   ,1990
+1134,journals/cogsci/Shoham90,Nonmonotonic Reasoning and Causation.,Yoav Shoham   ,1990
+1135,conf/icml/GordonG90,Explanations of Empirically Derived Reactive Plans.,Diana F. Gordon   John J. Grefenstette   ,1990
+1136,conf/usenix/Rosenthal90,Evolving the Vnode interface.,David S. H. Rosenthal   ,1990
+1137,conf/aaai/YangT90,ABTWEAK Abstracting a Nonlinear Least Commitment Planner.,Qiang Yang   Josh D. Tenenberg   ,1990
+1138,journals/tse/GuptaS90,Region Scheduling An Approach for Detecting and Redistributing Parallelism.,Rajiv Gupta   Mary Lou Soffa   ,1990
+1139,conf/iccv/CollinsW90,Vanishing point calculation as a statistical inference on the unit sphere.,Robert T. Collins   Richard S. Weiss   ,1990
+1140,journals/tse/PodgurskiC90,A Formal Model of Program Dependences and Its Implications for Software Testing Debugging and Maintenance.,Andy Podgurski   Lori A. Clarke   ,1990
+1141,conf/cav/Cleaveland90,On Automatically Explaining Bisimulation Inequivalence.,Rance Cleaveland   ,1990
+1142,journals/tocs/RamakrishnanJ90,A Binary Feedback Scheme for Congestion Avoidance in Computer Networks.,K. K. Ramakrishnan   Raj Jain   ,1990
+1143,conf/sigmod/BeckmannKSS90,The R*-Tree An Efficient and Robust Access Method for Points and Rectangles.,Norbert Beckmann   Hans-Peter Kriegel   Ralf Schneider   Bernhard Seeger   ,1990
+1144,journals/tkde/JacobF90,A Software Engineering Methodology for Rule-Based Systems.,Robert J. K. Jacob   Judith N. Froscher   ,1990
+1145,conf/pods/FeketeLW90,A Serialization Graph Construction for Nested Transactions.,Alan Fekete   Nancy A. Lynch   William E. Weihl   ,1990
+1146,conf/acl/Siskind90,Acquiring Core Meanings of Words Represented as Jackendoff-Style Conceptual Structures from Correlated Streams of Linguistic and Non-Linguistic Input.,Jeffrey Mark Siskind   ,1990
+1147,conf/acl/Marino90,Bottom-Up Parsing Extending Context-Freeness in a Process Grammar Processor.,Massimo Marino   ,1990
+1148,journals/coling/ShieberNPM90,Semantic-Head-Driven Generation.,Stuart M. Shieber   Gertjan van Noord   Fernando C. N. Pereira   Robert C. Moore   ,1990
+1149,conf/acl/StrzalkowskiP90,Automated Inversion of Logic Grammars for Generation.,Tomek Strzalkowski   Ping Peng   ,1990
+1150,conf/coling/Miikkulainen90,A PDP Architecture For Processing Sentences With Relative Clauses.,Risto Miikkulainen   ,1990
+1151,conf/aaai/Cohen90,Learning from Textbook Knowledge A Case Study.,William W. Cohen   ,1990
+1152,conf/coling/Noord90,Reversible Unification Based Machine Translation.,Gertjan van Noord   ,1990
+1153,conf/aaecc/ZhengMI90,Duality between Two Cryptographic Primitives.,Yuliang Zheng   Tsutomu Matsumoto   Hideki Imai   ,1990
+1154,journals/vlsisp/GreenstreetS90,Bubbles can make self-timed pipelines fast.,Mark R. Greenstreet   Kenneth Steiglitz   ,1990
+1155,conf/lacl/Hegner98,Computational and Structural Aspects of Openly Specified Type Hierarchies.,Stephen J. Hegner   ,1998
+1156,conf/vldb/RamakrishnanSS90,Rule Ordering in Bottom-Up Fixpoint Evaluation of Logic Programs.,Raghu Ramakrishnan   Divesh Srivastava   S. Sudarshan   ,1990
+1157,conf/siggraph/Sims90,Particle animation and rendering using data parallel computation.,Karl Sims   ,1990
+1158,journals/tocs/DeeringC90,Multicast Routing in Datagram Internetworks and Extended LANs.,Stephen E. Deering   David R. Cheriton   ,1990
+1159,journals/pami/SheikhS05,Bayesian Modeling of Dynamic Scenes for Object Detection.,Yaser Sheikh   Mubarak Shah   ,2005
+1160,conf/chi/Jacob90,What you look at is what you get eye movement-based interaction techniques.,Robert J. K. Jacob   ,1990
+1161,conf/pldi/ChambersU90,Iterative Type Analysis and Extended Message Splitting Optimizing Dynamically-Typed Object-Oriented Programs.,Craig Chambers   David Ungar   ,1990
+1162,conf/icdt/Hegner90,Foundations of Canonical Update Support for Closed Database Views.,Stephen J. Hegner   ,1990
+1163,journals/siamdm/Bruck90,Harmonic Analysis of Polynomial Threshold Functions.,Jehoshua Bruck   ,1990
+1164,conf/concur/CleavelandS90,A Preorder for Partial Process Specifications.,Rance Cleaveland   Bernhard Steffen   ,1990
+1165,journals/lisp/Appel90,A Runtime System.,Andrew W. Appel   ,1990
+1166,journals/computer/Smith90,The Task of the Referee.,Alan Jay Smith   ,1990
+1167,conf/coling/HobbsB90,Two Principles of Parse Preference.,Jerry R. Hobbs   John Bear   ,1990
+1168,conf/acl/Maruyama90,Structural Disambiguation with Constraint Propagation.,Hiroshi Maruyama   ,1990
+1169,conf/coling/DaganI90,Automatic Processing of Large Corpora for the Resolution of Anaphora References.,Ido Dagan   Alon Itai   ,1990
+1170,conf/acl/Harper90,Designer Definites in Logical Form.,Mary P. Harper   ,1990
+1171,conf/coling/Bateman90,Finding Translation Equivalents An Application Of Grammatical Metaphor.,John A. Bateman   ,1990
+1172,conf/acl/LindenM90,Algorithms for Generation in Lambek Theorem Proving.,Erik-Jan van der Linden   Guido Minnen   ,1990
+1173,conf/acl/Brent90,A Simplified Theory of Tense Representations and Constraints on their Composition.,Michael R. Brent   ,1990
+1174,conf/coling/Jacobs90,To Parse or Not to Parse Relation-Driven Text Skimming.,Paul S. Jacobs   ,1990
+1175,conf/coling/Huang90,A Machine Translation System for the Target Language Inexpert.,Xiuming Huang   ,1990
+1176,conf/coling/Estival90,Generating French with a Reversible Unification Grammar.,Dominique Estival   ,1990
+1177,conf/coling/GrishmanS90,Information Extraction and Semantic Constraints.,Ralph Grishman   John Sterling   ,1990
+1178,conf/coling/Kitano90,Incremental Sentence Production with a Parallel Marker-Passing Algorithm.,Hiroaki Kitano   ,1990
+1179,journals/coling/Haas90,Sentential Semantics for Propositional Attitudes.,Andrew R. Haas   ,1990
+1180,journals/coling/DawarV90,An Interpretation of Negation in Feature Structure Descriptions.,Anuj Dawar   K. Vijay-Shanker   ,1990
+1181,conf/coling/Goeser90,A Linguistic Theory of Robustness.,Sebastian Goeser   ,1990
+1182,conf/coling/CarlsonV90,Independent Transfer Using Graph Unification.,Lauri Carlson   Maria Vilkuna   ,1990
+1183,conf/coling/NorvigW90,A Critical Evaluation of Commensurable Abduction Models for Semantic Interpretation.,Peter Norvig   Robert Wilensky   ,1990
+1184,conf/acl/SchabesV90,Deterministic Left to Right Parsing of Tree Adjoining Languages.,Yves Schabes   K. Vijay-Shanker   ,1990
+1185,conf/coling/Kogure90,Strategic Lazy Incremental Copy Graph Unification.,Kiyoshi Kogure   ,1990
+1186,journals/coling/Alshawi90,Resolving Quasi Logical Forms.,Hiyan Alshawi   ,1990
+1187,journals/tse/ItaiKWZ90,Optimal Distributed t-Resilient Election in Complete Networks.,Alon Itai   Shay Kutten   Yaron Wolfstahl   Shmuel Zaks   ,1990
+1188,journals/coling/ChurchH90,Word Association Norms Mutual Information and Lexicography.,Kenneth Ward Church   Patrick Hanks   ,1990
+1189,conf/acl/Vijay-ShankerW90,Polynomial Time Parsing of Combinatory Categorial Grammars.,K. Vijay-Shanker   David J. Weir   ,1990
+1190,conf/coling/DalrympleMZ90,Modeling syntactic constraints on anaphoric binding.,Mary Dalrymple   John Maxwell   Annie Zaenen   ,1990
+1191,conf/coling/Wu90,Probabilistic Unification-Based Integration Of Syntactic and Semantic Preferences For Nominal Compounds.,Dekai Wu   ,1990
+1192,conf/acl/CohenL90,Performatives in a Rationally Based Speech Act Theory.,Philip R. Cohen   Hector J. Levesque   ,1990
+1193,conf/coling/LiPLC90,Parsing Long English Sentences with Pattern Rules.,Wei-Chuan Li   Tzusheng Pei   Bing-Huang Lee   Chuei-Feng Chiou   ,1990
+1194,conf/coling/Wilensky90,Extending the Lexicon by Exploiting Subregularities.,Robert Wilensky   ,1990
+1195,conf/acl/Harbusch90,An Efficient Parsing Algorithm for Tree Adjoining Grammars.,Karin Harbusch   ,1990
+1196,conf/coling/Koskenniemi90,Finite-State Parsing And Disambiguation.,Kimmo Koskenniemi   ,1990
+1197,journals/vc/BoulicTT90,A global human walking model with real-time kinematic personification.,Ronan Boulic   Nadia Magnenat-Thalmann   Daniel Thalmann   ,1990
+1198,conf/coling/Langer90,Syntactic Normalization Of Spontaneous Speech.,Hagen Langer   ,1990
+1199,conf/coling/SatoN90,Toward Memory-based Translation.,Satoshi Sato   Makoto Nagao   ,1990
+1200,conf/coling/Ahrenberg90,A Grammar Combining Phrase Structure and Field Structure.,Lars Ahrenberg   ,1990
+1201,conf/coling/Carson-Berndsen90,Phonological Processing of Speech Variants.,Julie Carson-Berndsen   ,1990
+1202,journals/coling/Pereira90,Categorial Semantics and Scoping.,Fernando C. N. Pereira   ,1990
+1203,conf/acl/BearP90,Prosody Syntax and Parsing.,John Bear   Patti Price   ,1990
+1204,conf/acl/Elhadad90,Types in Functional Unification Grammars.,Michael Elhadad   ,1990
+1205,conf/coling/FawcettT90,Demonstration Of Genesys A Very Large Semantically Based Systemic Functional Generator.,Robin P. Fawcett   Gordon H. Tucker   ,1990
+1206,conf/coling/Strzalkowski90,How To Invert A Natural Language Parser Into An Efficient Generator An Algorithm For Logic Grammars.,Tomek Strzalkowski   ,1990
+1207,conf/acl/Johnson90,Expressing Disjunctive and Negative Feature Constraints with Classical First-Order Logic.,Mark Johnson   ,1990
+1208,conf/coling/Hepple90,Normal Form Theorem Proving for the Lambek Calculus.,Mark Hepple   ,1990
+1209,conf/isca/AdveH90,Weak Ordering - A New Definition.,Sarita V. Adve   Mark D. Hill   ,1990
+1210,conf/foga/Koza92,Hierarchical Automatic Function Definition in Genetic Programming.,John R. Koza   ,1992
+1211,conf/its/McLarenLK08,When Is Assistance Helpful to Learning? Results in Combining Worked Examples and Intelligent Tutoring.,Bruce M. McLaren   Sung-Joo Lim   Kenneth R. Koedinger   ,2008
+1212,journals/pvldb/CreceliusKMNPSW08,Making SENSE socially enhanced search and exploration.,Tom Crecelius   Mouna Kacimi   Sebastian Michel   Thomas Neumann   Josiane Xavier Parreira   Ralf Schenkel   Gerhard Weikum   ,2008
+1213,conf/foga/Koza90,A Hierarchical Approach to Learning the Boolean Multiplexer Function.,John R. Koza   ,1990
+1214,conf/vldb/WangM90,A Polygen Model for Heterogeneous Database Systems The Source Tagging Perspective.,Y. Richard Wang   Stuart E. Madnick   ,1990
+1215,conf/rtss/HaritsaCL90,Dynamic Real-Time Optimistic Concurrency Control.,Jayant R. Haritsa   Michael J. Carey   Miron Livny   ,1990
+1216,conf/coling/Matthiessen90,Two approaches to semantic interfaces in text generation.,Christian Matthiessen   ,1990
+1217,journals/isb/BorisjukHKRS04,Integrating data from biological experiments into metabolic networks with the DBE information system.,Ljudmilla Borisjuk   Mohammad-Reza Hajirezaei   Christian Klukas   Hardy Rolletschek   Falk Schreiber   ,2004
+1218,conf/aaai/DaiMW08,Partitioned External-Memory Value Iteration.,Peng Dai   Mausam   Daniel S. Weld   ,2008
+1219,conf/mva/TalluriA90,Edge Visibility Regions - A New Representation of the Environment of a Mobile Robot.,Raj Talluri   J. K. Aggarwal   ,1990
+1220,conf/coling/Slack90,Unbounded Dependency Tying strings to rings.,Jon M. Slack   ,1990
+1221,conf/coling/Eugenio90,Centering theory and the Italian pronominal system.,Barbara Di Eugenio   ,1990
+1222,conf/mva/ZhuL90,Real Time Algorithms for Obstacle Avoidance by Using Reprojection Transformation.,Zhigang Zhu   Xueyin Lin   ,1990
+1223,conf/coling/Nagao90,Dependency Analyzer A Knowledge-Based Approach to Structural Disambiguation.,Katashi Nagao   ,1990
+1224,journals/tcad/ChanK90,Computing signal delay in general RC networks by tree/link partitioning.,Pak K. Chan   Kevin Karplus   ,1990
+1225,journals/ipl/Goldreich90,A Note on Computational Indistinguishability.,Oded Goldreich   ,1990
+1226,journals/tocs/RamakrishnanJ90,A Binary Feedback Scheme for Congestion Avoidance in Computer Networks.,K. K. Ramakrishnan   Raj Jain   ,1990
+1227,journals/corr/abs-cs-0607062,Get out the vote Determining support or opposition from Congressional floor-debate transcripts,Matt Thomas   Bo Pang   Lillian Lee   ,2006
+1228,conf/emnlp/ThomasPL06,Get out the vote Determining support or opposition from Congressional floor-debate transcripts.,Matt Thomas   Bo Pang   Lillian Lee   ,2006
+1229,journals/computer/SchmandtAH90,Augmenting a Window System with Speech Input.,Chris Schmandt   Mark S. Ackerman   Debby Hindus   ,1990
+1230,conf/c++/Parrington90,Reliable Distributed Programming in C++ The Arjuna Approach.,Graham D. Parrington   ,1990
+1231,journals/computer/KorenS90,Fault Tolerance in VLSI Circuits.,Israel Koren   Adit D. Singh   ,1990
+1232,conf/acl/Frank90,Licensing and Tree Adjoining Grammar in Government Binding Parsing.,Robert Frank   ,1990
+1233,conf/icmi/WangTSW02,Towards Universal Speech Recognition.,Zhirong Wang   Umut Topkara   Tanja Schultz   Alex Waibel   ,2002
+1234,conf/acl/Hindle90,Noun Classification from Predicate-Argument Structures.,Donald Hindle   ,1990
+1235,conf/coling/JohnsonK90,Semantic Abstraction and Anaphora.,Mark Johnson   Martin Kay   ,1990
+1236,journals/cacm/Pugh90,Skip Lists A Probabilistic Alternative to Balanced Trees.,William Pugh   ,1990
+1237,journals/dc/Lamport90,A Theorem on Atomicity in Distributed Algorithms.,Leslie Lamport   ,1990
+1238,conf/cade/PfenningN90,Presenting Intuitive Deductions via Symmetric Simplification.,Frank Pfenning   Dan Nesmith   ,1990
+1239,conf/uai/GeigerH90,separable and transitive graphoids.,Dan Geiger   David Heckerman   ,1990
+1240,conf/siggraph/FranklinK90,Parallel object-space hidden surface removal.,Wm. Randolph Franklin   Mohan S. Kankanhalli   ,1990
+1241,journals/mp/TsengB90,Relaxation Methods for Monotropic Programs.,Paul Tseng   Dimitri P. Bertsekas   ,1990
+1242,journals/computer/Smith90,The Task of the Referee.,Alan Jay Smith   ,1990
+1243,journals/ijcv/EdelmanFU90,Reading cursive handwriting by alignment of letter prototypes.,Shimon Edelman   Tamar Flash   Shimon Ullman   ,1990
+1244,journals/computer/MullenderRTRS90,Amoeba A Distributed Operating System for the 1990s.,Sape J. Mullender   Guido van Rossum   Andrew S. Tanenbaum   Robbert van Renesse   Hans van Staveren   ,1990
+1245,conf/esorics/BlainD90,An Intrusion-Tolerant Security Server for an Open Distributed System.,Laurent Blain   Yves Deswarte   ,1990
+1246,journals/pami/Lindeberg90,Scale-Space for Discrete Signals.,Tony Lindeberg   ,1990
+1247,journals/questa/BonaldT08,On Kelly networks with shuffling.,T. Bonald   M.-A. Tran   ,2008
+1248,journals/coling/ChurchH90,Word Association Norms Mutual Information and Lexicography.,Kenneth Ward Church   Patrick Hanks   ,1990
+1249,journals/computer/Smith90,The Task of the Referee.,Alan Jay Smith   ,1990
+1250,conf/pldi/Clinger90,How to Read Floating-Point Numbers Accurately.,William D. Clinger   ,1990
+1251,journals/computer/Smith90,The Task of the Referee.,Alan Jay Smith   ,1990
+1252,journals/jcss/Beigel91,Relativized Counting Classes Relations among Thresholds Parity and Mods.,Richard Beigel   ,1991
+1253,journals/tse/Moore90,The Specification and Verified Decomposition of System Requirements Using CSP.,Andrew P. Moore   ,1990
+1254,conf/forte/BauseB90,Protocol Analysis Using a Timed Version of SDL.,Falko Bause   Peter Buchholz   ,1990
+1255,conf/ibm/SchmidtM90,Language Technology for Post-relational Data Systems.,Joachim W. Schmidt   Florian Matthes   ,1990
+1256,conf/icpp/KambhatlaIW90,Experiences with BeLinda A Synthetic Linda Benchmark for Parallel Computing Platforms.,Srikanth Kambhatla   Jon Inouye   Jonathan Walpole   ,1990
+1257,conf/ppopp/BennettCZ90,Munin Distributed Shared Memory Based on Type-Specific Memory Coherence.,John K. Bennett   John B. Carter   Willy Zwaenepoel   ,1990
+1258,conf/iccv/DuttaS90,Robustness of correspondence-based structure from motion.,R. Dutta   M. A. Snyder   ,1990
+1259,journals/cacm/Pugh90,Skip Lists A Probabilistic Alternative to Balanced Trees.,William Pugh   ,1990
+1260,journals/epodd/Pollard90,Hypertext Presentation of Thesauri Used in Online Searching.,Richard Pollard   ,1990
+1261,conf/icpp/Preiss90,Performance of Discrete Event Simulation on a Multiprocessor Using Optimistic and Conservative Synchronization.,Bruno R. Preiss   ,1990
+1262,conf/iccv/DuttaS90,Robustness of correspondence-based structure from motion.,R. Dutta   M. A. Snyder   ,1990
+1263,journals/ai/Wellman90,Fundamental Concepts of Qualitative Probabilistic Networks.,Michael P. Wellman   ,1990
+1264,journals/computer/Smith90,The Task of the Referee.,Alan Jay Smith   ,1990
+1265,journals/computer/Smith90,The Task of the Referee.,Alan Jay Smith   ,1990
+1266,conf/plilp/BowenJP90,An Approach to Verifiable Compiling Specification and Prototyping.,Jonathan P. Bowen   Jifeng He   Paritosh K. Pandya   ,1990
+1267,conf/nips/GirosiPC90,Extensions of a Theory of Networks for Approximation and Learning.,Federico Girosi   Tomaso Poggio   Bruno Caprile   ,1990
+1268,journals/pami/GrimsonH90,On the Sensitivity of the Hough Transform for Object Recognition.,W. Eric L. Grimson   Daniel P. Huttenlocher   ,1990
+1269,journals/pami/GrimsonH90,On the Sensitivity of the Hough Transform for Object Recognition.,W. Eric L. Grimson   Daniel P. Huttenlocher   ,1990
+1270,journals/ijcv/Horn90,Relative orientation.,Berthold K. P. Horn   ,1990
+1271,conf/cscw/HartE90,Computer Integration a Co-Requirement for Effective Inter-Organization Computer Network Implementation.,Paul Hart   Deborah Estrin   ,1990
+1272,journals/jsac/FettweisM90,High-Rate Viterbi Processor A Systolic Array Solution.,Gerhard Fettweis   Heinrich Meyr   ,1990
+1273,conf/esop/Romanenko90,Arity Raiser and its Use in Program Specialization.,Sergei A. Romanenko   ,1990
+1274,conf/wmrd/LittleS90,Replicated K-Resilient Objects in Arjuna.,Mark C. Little   Santosh K. Shrivastava   ,1990
+1275,conf/lics/GoldmanL90,Modelling Shared State in a Shared Action Model,Kenneth J. Goldman   Nancy A. Lynch   ,1990
+1276,journals/tocs/RamakrishnanJ90,A Binary Feedback Scheme for Congestion Avoidance in Computer Networks.,K. K. Ramakrishnan   Raj Jain   ,1990
+1277,journals/ml/Schapire90,The Strength of Weak Learnability.,Robert E. Schapire   ,1990
+1278,conf/eurasip/ThrunL90,Inversion in Time.,Sebastian Thrun   Alexander Linden   ,1990
+1279,conf/pldi/CallahanCK90,Improving Register Allocation for Subscripted Variables.,David Callahan   Steve Carr   Ken Kennedy   ,1990
+1280,journals/siamcomp/LuekerMR90,Linear Programming with Two Variables per Inequality in Poly-Log Time.,George S. Lueker   Nimrod Megiddo   Vijaya Ramachandran   ,1990
+1281,conf/aaai/BlackA90,Constraints for the Early Detection of Discontinuity from Motion.,Michael J. Black   P. Anandan   ,1990
+1282,journals/ijhci/Shneiderman90,Future directions for human-computer interaction.,Ben Shneiderman   ,1990
+1283,conf/iclp/HaridiJ90,Kernel Andorra Prolog and its Computation Model.,Seif Haridi   Sverker Janson   ,1990
+1284,conf/icml/DietterichHB90,A Comparative Study of ID3 and Backpropagation for English Text-to-Speech Mapping.,Thomas G. Dietterich   Hermann Hild   Ghulum Bakiri   ,1990
+1285,journals/tois/BooksteinK90,Compression Information Theory and Grammars A Unified Approach.,Abraham Bookstein   Shmuel T. Klein   ,1990
+1286,conf/esop/Romanenko90,Arity Raiser and its Use in Program Specialization.,Sergei A. Romanenko   ,1990
