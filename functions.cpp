@@ -71,7 +71,7 @@ int BinarySearch(KeyType value, CSVDatabase _vector, int _left, int _right){
  	if (!position.compare(value))
  		return _index;
  	
- 	if (_left == _right || _left > _right)
+ 	if (_left == _right)
  		return -1; 
  	
  	if (position.compare(value)<0)

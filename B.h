@@ -69,5 +69,5 @@ void printTree(Node* &tree, int tabs);
 void UpFirsts(vector<string> &_Keys, vector<Node*> &_Pointers, int n_Order, Node* &tree);
 void BulkLoadingInsert(Node* &tree, CSVDatabase &_Table, int n_Order, int _Column);
 bool searchPathByKey(Node* &tree, KeyType key, KeyType &path);
-void RemoveNode(KeyType id, Node* &tree, CSVDatabase &_Table, CSVDatabase &_NoGroup, int n_Order, int _Column);
+void RemoveNode(KeyType id, Node* &tree, CSVDatabase &_Table, int n_Order, int _Column);
 void RemoveNodeOfVector(Node* &_node, KeyType _searchKey, int _index, int n_Order);

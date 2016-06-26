@@ -10,7 +10,7 @@
 #include "B.cpp"
 
 #define IndexOfId 0
-#define DEBUGGER false
+#define DEBUGGER 1
 
 using namespace std;
     
@@ -25,6 +25,7 @@ int main(){
 	int n_CHAR;
 	int n_ORDER;
 	string searched;
+	string toRemove;
 	CSVDatabase _Table;
 	CSVDatabase _NoGroup;		
 	
@@ -38,8 +39,7 @@ int main(){
 
 	BulkLoadingInsert(tree, _Table, n_ORDER, n_ATTR);
 	
-	if(DEBUGGER)
-		printTree(tree, 0);
+	if(DEBUGGER) printTree(tree, 0);
 
 	cout << "\nOk.. The tree has been created. What you want to do ?\n\n";
 	
@@ -68,16 +68,16 @@ int main(){
 				else
 					cout << "Oops...Value not exists in tree\n\n";
 				break;
-
+			case 3:
+				cout << "Enter with the key id: ";
+				cin >> toRemove;
+				RemoveNode(toRemove, tree, _Table, n_ORDER, n_ATTR);
+				break;
 			case 9:
 				exit = true;
 				break;
 			default:
 				cout << "Oops...this option not exists.\n\n";
 		}
-
-
 	}
-	//RemoveNode("48", tree, _Table, _NoGroup, n_ORDER, 1);
-	//printTree(tree, 0);
 }

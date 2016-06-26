@@ -9,7 +9,7 @@
 	
 using namespace std;
 
-#define DEBUGGER false
+#define DEBUGGER 1
 
 /*
  *  Print tree starting by root
@@ -216,8 +216,9 @@ void UpFirsts(vector<string> &_Keys, vector<Node*> &_Pointers, int n_Order, Node
 
 bool searchPathByKey(Node* &tree, KeyType key, KeyType &path){
 	int count = 0;
+	path = "";
 
-	while(key.compare(tree->_keys[count]) && count < tree->_numberKeys)
+	while(key.compare(tree->_keys[count]) > 0 && count < tree->_numberKeys)
 		count++;
 	
 	if(!key.compare(tree->_keys[count]) && tree->_isLeaf){
@@ -228,86 +229,96 @@ bool searchPathByKey(Node* &tree, KeyType key, KeyType &path){
 	if(!tree->_isLeaf)
 		searchPathByKey(tree->_pointers[count], key, path);
 	
-	return false;
+
+	return true;
 }
 
-void RemoveNode(KeyType id, Node* &tree, CSVDatabase &_Table, CSVDatabase &_NoGroup, int n_Order, int _Column){
+bool searchNodeBykey(Node* &tree, KeyType key, Node* &node){
 
-	int _index = BinarySearch(id, _NoGroup, 0, _NoGroup.size()-1);
+	int count = 0;
+
+	while(key.compare(tree->_keys[count]) > 0 && count < tree->_numberKeys)
+		count++;
+	
+	if(!key.compare(tree->_keys[count]) && tree->_isLeaf){
+		node = tree;
+		return true;
+	}
+	
+	if(!tree->_isLeaf)
+		searchNodeBykey(tree->_pointers[count], key, node);
+	
+	return true;
+}
+
+void RemoveNode(KeyType id, Node* &tree, CSVDatabase &_Table, int n_Order, int _Column){
+
+	
+	CSVDatabase _sortByAttr = _Table;
+
+	sort(_sortByAttr.begin(), _sortByAttr.end(), comparator(0));
+	
+	int _index = BinarySearch(id, _sortByAttr, 0, _sortByAttr.size()-1);
 
 	if(_index == -1){
 		cout << "Function 'RemoveNode': The informed id: '" + id + "' not exists in table\n";
 		return;
 	}
 
+	string _searchKey = _sortByAttr[_index][_Column];
+	cout << _searchKey;
 
-	string _searchKey = _NoGroup[_index][_Column];
-
-	Node* startLeafs = tree;
-	while(!startLeafs->_isLeaf)
-		startLeafs = startLeafs->_pointers[0];
-
-
-	
-	/*Node* currentLeaf = startLeafs;
-
-	_index = -1;
-	while(currentLeaf != NULL && _index == -1){
-		
-		_index = BinarySearch(_searchKey, currentLeaf->_keys, 0, currentLeaf->_numberKeys-1);
-		if(_index == -1)
-			currentLeaf = currentLeaf->_nextList;
-	}
-
-	if(_index == -1){
-		cout << "Function 'RemoveNode': The informed value: '" + _searchKey + "' not exists in tree\n";
+	Node* NodeToRemove;
+	bool success = searchNodeBykey(tree, _searchKey, NodeToRemove);
+	if(!success){
+		cout << "Function 'RemoveNode': the searched key: '" << _searchKey << "' not exits";
 		return;
 	}
-
-	stringstream path(currentLeaf->_paths[_index]);
-	vector<string> paths;
-	paths.clear();
-	string currentPath;
-
-	while(getline(path, currentPath, '-'))
-		paths.push_back(currentPath);
 	
-	currentPath = "";
+	if(DEBUGGER) showVector(NodeToRemove->_keys, NodeToRemove->_keys.size());
 
-	int _aux = 0; 
-	while(paths[_aux].compare(id))
-		_aux++;
+	int _indexOfNode = BinarySearch(_searchKey, NodeToRemove->_keys, 0, NodeToRemove->_keys.size()-1);
+		
+	vector<string> paths;
+	string currentPath;
+	stringstream path(NodeToRemove->_paths[_indexOfNode]);
+
+	int _indexInPath = 0; 
+	int count = 0;
+	while(getline(path, currentPath, '-')){
+
+		if(!currentPath.compare(id))
+			_indexInPath = count;
+		paths.push_back(currentPath);
+		count++;
+	}
 	
 	if(paths.size() > 1){
 
-		paths.erase(paths.begin() + _aux);
+		NodeToRemove->_paths[_indexOfNode] = "";
 		
-		_aux = 0;
-		while(_aux < paths.size())
-			currentPath += paths[_aux++] + "-";
+		paths.erase(paths.begin() + _indexInPath);
 
-		currentPath.erase(currentPath.size()-1);
-		currentLeaf->_paths[_aux] = currentPath;
+		int returnPaths = 0;
+		while(returnPaths < paths.size())
+			NodeToRemove->_paths[_indexOfNode] += paths[returnPaths++] + "-";
+
+		NodeToRemove->_paths[_indexOfNode].erase(NodeToRemove->_paths[_indexOfNode].size()-1);
 
 		return;
 	}
 
-	RemoveNodeOfVector(currentLeaf, _searchKey, _index, n_Order);
-	*/
+	RemoveNodeOfVector(NodeToRemove, _searchKey, _indexOfNode, n_Order);
 }
 
 void RemoveNodeOfVector(Node* &_node, KeyType _searchKey, int _index, int n_Order){
 
+	_node->_paths.erase(_node->_paths.begin() + _index);
 	_node->_keys.erase(_node->_keys.begin() + _index);
 	_node->_numberKeys--;
 	
-	if(_node->_isLeaf)
-		_node->_paths.erase(_node->_paths.begin() + _index);
-	else
-		_node->_pointers.erase(_node->_pointers.begin() + _index);
-
-	
 	if(_node->_numberKeys > (n_Order - 1)/2)
 		return;
+	
 	
 }
