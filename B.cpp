@@ -99,32 +99,37 @@ void BulkLoadingInsert(Node* &tree, CSVDatabase &_Table, int n_Order, int _Colum
 		Node* _Temp = new Node(n_Order, true);
 		_Temp->_paths.clear();
 		// while node don't has the miminum number of elements this function insert elements
-		while(_Temp->_numberKeys < (n_Order-1)/2 && count <  _Table.size()){
-
-			if (_Temp->_numberKeys > 0 && !_Table[count][_Column].compare(_Temp->_keys[_Temp->_numberKeys-1])){
-				_Temp->_paths[_Temp->_paths.size()-1]+= "-" + _Table[count][0];
-			}
 		
-			else{
-				_Temp->_keys.push_back(_Table[count][_Column]);
-				_Temp->_paths.push_back(_Table[count][0]); //column of id
-				_Temp->_numberKeys++;
-			}	
-			count++;
-		}
-	
-		//cout << count;
-		if(nodes.size() > 0){
-			nodes[nodes.size()-1]->_nextList = _Temp;
-			_Temp->_lastList = nodes[nodes.size()-1];
-		}
+		try{
+			while(_Temp->_numberKeys < (n_Order-1)/2 && count <  _Table.size()){
 
-		nodes.push_back(_Temp);
+				if (_Temp->_numberKeys > 0 && !_Table[count][_Column].compare(_Temp->_keys[_Temp->_numberKeys-1])){
+					_Temp->_paths[_Temp->_paths.size()-1]+= "-" + _Table[count][0];
+				}
+			
+				else{
+					_Temp->_keys.push_back(_Table[count][_Column]);
+					_Temp->_paths.push_back(_Table[count][0]); //column of id
+					_Temp->_numberKeys++;
+				}	
+				count++;
+			}
 
-		while(count <  _Table.size() && nodes.size() > 0 && 
-			!_Table[count][_Column].compare(nodes[nodes.size()-1]->_keys[nodes[nodes.size()-1]->_numberKeys-1])){
-			 nodes[nodes.size()-1]->_paths[nodes[nodes.size()-1]->_paths.size()-1]+= "-" + (_Table[count][0]);
-			 count++;
+			if(nodes.size() > 0){
+				nodes[nodes.size()-1]->_nextList = _Temp;
+				_Temp->_lastList = nodes[nodes.size()-1];
+			}
+
+			nodes.push_back(_Temp);
+
+			while(count <  _Table.size() && nodes.size() > 0 && 
+				!_Table[count][_Column].compare(nodes[nodes.size()-1]->_keys[nodes[nodes.size()-1]->_numberKeys-1])){
+				 nodes[nodes.size()-1]->_paths[nodes[nodes.size()-1]->_paths.size()-1]+= "-" + (_Table[count][0]);
+				 count++;
+			}
+		}catch(...){
+			cout << "Function 'Bulkloading': Error during tree construct. this column not exists in line :" << count<< "\n";
+			return;
 		}
 	}
 
@@ -198,6 +203,7 @@ void UpFirsts(vector<string> &_Keys, vector<Node*> &_Pointers, int n_Order, Node
 				_level[_level.size()-1]->_keys.push_back(_Keys[count]);
 				_level[_level.size()-1]->_numberKeys++;
 				_level[_level.size()-1]->_pointers.push_back(_Pointers[count+1]);
+				_Pointers[count+1]->_dad = _level[_level.size()-1];
 				count++;
 			}
 		}
@@ -308,17 +314,88 @@ void RemoveNode(KeyType id, Node* &tree, CSVDatabase &_Table, int n_Order, int _
 		return;
 	}
 
+	NodeToRemove->_paths.erase(NodeToRemove->_paths.begin() + _index);
+	NodeToRemove->_keys.erase(NodeToRemove->_keys.begin() + _index);
+	NodeToRemove->_numberKeys--;
+	
 	RemoveNodeOfVector(NodeToRemove, _searchKey, _indexOfNode, n_Order);
 }
 
 void RemoveNodeOfVector(Node* &_node, KeyType _searchKey, int _index, int n_Order){
 
-	_node->_paths.erase(_node->_paths.begin() + _index);
-	_node->_keys.erase(_node->_keys.begin() + _index);
-	_node->_numberKeys--;
-	
 	if(_node->_numberKeys > (n_Order - 1)/2)
 		return;
 	
+	Node* dad = _node->_dad;
 	
+	int _indexOfDad = 0;
+	while(_searchKey.compare(dad->_keys[_indexOfDad]) > 0 && _indexOfDad < dad->_numberKeys)
+		_indexOfDad++;
+
+	if(dad->_pointers.size()-1 > _indexOfDad && dad->_pointers[_indexOfDad+1]->_numberKeys > (n_Order-1)/2){
+
+		Node* brother = dad->_pointers[_indexOfDad+1];
+
+		_node->_keys.push_back(brother->_keys[0]);
+		brother->_keys.erase(brother->_keys.begin());
+		
+		if(_node->_isLeaf){
+			_node->_paths.push_back(brother->_paths[0]);
+			brother->_paths.erase(brother->_paths.begin());
+		}
+		_node->_numberKeys++;
+		brother->_numberKeys--;
+		dad->_keys[_indexOfDad] = brother->_keys[0];
+		return;
+	}
+
+	else if(_indexOfDad > 0  && dad->_pointers[_indexOfDad-1]->_numberKeys > (n_Order-1)/2){
+
+		Node* brother = dad->_pointers[_indexOfDad-1];
+
+		_node->_keys.insert(_node->_keys.begin(), brother->_keys[brother->_numberKeys-1]);
+		brother->_keys.erase(brother->_keys.begin() + brother->_numberKeys-1);
+
+		if(_node->_isLeaf){
+			_node->_paths.insert(_node->_paths.begin(), brother->_paths[brother->_numberKeys-1]);
+			brother->_paths.erase(brother->_paths.begin() + brother->_numberKeys-1);
+		}
+
+		_node->_numberKeys++;
+		brother->_numberKeys--;
+
+		dad->_keys[_indexOfDad] = _node->_keys[0];
+	}
+
+	else{
+
+		Node* brother = dad->_pointers[_indexOfDad-1];
+
+		if(_node->_isLeaf){
+
+			while(_node->_numberKeys){
+
+				brother->_keys.push_back(_node->_keys[0]);
+				_node->_keys.erase(_node->_keys.begin());
+
+				brother->_paths.push_back(_node->_paths[0]);
+				_node->_paths.erase(_node->_paths.begin());
+				
+				_node->_numberKeys--;
+				brother->_numberKeys++;
+			}	
+			dad->_pointers.erase(dad->_pointers.begin() + _indexOfDad);
+			dad->_keys.erase(dad->_keys.begin() + _indexOfDad-1);
+			dad->_numberKeys--;
+		
+		}else{
+
+			
+
+
+		}
+
+	}
+
+	RemoveNodeOfVector(_node->_dad, _searchKey, _index, n_Order);
 }

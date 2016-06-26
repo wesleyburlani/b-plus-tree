@@ -48,23 +48,28 @@ void readCSV(istream &input, CSVDatabase &database, int _idColumn, int _indexCol
 	string csvLine;
 	database.clear();
 	int counter = 0;
-	// Read every line from file
-	while(getline(input, csvLine)){
-		//Read current line from file
-		stringstream csvStream(csvLine);// Convert string to stringstream, cause is required to 'getLine'
-		CSVRow csvRow;
-		string csvCol;
-		//Read each column of current line in file
-		while(getline(csvStream, csvCol, ',')){
-			csvCol = csvCol.substr(0,n_CHAR);
-			//csvCol.erase(remove(csvCol.begin(), csvCol.end(), '\"'), csvCol.end());
-			csvRow.push_back(csvCol);
-	  		counter++;
+	
+	try{
+		// Read every line from file
+		while(getline(input, csvLine)){
+			//Read current line from file
+			stringstream csvStream(csvLine);// Convert string to stringstream, cause is required to 'getLine'
+			CSVRow csvRow;
+			string csvCol;
+			//Read each column of current line in file
+			while(getline(csvStream, csvCol, ',')){
+				csvCol = csvCol.substr(0,n_CHAR);
+				//csvCol.erase(remove(csvCol.begin(), csvCol.end(), '\"'), csvCol.end());
+				csvRow.push_back(csvCol);
+		  		counter++;
+			}
+			counter = 0;
+			//Insert curren CSRow in database
+			if(csvRow.size() > 0)
+				database.push_back(csvRow);
 		}
-		counter = 0;
-		//Insert curren CSRow in database
-		if(csvRow.size() > 0)
-			database.push_back(csvRow);
+	}catch(exception& e){
+		cout  << "Function 'ReadCSV': Error reading this column in input.\n";
 	}
 }
 
