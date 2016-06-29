@@ -10,7 +10,7 @@
 #include "B.cpp"
 
 #define IndexOfId 0
-#define DEBUGGER 1
+#define DEBUGGER 0
 
 using namespace std;
     
@@ -27,7 +27,10 @@ int main(){
 	string searched;
 	string toRemove;
 	CSVDatabase _Table;
-	CSVDatabase _NoGroup;		
+	CSVDatabase _NoGroup;	
+	stringstream ss;
+	char key[900];
+
 	
 	DataCollect(n_ATTR, n_CHAR, n_ORDER);
 	
@@ -61,7 +64,8 @@ int main(){
 				break;
 			case 2:
 				cout << "Alright!\nEnter the key value: ";
-				cin >> searched;
+				getline(cin,searched);
+				getline(cin,searched);
 				success = searchPathByKey(tree, searched, searched);
 				if(success)
 					cout << "The search returns this values:...\n" << searched << "\n\n";

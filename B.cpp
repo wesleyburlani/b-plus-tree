@@ -9,7 +9,7 @@
 	
 using namespace std;
 
-#define DEBUGGER 1
+#define DEBUGGER 0
 
 /*
  *  Print tree starting by root
@@ -222,7 +222,6 @@ void UpFirsts(vector<string> &_Keys, vector<Node*> &_Pointers, int n_Order, Node
 
 bool searchPathByKey(Node* &tree, KeyType key, KeyType &path){
 	int count = 0;
-	path = "";
 
 	while(key.compare(tree->_keys[count]) > 0 && count < tree->_numberKeys)
 		count++;
@@ -235,7 +234,6 @@ bool searchPathByKey(Node* &tree, KeyType key, KeyType &path){
 	if(!tree->_isLeaf)
 		searchPathByKey(tree->_pointers[count], key, path);
 	
-
 	return true;
 }
 
@@ -259,7 +257,6 @@ bool searchNodeBykey(Node* &tree, KeyType key, Node* &node){
 
 void RemoveNode(KeyType id, Node* &tree, CSVDatabase &_Table, int n_Order, int _Column){
 
-	
 	CSVDatabase _sortByAttr = _Table;
 
 	sort(_sortByAttr.begin(), _sortByAttr.end(), comparator(0));
@@ -272,7 +269,6 @@ void RemoveNode(KeyType id, Node* &tree, CSVDatabase &_Table, int n_Order, int _
 	}
 
 	string _searchKey = _sortByAttr[_index][_Column];
-	cout << _searchKey;
 
 	Node* NodeToRemove;
 	bool success = searchNodeBykey(tree, _searchKey, NodeToRemove);
@@ -284,7 +280,7 @@ void RemoveNode(KeyType id, Node* &tree, CSVDatabase &_Table, int n_Order, int _
 	if(DEBUGGER) showVector(NodeToRemove->_keys, NodeToRemove->_keys.size());
 
 	int _indexOfNode = BinarySearch(_searchKey, NodeToRemove->_keys, 0, NodeToRemove->_keys.size()-1);
-		
+
 	vector<string> paths;
 	string currentPath;
 	stringstream path(NodeToRemove->_paths[_indexOfNode]);
@@ -314,8 +310,8 @@ void RemoveNode(KeyType id, Node* &tree, CSVDatabase &_Table, int n_Order, int _
 		return;
 	}
 
-	NodeToRemove->_paths.erase(NodeToRemove->_paths.begin() + _index);
-	NodeToRemove->_keys.erase(NodeToRemove->_keys.begin() + _index);
+	NodeToRemove->_paths.erase(NodeToRemove->_paths.begin() + _indexOfNode);
+	NodeToRemove->_keys.erase(NodeToRemove->_keys.begin() + _indexOfNode);
 	NodeToRemove->_numberKeys--;
 	
 	RemoveNodeOfVector(NodeToRemove, _searchKey, _indexOfNode, n_Order);
@@ -328,10 +324,12 @@ void RemoveNodeOfVector(Node* &_node, KeyType _searchKey, int _index, int n_Orde
 	
 	Node* dad = _node->_dad;
 	
+	//Find the index of dad in dad's node
 	int _indexOfDad = 0;
 	while(_searchKey.compare(dad->_keys[_indexOfDad]) > 0 && _indexOfDad < dad->_numberKeys)
 		_indexOfDad++;
 
+	//Case the right brother has more than mininum number of keys.
 	if(dad->_pointers.size()-1 > _indexOfDad && dad->_pointers[_indexOfDad+1]->_numberKeys > (n_Order-1)/2){
 
 		Node* brother = dad->_pointers[_indexOfDad+1];
@@ -349,28 +347,32 @@ void RemoveNodeOfVector(Node* &_node, KeyType _searchKey, int _index, int n_Orde
 		return;
 	}
 
+	//Case the left brother has more than mininum number of keys.
 	else if(_indexOfDad > 0  && dad->_pointers[_indexOfDad-1]->_numberKeys > (n_Order-1)/2){
 
 		Node* brother = dad->_pointers[_indexOfDad-1];
 
 		_node->_keys.insert(_node->_keys.begin(), brother->_keys[brother->_numberKeys-1]);
 		brother->_keys.erase(brother->_keys.begin() + brother->_numberKeys-1);
-
+		
 		if(_node->_isLeaf){
 			_node->_paths.insert(_node->_paths.begin(), brother->_paths[brother->_numberKeys-1]);
 			brother->_paths.erase(brother->_paths.begin() + brother->_numberKeys-1);
 		}
-
+		
 		_node->_numberKeys++;
 		brother->_numberKeys--;
 
 		dad->_keys[_indexOfDad] = _node->_keys[0];
+		return;
 	}
 
+	// Case brothers haven't more than minimun number of keys 
 	else{
 
 		Node* brother = dad->_pointers[_indexOfDad-1];
 
+		// When current node is leaf...
 		if(_node->_isLeaf){
 
 			while(_node->_numberKeys){
@@ -391,11 +393,7 @@ void RemoveNodeOfVector(Node* &_node, KeyType _searchKey, int _index, int n_Orde
 		}else{
 
 			
-
-
 		}
-
 	}
-
 	RemoveNodeOfVector(_node->_dad, _searchKey, _index, n_Order);
 }

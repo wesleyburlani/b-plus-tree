@@ -1,0 +1,63 @@
+INSERT INTO taskshares(useremail,idTask)VALUES('nnandah@hotmail.com','1').
+INSERT INTO taskshares(useremail,idTask)VALUES('ricardojvti@gmail.com','1').
+INSERT INTO taskshares(useremail,idTask)VALUES('mariliawajima@gmail.com','1').
+INSERT INTO taskshares(useremail,idTask)VALUES('m.santos.pereira@terra.com.br','1').
+INSERT INTO taskshares(useremail,idTask)VALUES('ricardojvti@gmail.com','2').
+INSERT INTO taskshares(useremail,idTask)VALUES('nnandah@hotmail.com','2').
+
+INSERT INTO taskshares(useremail,idTask)VALUES('mariliawajima@gmail.com','2').
+INSERT INTO taskshares(useremail,idTask)VALUES('m.santos.pereira@terra.com.br','2').
+INSERT INTO taskshares(useremail,idTask)VALUES('ricardojvti@gmail.com','3').
+
+INSERT INTO taskshares(useremail,idTask)VALUES('mariliawajima@gmail.com','3').
+INSERT INTO taskshares(useremail,idTask)VALUES('m.santos.pereira@terra.com.br','3').
+INSERT INTO taskshares(useremail,idTask)VALUES('nnandah@hotmail.com','3').
+INSERT INTO taskshares(useremail,idTask)VALUES('m.santos.pereira@terra.com.br','4').
+INSERT INTO taskshares(useremail,idTask)VALUES('mariliawajima@gmail.com','4').
+
+INSERT INTO taskshares(useremail,idTask)VALUES('nnandah@hotmail.com','4').
+INSERT INTO taskshares(useremail,idTask)VALUES('mariliawajima@gmail.com','5').
+
+INSERT INTO taskshares(useremail,idTask)VALUES('m.santos.pereira@terra.com.br','5').
+INSERT INTO taskshares(useremail,idTask)VALUES('ricardojvti@gmail.com','5').
+INSERT INTO taskshares(useremail,idTask)VALUES('nnandah@hotmail.com','5').
+
+INSERT INTO taskshares(useremail,idTask)VALUES('ricardojvti@gmail.com','6').
+INSERT INTO taskshares(useremail,idTask)VALUES('m.santos.pereira@terra.com.br','6').
+INSERT INTO taskshares(useremail,idTask)VALUES('nnandah@hotmail.com','6').
+INSERT INTO taskshares(useremail,idTask)VALUES('motamarciamota3@gmail.com','6').
+INSERT INTO taskshares(useremail,idTask)VALUES('motamarciamota3@gmail.com','7').
+
+INSERT INTO taskshares(useremail,idTask)VALUES('ricardojvti@gmail.com','7').
+INSERT INTO taskshares(useremail,idTask)VALUES('m.santos.pereira@terra.com.br','7').
+INSERT INTO taskshares(useremail,idTask)VALUES('motamarciamota3@gmail.com','8').
+INSERT INTO taskshares(useremail,idTask)VALUES('nnandah@hotmail.com','8').
+INSERT INTO taskshares(useremail,idTask)VALUES('m.santos.pereira@terra.com.br','8').
+INSERT INTO taskshares(useremail,idTask)VALUES('ricardojvti@gmail.com','8').
+
+INSERT INTO taskshares(useremail,idTask)VALUES('motamarciamota3@gmail.com','9').
+INSERT INTO taskshares(useremail,idTask)VALUES('m.santos.pereira@terra.com.br','9').
+
+INSERT INTO taskshares(useremail,idTask)VALUES('ricardojvti@gmail.com','9').
+INSERT INTO taskshares(useremail,idTask)VALUES('ricardojvti@gmail.com','10').
+INSERT INTO taskshares(useremail,idTask)VALUES('nnandah@hotmail.com','10').
+INSERT INTO taskshares(useremail,idTask)VALUES('motamarciamota3@gmail.com','10').
+
+INSERT INTO taskshares(useremail,idTask)VALUES('m.santos.pereira@terra.com.br','10').
+
+INSERT INTO taskshares(useremail,idTask)VALUES('nnandah@hotmail.com','11').
+
+INSERT INTO taskshares(useremail,idTask)VALUES('motamarciamota3@gmail.com','11').
+INSERT INTO taskshares(useremail,idTask)VALUES('ricardojvti@gmail.com','11').
+
+INSERT INTO taskshares(useremail,idTask)VALUES('mariliawajima@gmail.com','11').
+INSERT INTO taskshares(useremail,idTask)VALUES('mariliawajima@gmail.com','11').
+INSERT INTO taskshares(useremail,idTask)VALUES('m.santos.pereira@terra.com.br','12').
+
+INSERT INTO taskshares(useremail,idTask)VALUES('mariliawajima@gmail.com','12').
+INSERT INTO taskshares(useremail,idTask)VALUES('ricardojvti@gmail.com','12').
+INSERT INTO taskshares(useremail,idTask)VALUES('motamarciamota3@gmail.com','12').
+INSERT INTO taskshares(useremail,idTask)VALUES('m.santos.pereira@terra.com.br','13').
+
+INSERT INTO taskshares(useremail,idTask)VALUES('ricardojvti@gmail.com','13').
+INSERT INTO taskshares(useremail,idTask)VALUES('mariliawajima@gmail.com','13').
