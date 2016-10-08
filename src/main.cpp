@@ -7,7 +7,7 @@
 #include <vector>
 #include <algorithm>
 #include "../csv/CSV.cpp"
-#include "../src/B.cpp"
+#include "../src/h/B.h"
 
 #define IndexOfId 0
 #define DEBUGGER 0

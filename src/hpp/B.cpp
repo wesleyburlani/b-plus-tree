@@ -4,8 +4,8 @@
 #include <fstream>
 #include <sstream>
 #include <vector>
-#include "B.h"
-#include "../src/functions.cpp"
+
+#include "../functions.cpp"
 	
 using namespace std;
 

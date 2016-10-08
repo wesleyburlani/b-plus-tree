@@ -71,3 +71,5 @@ void BulkLoadingInsert(Node* &tree, CSVDatabase &_Table, int n_Order, int _Colum
 bool searchPathByKey(Node* &tree, KeyType key, KeyType &path);
 void RemoveNode(KeyType id, Node* &tree, CSVDatabase &_Table, int n_Order, int _Column);
 void RemoveNodeOfVector(Node* &_node, KeyType _searchKey, int _index, int n_Order);
+
+#include "../hpp/B.cpp"
