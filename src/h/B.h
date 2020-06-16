@@ -61,14 +61,14 @@ public:
   }
 };
 
-void BppInsert(Node *&tree, KeyType value, int n_Order);
+void bppInsert(Node *&tree, KeyType value, int n_Order);
 Node *getNodeToAdd(Node *node, KeyType value);
-bool SplitVector(Node *&base, KeyType &upper, Node *&left, Node *&right);
+bool splitVector(Node *&base, KeyType &upper, Node *&left, Node *&right);
 void printTree(Node *&tree, int tabs);
-void UpFirsts(vector<string> &_Keys, vector<Node *> &_Pointers, int n_Order, Node *&tree);
-void BulkLoadingInsert(Node *&tree, CSVDatabase &_Table, int n_Order, int _Column);
+void upFirsts(vector<string> &_Keys, vector<Node *> &_Pointers, int n_Order, Node *&tree);
+void bulkLoadingInsert(Node *&tree, CSVDatabase &_Table, int n_Order, int _Column);
 bool searchPathByKey(Node *&tree, KeyType key, KeyType &path);
-void RemoveNode(KeyType id, Node *&tree, CSVDatabase &_Table, int n_Order, int _Column);
-void RemoveNodeOfVector(Node *&_node, KeyType _searchKey, int _index, int n_Order);
+void removeNode(KeyType id, Node *&tree, CSVDatabase &_Table, int n_Order, int _Column);
+void removeNodeOfVector(Node *&_node, KeyType _searchKey, int _index, int n_Order);
 
 #include "../hpp/B.cpp"

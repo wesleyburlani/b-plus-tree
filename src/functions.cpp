@@ -42,7 +42,7 @@ void showVector(vector<KeyType> _vector, int size) {
   cout << '\n';
 }
 
-void ShowListOfVectors(vector<Node *> _nodes) {
+void showListOfVectors(vector<Node *> _nodes) {
 
   for (int i = 0; i < _nodes.size(); i++) {
     printVector(_nodes[i]->_keys, _nodes[i]->_numberKeys);
@@ -57,7 +57,7 @@ void _sort(vector<KeyType> &_vector, int size) {
 
 // --------------------------Binary Searches-----------------------------
 
-int BinarySearch(KeyType value, CSVDatabase _vector, int _left, int _right) {
+int binarySearch(KeyType value, CSVDatabase _vector, int _left, int _right) {
 
   int _index = (_left + _right) / 2;
   string position = _vector[_index][0];
@@ -69,12 +69,12 @@ int BinarySearch(KeyType value, CSVDatabase _vector, int _left, int _right) {
     return -1;
 
   if (position.compare(value) < 0)
-    return BinarySearch(value, _vector, _index + 1, _right);
+    return binarySearch(value, _vector, _index + 1, _right);
 
-  return BinarySearch(value, _vector, _left, _index - 1);
+  return binarySearch(value, _vector, _left, _index - 1);
 }
 
-int BinarySearch(KeyType value, vector<KeyType> _vector, int _left,
+int binarySearch(KeyType value, vector<KeyType> _vector, int _left,
                  int _right) {
 
   int _index = (_left + _right) / 2;
@@ -87,18 +87,18 @@ int BinarySearch(KeyType value, vector<KeyType> _vector, int _left,
     return -1;
 
   if (position < value)
-    return BinarySearch(value, _vector, _index + 1, _right);
+    return binarySearch(value, _vector, _index + 1, _right);
 
-  return BinarySearch(value, _vector, _left, _index - 1);
+  return binarySearch(value, _vector, _left, _index - 1);
 }
 
-bool DataCollect(int &n_ATTR, int &n_CHAR, int &n_ORDER) {
+bool stdInDataCollect(int &n_ATTR, int &n_CHAR, int &n_ORDER) {
 
   cout << "Enter with number of attribute : ";
 
   scanf("%d", &n_ATTR);
 
-  cout << "Alright!\nEnter with number of characters that you want ot index: ";
+  cout << "Alright!\nEnter with number of characters that you want to index: ";
   scanf("%d", &n_CHAR);
 
   cout << "Ok.. Enter with order of tree: ";

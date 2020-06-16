@@ -45,7 +45,7 @@ void printTree(Node *&node, int tabs) {
   printTree(node->_pointers[node->_numberKeys], tabs + 1);
 }
 
-bool SplitVector(Node *&base, KeyType &upper, Node *&left, Node *&right) {
+bool splitVector(Node *&base, KeyType &upper, Node *&left, Node *&right) {
 
   upper = base->_keys[(base->_keys.size() - 1) / 2];
 
@@ -84,7 +84,7 @@ Node *getNodeToAdd(Node *node, KeyType value) {
  *  this function makes a leaf nodes and call other function
  *  'UpFisrts' that create others levels of tree.
  */
-void BulkLoadingInsert(Node *&tree, CSVDatabase &_Table, int n_Order,
+void bulkLoadingInsert(Node *&tree, CSVDatabase &_Table, int n_Order,
                        int _Column) {
 
   int count = 0;
@@ -178,10 +178,10 @@ void BulkLoadingInsert(Node *&tree, CSVDatabase &_Table, int n_Order,
   }
   _upperPointers.push_back(nodes[nodes.size() - 1]);
 
-  UpFirsts(_uppperKeys, _upperPointers, n_Order, tree);
+  upFirsts(_uppperKeys, _upperPointers, n_Order, tree);
 }
 
-void UpFirsts(vector<string> &_Keys, vector<Node *> &_Pointers, int n_Order,
+void upFirsts(vector<string> &_Keys, vector<Node *> &_Pointers, int n_Order,
               Node *&tree) {
 
   vector<string> _uppperKeys;
@@ -230,7 +230,7 @@ void UpFirsts(vector<string> &_Keys, vector<Node *> &_Pointers, int n_Order,
     return;
   }
 
-  UpFirsts(_uppperKeys, _upperPointers, n_Order, tree);
+  upFirsts(_uppperKeys, _upperPointers, n_Order, tree);
 }
 
 bool searchPathByKey(Node *&tree, KeyType key, KeyType &path) {
@@ -268,14 +268,14 @@ bool searchNodeBykey(Node *&tree, KeyType key, Node *&node) {
   return true;
 }
 
-void RemoveNode(KeyType id, Node *&tree, CSVDatabase &_Table, int n_Order,
+void removeNode(KeyType id, Node *&tree, CSVDatabase &_Table, int n_Order,
                 int _Column) {
 
   CSVDatabase _sortByAttr = _Table;
 
   sort(_sortByAttr.begin(), _sortByAttr.end(), comparator(0));
 
-  int _index = BinarySearch(id, _sortByAttr, 0, _sortByAttr.size() - 1);
+  int _index = binarySearch(id, _sortByAttr, 0, _sortByAttr.size() - 1);
 
   if (_index == -1) {
     cout << "Function 'RemoveNode': The informed id: '" + id +
@@ -296,7 +296,7 @@ void RemoveNode(KeyType id, Node *&tree, CSVDatabase &_Table, int n_Order,
   if (DEBUGGER)
     showVector(NodeToRemove->_keys, NodeToRemove->_keys.size());
 
-  int _indexOfNode = BinarySearch(_searchKey, NodeToRemove->_keys, 0,
+  int _indexOfNode = binarySearch(_searchKey, NodeToRemove->_keys, 0,
                                   NodeToRemove->_keys.size() - 1);
 
   vector<string> paths;
@@ -333,10 +333,10 @@ void RemoveNode(KeyType id, Node *&tree, CSVDatabase &_Table, int n_Order,
   NodeToRemove->_keys.erase(NodeToRemove->_keys.begin() + _indexOfNode);
   NodeToRemove->_numberKeys--;
 
-  RemoveNodeOfVector(NodeToRemove, _searchKey, _indexOfNode, n_Order);
+  removeNodeOfVector(NodeToRemove, _searchKey, _indexOfNode, n_Order);
 }
 
-void RemoveNodeOfVector(Node *&_node, KeyType _searchKey, int _index,
+void removeNodeOfVector(Node *&_node, KeyType _searchKey, int _index,
                         int n_Order) {
 
   if (_node->_numberKeys > (n_Order - 1) / 2)
@@ -418,5 +418,5 @@ void RemoveNodeOfVector(Node *&_node, KeyType _searchKey, int _index,
     } else {
     }
   }
-  RemoveNodeOfVector(_node->_dad, _searchKey, _index, n_Order);
+  removeNodeOfVector(_node->_dad, _searchKey, _index, n_Order);
 }

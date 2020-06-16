@@ -11,6 +11,7 @@
 
 #define IndexOfId 0
 #define DEBUGGER 0
+// File used to mount B+ tree using bulk loading operation
 #define DATAFILEPATH "normalized-data.csv"
 
 using namespace std;
@@ -22,26 +23,26 @@ int main() {
   cout << _MESSAGE;
 
   Node *tree = NULL;
-  int n_ATTR;
-  int n_CHAR;
-  int n_ORDER;
+  int numberOfAttributes;
+  int numberOfCharsToIndex;
+  int treeOrder;
   string searched;
   string toRemove;
-  CSVDatabase _Table;
+  CSVDatabase table;
   CSVDatabase _NoGroup;
-  stringstream ss;
+  stringstream stringStream;
   char key[900];
 
-  DataCollect(n_ATTR, n_CHAR, n_ORDER);
+  stdInDataCollect(numberOfAttributes, numberOfCharsToIndex, treeOrder);
 
   bool success =
-      readCSV(DATAFILEPATH, _Table, IndexOfId, n_ATTR, n_CHAR);
+      readCSV(DATAFILEPATH, table, IndexOfId, numberOfAttributes, numberOfCharsToIndex);
   if (!success)
     return 1;
 
-  sort(_Table.begin(), _Table.end(), comparator(n_ATTR));
+  sort(table.begin(), table.end(), comparator(numberOfAttributes));
 
-  BulkLoadingInsert(tree, _Table, n_ORDER, n_ATTR);
+  bulkLoadingInsert(tree, table, treeOrder, numberOfAttributes);
 
   if (DEBUGGER)
     printTree(tree, 0);
@@ -77,7 +78,7 @@ int main() {
     case 3:
       cout << "Enter with the key id: ";
       cin >> toRemove;
-      RemoveNode(toRemove, tree, _Table, n_ORDER, n_ATTR);
+      removeNode(toRemove, tree, table, treeOrder, numberOfAttributes);
       break;
     case 9:
       exit = true;
