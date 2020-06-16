@@ -273,7 +273,7 @@ void removeNode(KeyType id, Node *&tree, CSVDatabase &_Table, int n_Order,
 
   CSVDatabase _sortByAttr = _Table;
 
-  sort(_sortByAttr.begin(), _sortByAttr.end(), comparator(0));
+  sort(_sortByAttr.begin(), _sortByAttr.end(), stringComparator(0));
 
   int _index = binarySearch(id, _sortByAttr, 0, _sortByAttr.size() - 1);
 

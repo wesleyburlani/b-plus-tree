@@ -9,17 +9,17 @@
 
 using namespace std;
 
-class comparator {
+class stringComparator {
 public:
   int column;
   bool operator()(vector<string> x, vector<string> y) {
     return x[column] < y[column];
   }
 
-  comparator(int attr) { this->column = attr; }
+  stringComparator(int attr) { this->column = attr; }
 };
 
-class comparatorInt {
+class intComparator {
 public:
   bool operator()(vector<string> x, vector<string> y) {
     return atoi(x[0].c_str()) < atoi(y[0].c_str());
@@ -27,87 +27,78 @@ public:
 };
 
 void printVector(vector<KeyType> _vector, int size) {
+  vector<KeyType>::iterator iterator = _vector.begin();
 
-  vector<KeyType>::iterator IT = _vector.begin();
-
-  for (; IT != _vector.begin() + size; ++IT)
-    cout << " | " << *IT;
+  for (; iterator != _vector.begin() + size; ++iterator) {
+    cout << " | " << *iterator;
+  }
   cout << " |";
 }
 
 void showVector(vector<KeyType> _vector, int size) {
-
   cout << "printing vector ... \n";
   printVector(_vector, size);
   cout << '\n';
 }
 
 void showListOfVectors(vector<Node *> _nodes) {
-
   for (int i = 0; i < _nodes.size(); i++) {
     printVector(_nodes[i]->_keys, _nodes[i]->_numberKeys);
     printf("%s", (i < _nodes.size() - 1) ? "->" : "\n");
   }
 }
 
-void _sort(vector<KeyType> &_vector, int size) {
-
+void sortVector(vector<KeyType> &_vector, int size) {
   sort(_vector.begin(), _vector.begin() + size);
 }
 
-// --------------------------Binary Searches-----------------------------
+int binarySearch(KeyType value, CSVDatabase _vector, int leftNode,
+                 int rightNode) {
+  int index = (leftNode + rightNode) / 2;
+  string position = _vector[index][0];
 
-int binarySearch(KeyType value, CSVDatabase _vector, int _left, int _right) {
-
-  int _index = (_left + _right) / 2;
-  string position = _vector[_index][0];
-
-  if (!position.compare(value))
-    return _index;
-
-  if (_left == _right)
+  if (!position.compare(value)) {
+    return index;
+  }
+  if (leftNode == rightNode) {
     return -1;
-
-  if (position.compare(value) < 0)
-    return binarySearch(value, _vector, _index + 1, _right);
-
-  return binarySearch(value, _vector, _left, _index - 1);
+  }
+  if (position.compare(value) < 0) {
+    return binarySearch(value, _vector, index + 1, rightNode);
+  }
+  return binarySearch(value, _vector, leftNode, index - 1);
 }
 
-int binarySearch(KeyType value, vector<KeyType> _vector, int _left,
-                 int _right) {
+int binarySearch(KeyType value, vector<KeyType> _vector, int leftNode,
+                 int rightNode) {
+  int index = (leftNode + rightNode) / 2;
+  string position = _vector[index];
 
-  int _index = (_left + _right) / 2;
-  string position = _vector[_index];
-
-  if (!position.compare(value))
-    return _index;
-
-  if (_left == _right)
+  if (!position.compare(value)) {
+    return index;
+  }
+  if (leftNode == rightNode) {
     return -1;
-
-  if (position < value)
-    return binarySearch(value, _vector, _index + 1, _right);
-
-  return binarySearch(value, _vector, _left, _index - 1);
+  }
+  if (position < value) {
+    return binarySearch(value, _vector, index + 1, rightNode);
+  }
+  return binarySearch(value, _vector, leftNode, index - 1);
 }
 
-bool stdInDataCollect(int &n_ATTR, int &n_CHAR, int &n_ORDER) {
+bool stdInDataCollect(int &numberOfAttributes, int &numberOfCharsToIndex,
+                      int &treeOrder) {
+  cout << "Type the number of attributes: ";
+  scanf("%d", &numberOfAttributes);
 
-  cout << "Enter with number of attribute : ";
+  cout << "Alright!\nType the number of characters that you want to index: ";
+  scanf("%d", &numberOfCharsToIndex);
 
-  scanf("%d", &n_ATTR);
-
-  cout << "Alright!\nEnter with number of characters that you want to index: ";
-  scanf("%d", &n_CHAR);
-
-  cout << "Ok.. Enter with order of tree: ";
-  while (scanf("%d", &n_ORDER) && n_ORDER < 3) {
-
+  cout << "Ok.. Type the order of tree: ";
+  while (scanf("%d", &treeOrder) && treeOrder < 3) {
     cout << "Oops.. The order of tree must be a integer greater than 2..\n";
     cout << "please, re-enter: ";
   }
 
   return true;
 }
-// -------------------------------------------------------------------------

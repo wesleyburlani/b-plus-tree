@@ -46,7 +46,7 @@ int main() {
     return 1;
   }
 
-  sort(table.begin(), table.end(), comparator(numberOfAttributes));
+  sort(table.begin(), table.end(), stringComparator(numberOfAttributes));
 
   bulkLoadingInsert(tree, table, treeOrder, numberOfAttributes);
 
