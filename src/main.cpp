@@ -54,7 +54,7 @@ int main() {
     printTree(tree, 0);
   }
 
-  cout << "\nOk.. The tree has been created. What you want to do ?\n\n";
+  cout << "\nThe tree was created successfully. What you want to do ?\n\n";
 
   int option;
   printMenu();
@@ -76,11 +76,11 @@ int main() {
 }
 
 void printMenu() {
-  cout << "1.Print the tree\n";
-  cout << "2.Search an id by Key\n";
+  cout << "1.Print tree\n";
+  cout << "2.Search id by Key\n";
   cout << "3.Remove a node\n";
   cout << "9.Exit Program\n";
-  cout << "\nEnter with option: ";
+  cout << "\nEnter with an option id: ";
 }
 
 void optionPrintTree(Node *tree) {
@@ -90,21 +90,21 @@ void optionPrintTree(Node *tree) {
 
 void optionSearchPathByKey(Node *tree) {
   string input;
-  cout << "Alright!\nEnter the key value: ";
+  cout << "Alright!\Type the key value: ";
   getline(cin, input);
   getline(cin, input);
   if (searchPathByKey(tree, input, input)) {
-    cout << "The search returns this values:...\n" << input << "\n\n";
+    cout << "The search returned that:...\n" << input << "\n\n";
     return;
   }
 
-  cout << "Oops...Value not exists in tree\n\n";
+  cout << "Oops...value doesn't exist in the tree\n\n";
 }
 
 void optionRemoveNode(Node *tree, CSVDatabase table, int treeOrder,
                       int numberOfAttributes) {
   string input;
-  cout << "Enter with the key id: ";
+  cout << "Type the key id: ";
   cin >> input;
   removeNode(input, tree, table, treeOrder, numberOfAttributes);
 }

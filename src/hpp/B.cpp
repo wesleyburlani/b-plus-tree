@@ -132,8 +132,8 @@ void bulkLoadingInsert(Node *&tree, CSVDatabase &table, int treeOrder,
         count++;
       }
     } catch (...) {
-      cout << "Function 'Bulkloading': Error during tree construct. this "
-              "column not exists in line :"
+      cout << "[Exception] function 'bulkloading': error during tree construct. this "
+              "column doesn't exist in line :"
            << count << "\n";
       return;
     }
@@ -272,8 +272,8 @@ void removeNode(KeyType id, Node *&tree, CSVDatabase &table, int treeOrder,
       binarySearch(id, sortingAttribute, 0, sortingAttribute.size() - 1);
 
   if (index == -1) {
-    cout << "Function 'RemoveNode': The informed id: '" + id +
-                "' not exists in table\n";
+    cout << "function 'removeNode': the informed id: '" + id +
+                "' doesn't exist in the table\n";
     return;
   }
 

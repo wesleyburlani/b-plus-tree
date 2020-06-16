@@ -30,7 +30,7 @@ bool readCSV(const char *filePath, CSVDatabase &database, int columnId,
   fstream file(filePath, std::ios::in);
   // Verify if path is valid
   if (!file.is_open()) {
-    cout << "Function 'readCSV': \"" << filePath << "\" not found!\n";
+    cout << "function 'readCSV': \"" << filePath << "\" not found!\n";
     return false;
   }
   // Read file data
@@ -38,7 +38,7 @@ bool readCSV(const char *filePath, CSVDatabase &database, int columnId,
   if (database.size() > 0) {
     return true;
   }
-  cout << "Function 'readCSV': The table has no attributes.\n";
+  cout << "function 'readCSV': the table has no attributes.\n";
   return false;
 }
 
@@ -69,7 +69,7 @@ void readCSV(istream &input, CSVDatabase &database, int columnId,
       }
     }
   } catch (exception &e) {
-    cout << "Function 'ReadCSV': Error reading this column in input.\n";
+    cout << "function 'readCSV': error reading this column in input.\n";
   }
 }
 

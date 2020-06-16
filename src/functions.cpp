@@ -91,12 +91,12 @@ bool stdInDataCollect(int &numberOfAttributes, int &numberOfCharsToIndex,
   cout << "Type the number of attributes: ";
   scanf("%d", &numberOfAttributes);
 
-  cout << "Alright!\nType the number of characters that you want to index: ";
+  cout << "Alright!\nType the number of characters to index: ";
   scanf("%d", &numberOfCharsToIndex);
 
-  cout << "Ok.. Type the order of tree: ";
+  cout << "Ok.. Type the tree order: ";
   while (scanf("%d", &treeOrder) && treeOrder < 3) {
-    cout << "Oops.. The order of tree must be a integer greater than 2..\n";
+    cout << "Oops.. The tree order must be an integer greater than 2..\n";
     cout << "please, re-enter: ";
   }
 
