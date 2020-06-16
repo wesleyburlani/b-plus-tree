@@ -45,10 +45,10 @@ void printTree(Node *&node, int tabs) {
   printTree(node->pointers[node->numberOfKeys], tabs + 1);
 }
 
-bool splitVector(Node *&base, KeyType &upper, Node *&left, Node *&right) {
+void splitVector(Node *&base, KeyType &upper, Node *&left, Node *&right) {
   upper = base->keys[(base->keys.size() - 1) / 2];
 
-  int i = 0;
+  size_t i = 0;
   while (i < base->keys.size() / 2) {
     left->keys[left->numberOfKeys] = base->keys[i];
     left->pointers[left->numberOfKeys++] = base->pointers[i++];
@@ -75,7 +75,7 @@ Node *getNodeToAdd(Node *node, KeyType value) {
          countPosition < node->numberOfKeys) {
     countPosition++;
   }
-  copyPointer = getNodeToAdd(copyPointer->pointers[countPosition], value);
+  return getNodeToAdd(copyPointer->pointers[countPosition], value);
 }
 
 /*
@@ -87,7 +87,7 @@ Node *getNodeToAdd(Node *node, KeyType value) {
 void bulkLoadingInsert(Node *&tree, CSVDatabase &table, int treeOrder,
                        int column) {
 
-  int count = 0;
+  size_t count = 0;
   vector<Node *> nodes;
   vector<string> uppperKeys;
   uppperKeys.clear();
@@ -167,8 +167,7 @@ void bulkLoadingInsert(Node *&tree, CSVDatabase &table, int treeOrder,
     return;
   }
 
-  for (int i = 1; i < nodes.size(); i++) {
-
+  for (size_t i = 1; i < nodes.size(); i++) {
     uppperKeys.push_back(nodes[i]->keys[0]);
     upperPointers.push_back(nodes[i - 1]);
   }
@@ -183,7 +182,7 @@ void upFirsts(vector<string> &keys, vector<Node *> &pointers, int treeOrder,
   vector<Node *> upperPointers;
   vector<Node *> level;
 
-  int count = 0;
+  size_t count = 0;
   while (count < keys.size()) {
     Node *temporaryNode = new Node(treeOrder);
 
@@ -200,7 +199,7 @@ void upFirsts(vector<string> &keys, vector<Node *> &pointers, int treeOrder,
     temporaryNode->pointers.push_back(pointers[count]);
     level.push_back(temporaryNode);
 
-    if (keys.size() - count > (treeOrder - 1) / 2) {
+    if (keys.size() - count > ((size_t)treeOrder - 1) / 2) {
       uppperKeys.push_back(keys[count]);
       upperPointers.push_back(level[level.size() - 1]);
       count++;
@@ -311,7 +310,7 @@ void removeNode(KeyType id, Node *&tree, CSVDatabase &table, int treeOrder,
   if (paths.size() > 1) {
     nodeToRemove->paths[nodeIndex] = "";
     paths.erase(paths.begin() + indexInPath);
-    int returnPaths = 0;
+    size_t returnPaths = 0;
     while (returnPaths < paths.size()) {
       nodeToRemove->paths[nodeIndex] += paths[returnPaths++] + "-";
     }
@@ -341,7 +340,7 @@ void removeNodeFromVector(Node *&node, KeyType searchingKey, int index,
   }
 
   // Case the right brother has more than mininum number of keys.
-  if (parent->pointers.size() - 1 > parentIndex &&
+  if (parent->pointers.size() - 1 > (size_t)parentIndex &&
       parent->pointers[parentIndex + 1]->numberOfKeys > (treeOrder - 1) / 2) {
 
     Node *neighboor = parent->pointers[parentIndex + 1];

@@ -27,28 +27,28 @@ void printMenu();
 void optionPrintTree(Node *tree);
 void optionSearchPathByKey(Node *tree);
 void optionRemoveNode(Node *tree, CSVDatabase table, int treeOrder,
-                      int numberOfAttributes);
+                      int columnToIndex);
 
 int main() {
   cout << "Welcome!\n";
   //-----------------Definitions-----------------
   Node *tree = NULL;
-  int numberOfAttributes;
+  int columnToIndex;
   int numberOfCharsToIndex;
   int treeOrder;
   CSVDatabase table;
 
-  stdInDataCollect(numberOfAttributes, numberOfCharsToIndex, treeOrder);
+  stdInDataCollect(columnToIndex, numberOfCharsToIndex, treeOrder);
 
-  bool success = readCSV(DATAFILEPATH, table, IDINDEX, numberOfAttributes,
+  bool success = readCSV(DATAFILEPATH, table, IDINDEX, columnToIndex,
                          numberOfCharsToIndex);
   if (!success) {
     return 1;
   }
 
-  sort(table.begin(), table.end(), stringComparator(numberOfAttributes));
+  sort(table.begin(), table.end(), stringComparator(columnToIndex));
 
-  bulkLoadingInsert(tree, table, treeOrder, numberOfAttributes);
+  bulkLoadingInsert(tree, table, treeOrder, columnToIndex);
 
   if (DEBUGGER) {
     printTree(tree, 0);
@@ -65,7 +65,7 @@ int main() {
     } else if (option == OPT_GETIDBYKEY) {
       optionSearchPathByKey(tree);
     } else if (option == OPT_REMOVENODE) {
-      optionRemoveNode(tree, table, treeOrder, numberOfAttributes);
+      optionRemoveNode(tree, table, treeOrder, columnToIndex);
     } else if (option == OPT_EXIT) {
       return 0;
     } else {
@@ -90,7 +90,7 @@ void optionPrintTree(Node *tree) {
 
 void optionSearchPathByKey(Node *tree) {
   string input;
-  cout << "Alright!\Type the key value: ";
+  cout << "Alright!\nType the key value: ";
   getline(cin, input);
   getline(cin, input);
   if (searchPathByKey(tree, input, input)) {
@@ -102,9 +102,9 @@ void optionSearchPathByKey(Node *tree) {
 }
 
 void optionRemoveNode(Node *tree, CSVDatabase table, int treeOrder,
-                      int numberOfAttributes) {
+                      int columnToIndex) {
   string input;
   cout << "Type the key id: ";
   cin >> input;
-  removeNode(input, tree, table, treeOrder, numberOfAttributes);
+  removeNode(input, tree, table, treeOrder, columnToIndex);
 }

@@ -60,7 +60,7 @@ public:
 
 void bppInsert(Node *&tree, KeyType value, int treeOrder);
 Node *getNodeToAdd(Node *node, KeyType value);
-bool splitVector(Node *&base, KeyType &upper, Node *&left, Node *&right);
+void splitVector(Node *&base, KeyType &upper, Node *&left, Node *&right);
 void printTree(Node *&tree, int tabs);
 void upFirsts(vector<string> &keys, vector<Node *> &pointers, int treeOrder, Node *&tree);
 void bulkLoadingInsert(Node *&tree, CSVDatabase &table, int treeOrder, int column);

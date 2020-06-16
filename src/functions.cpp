@@ -42,7 +42,7 @@ void showVector(vector<KeyType> _vector, int size) {
 }
 
 void showListOfVectors(vector<Node *> _nodes) {
-  for (int i = 0; i < _nodes.size(); i++) {
+  for (size_t i = 0; i < _nodes.size(); i++) {
     printVector(_nodes[i]->keys, _nodes[i]->numberOfKeys);
     printf("%s", (i < _nodes.size() - 1) ? "->" : "\n");
   }
@@ -86,10 +86,10 @@ int binarySearch(KeyType value, vector<KeyType> _vector, int leftNode,
   return binarySearch(value, _vector, leftNode, index - 1);
 }
 
-bool stdInDataCollect(int &numberOfAttributes, int &numberOfCharsToIndex,
+bool stdInDataCollect(int &columnToIndex, int &numberOfCharsToIndex,
                       int &treeOrder) {
-  cout << "Type the number of attributes: ";
-  scanf("%d", &numberOfAttributes);
+  cout << "Type the column to index: ";
+  scanf("%d", &columnToIndex);
 
   cout << "Alright!\nType the number of characters to index: ";
   scanf("%d", &numberOfCharsToIndex);
