@@ -11,6 +11,7 @@
 
 #define IndexOfId 0
 #define DEBUGGER 0
+#define DATAFILEPATH "normalized-data.csv"
 
 using namespace std;
 
@@ -34,7 +35,7 @@ int main() {
   DataCollect(n_ATTR, n_CHAR, n_ORDER);
 
   bool success =
-      readCSV("base_teste_ok.csv", _Table, IndexOfId, n_ATTR, n_CHAR);
+      readCSV(DATAFILEPATH, _Table, IndexOfId, n_ATTR, n_CHAR);
   if (!success)
     return 1;
 
