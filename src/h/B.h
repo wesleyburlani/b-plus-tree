@@ -16,59 +16,56 @@ typedef vector<CSVRow> CSVDatabase;
 class Node {
 
 public:
-  vector<KeyType> _keys;
-  vector<Node *> _pointers;
-  vector<KeyType> _paths;
-  Node *_nextList;
-  Node *_lastList;
-  bool _isLeaf;
-  int _numberKeys;
-  Node *_dad;
+  vector<KeyType> keys;
+  vector<Node *> pointers;
+  vector<KeyType> paths;
+  Node *nextList;
+  Node *lastList;
+  bool isLeaf;
+  int numberOfKeys;
+  Node *parent;
 
   Node(int order, bool leaf) {
-
-    _keys.resize(order - 1);
-    _numberKeys = 0;
-    _nextList = NULL;
-    _lastList = NULL;
-    _isLeaf = leaf ? true : false;
-    _keys.clear();
-    _numberKeys = 0;
-    if (_isLeaf) {
-      _paths.resize(order - 1);
-      _paths.clear();
+    keys.resize(order - 1);
+    numberOfKeys = 0;
+    nextList = NULL;
+    lastList = NULL;
+    isLeaf = leaf ? true : false;
+    keys.clear();
+    numberOfKeys = 0;
+    if (isLeaf) {
+      paths.resize(order - 1);
+      paths.clear();
     } else {
-      _pointers.resize(order);
-      _pointers.clear();
+      pointers.resize(order);
+      pointers.clear();
     }
   }
 
   Node(int order) {
-
-    _keys.resize(order - 1);
-    _pointers.resize(order);
-    _nextList = NULL;
-    _lastList = NULL;
-    _numberKeys = 0;
-    _isLeaf = false;
-    _keys.clear();
-    _pointers.clear();
+    keys.resize(order - 1);
+    pointers.resize(order);
+    nextList = NULL;
+    lastList = NULL;
+    numberOfKeys = 0;
+    isLeaf = false;
+    keys.clear();
+    pointers.clear();
   }
 
-  void _sortKeys() {
-
-    sort(this->_keys.begin(), this->_keys.begin() + this->_numberKeys);
+  void sortKeys() {
+    sort(this->keys.begin(), this->keys.begin() + this->numberOfKeys);
   }
 };
 
-void bppInsert(Node *&tree, KeyType value, int n_Order);
+void bppInsert(Node *&tree, KeyType value, int treeOrder);
 Node *getNodeToAdd(Node *node, KeyType value);
 bool splitVector(Node *&base, KeyType &upper, Node *&left, Node *&right);
 void printTree(Node *&tree, int tabs);
-void upFirsts(vector<string> &_Keys, vector<Node *> &_Pointers, int n_Order, Node *&tree);
-void bulkLoadingInsert(Node *&tree, CSVDatabase &_Table, int n_Order, int _Column);
+void upFirsts(vector<string> &keys, vector<Node *> &pointers, int treeOrder, Node *&tree);
+void bulkLoadingInsert(Node *&tree, CSVDatabase &table, int treeOrder, int column);
 bool searchPathByKey(Node *&tree, KeyType key, KeyType &path);
-void removeNode(KeyType id, Node *&tree, CSVDatabase &_Table, int n_Order, int _Column);
-void removeNodeOfVector(Node *&_node, KeyType _searchKey, int _index, int n_Order);
+void removeNode(KeyType id, Node *&tree, CSVDatabase &table, int treeOrder, int column);
+void removeNodeFromVector(Node *&node, KeyType searchKey, int index, int treeOrder);
 
 #include "../hpp/B.cpp"

@@ -43,7 +43,7 @@ void showVector(vector<KeyType> _vector, int size) {
 
 void showListOfVectors(vector<Node *> _nodes) {
   for (int i = 0; i < _nodes.size(); i++) {
-    printVector(_nodes[i]->_keys, _nodes[i]->_numberKeys);
+    printVector(_nodes[i]->keys, _nodes[i]->numberOfKeys);
     printf("%s", (i < _nodes.size() - 1) ? "->" : "\n");
   }
 }
